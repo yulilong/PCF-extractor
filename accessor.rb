@@ -181,10 +181,16 @@ module Extractor
                    line2 = lines[i+2].strip();
                 end
                 #puts line
-                if (line.include? start_1 and line1.include? start_2 and line2.include? start_3)
-                   flag        = "open"
-                   index_start = i+3;
-                   index_end   = i+3;
+                if (flag == "close" and line.include? start_1 and line1.include? start_2)
+                    for j in (i+2 ... lines.size()-2) do
+                        line = lines[j].strip();
+                        if line.include? start_3
+                            flag        = "open"
+                            index_start = j+1;
+                            index_end   = i+3;
+                        end
+                    end
+                   
                 end
                 if (flag == "open" and line.include? finish_1 and line1.include? finish_2 and line2.include? finish_3)
                    #puts "OK1";
