@@ -1,1 +1,1 @@
-ruby,https://raw.githubusercontent.com/pivotal-cf/console-release/master/Gemfile.lock?token=AJOcPLFWstfjDLjPEUDr3uFZ0nZuU4EDks5VkloGwA%3D%3D
+ruby,https://raw.githubusercontent.com/pivotal-cf/console-release/master/Gemfile.lock?token=AJOcPFoe02xMYslz2yr8jv1yiVhCbr0Zks5Vo11UwA%3D%3D

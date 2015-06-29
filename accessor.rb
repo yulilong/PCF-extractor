@@ -27,9 +27,9 @@ module Extractor
                      file.write(content)                                         
                end
            end
-           p "fileContent memory size: #{ObjectSpace.memsize_of fileContent}"
+           #p "fileContent memory size: #{ObjectSpace.memsize_of fileContent}"
            fileContent = WeakRef.new(fileContent)
-           p "fileContent memory size: #{ObjectSpace.memsize_of fileContent}"
+           #p "fileContent memory size: #{ObjectSpace.memsize_of fileContent}"
       end 
       
       #description: license is N/A Move to the bottom
@@ -48,6 +48,7 @@ module Extractor
               end
               i = i + 1
           end
+          return input
       end
       
       def rule(string)

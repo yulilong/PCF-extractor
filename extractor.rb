@@ -208,7 +208,7 @@ module Extractor
         writeRubyFile(fail_file,@failureList)
       end
       #2015-07-06
-      sort(@licenseList,2)
+      @licenseList = sort(@licenseList,2)
       writeRubyFile(filename,@licenseList)
       #@gemfile[:gemfile]     = WeakRef.new(@gemfile[:gemfile])
 #      p "@licenseList memory size: #{ObjectSpace.memsize_of @licenseList}"
