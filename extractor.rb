@@ -69,7 +69,7 @@ module Extractor
       #p "githubURL : #{licenseUrlList[0]}"
       #page_size = 0
       getHtmlWithAnemone(licenseUrlList[0]) do |page|
-        puts "page memory size: #{ObjectSpace.memsize_of page}"
+        #puts "page memory size: #{ObjectSpace.memsize_of page}"
         if page.html?
           page.doc.xpath("//a[@title]").each do | title |
             if  title.css('/@title').map(&:value).to_s =~ /(copying|license){1}(.[a-zA-Z]{0,})?[^\w\s&quot;-]+/i  and title.css('/@title').map(&:value)[0].to_s[0] =~/c|l/i
@@ -191,6 +191,7 @@ module Extractor
          
       arr = @gemfile[:name].split('/');
       filename = "output/"+ arr[4] + "/";
+      fail_file = "fail-" + filename;
       for i in (5 ... arr.size()-1) do
         filename = filename + arr[i] + "-";
       end
@@ -202,14 +203,14 @@ module Extractor
         Dir.mkdir("./output/" + arr[4]);
       end
       if !@failureList.empty?
-        @licenseList << "---------Failed to extract name and version-----------\n"
-        @licenseList.concat(@failureList)
+        #@licenseList << "---------Failed to extract name and version-----------\n"
+        #@licenseList.concat(@failureList)
+        writeRubyFile(fail_file,@failureList)
       end
+      #2015-07-06
+      sort(@licenseList,2)
       writeRubyFile(filename,@licenseList)
       #@gemfile[:gemfile]     = WeakRef.new(@gemfile[:gemfile])
-      p "mark"
-      p "@gemfile memory size: #{ObjectSpace.memsize_of @gemfile}"
-      p "mark end"
 #      p "@licenseList memory size: #{ObjectSpace.memsize_of @licenseList}"
 #      p "@getGemLicenseTask memory size: #{ObjectSpace.memsize_of @getGemLicenseTask}"
 #      p "@getGemFileTask  memory size: #{ObjectSpace.memsize_of @getGemFileTask }"

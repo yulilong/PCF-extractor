@@ -24,14 +24,31 @@ module Extractor
       def writeRubyFile(filename,fileContent,mode = 'w')
            File.open(filename,mode) do | file |
                fileContent.each do | content |
-                     file.write(content) 
+                     file.write(content)                                         
                end
            end
            p "fileContent memory size: #{ObjectSpace.memsize_of fileContent}"
            fileContent = WeakRef.new(fileContent)
            p "fileContent memory size: #{ObjectSpace.memsize_of fileContent}"
       end 
-
+      
+      #description: license is N/A Move to the bottom
+      #input      : data 
+      #location   : license location
+      def sort(input,location)
+          i = 0;
+          j = input.size() - 1;
+          while(i != j)
+              if input[i][location] == "N/A"
+                 tmp = input[i]
+                 input[i] = input[j]
+                 input[j] = tmp
+                 i = i - 1
+                 j = j - 1
+              end
+              i = i + 1
+          end
+      end
       
       def rule(string)
           exact_name          = ''
@@ -187,7 +204,7 @@ module Extractor
                         if line.include? start_3
                             flag        = "open"
                             index_start = j+1;
-                            index_end   = i+3;
+                            index_end   = i+1;
                         end
                     end
                    

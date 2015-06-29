@@ -28,10 +28,10 @@ module Extractor
          queue_clear unless queue_empty?
          if mode == 1
            @queue << file
-           p "tsak + #{@queue}"
+           #p "tsak + #{@queue}"
            return
          end
-         self.send readMethodName.to_sym,file,@queue       
+         self.send readMethodName.to_sym,file,@queue     
      end
 
      def execution(exec_block)

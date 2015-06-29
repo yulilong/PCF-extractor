@@ -20,7 +20,6 @@ begin
             ex.setGemLicense
             #puts ex.getlicenseList
             ex.writeFile
-            ex.clear
             puts "one memory size: #{ObjectSpace.memsize_of ex}"#ObjectSpace获取对象
             ex = WeakRef.new(ex)
             ObjectSpace.garbage_collect
