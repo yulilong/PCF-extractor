@@ -35,11 +35,12 @@ module Extractor
       #description: license is N/A Move to the bottom
       #input      : data 
       #location   : license location
-      def sort(input,location)
+      #flag       : N/A
+      def sort(input,location,flag = "N/A")
           i = 0;
           j = input.size() - 1;
           while(i != j)
-              if input[i][location] == "N/A"
+              if input[i].split(',')[location] == flag
                  tmp = input[i]
                  input[i] = input[j]
                  input[j] = tmp
@@ -48,7 +49,6 @@ module Extractor
               end
               i = i + 1
           end
-          return input
       end
       
       def rule(string)

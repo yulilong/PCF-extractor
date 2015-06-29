@@ -17,7 +17,7 @@ module Extractor
       @getGemFileTask    = Task.new
       @getGemLicenseTask = Task.new(pool_num)
       @gemfile           = {}   #hash table
-      @licenseList       = []   #success List
+      @licenseList       = []   #success List string
       @failureList       = []   #failure List
     end
 
@@ -146,6 +146,8 @@ module Extractor
         url += "/versions/#{version}" unless version.eql? nil
         pair = getHtmlWithAnemone(url) do |page|
                license = page.doc.css("span.gem__ruby-version").css('p').inner_text
+               #如果有多个license 那么取第一个
+               license = license.split(',')[0]
                version = page.doc.css("i.page__subheading").inner_text
                [version,license]
         end
@@ -208,7 +210,8 @@ module Extractor
         writeRubyFile(fail_file,@failureList)
       end
       #2015-07-06
-      @licenseList = sort(@licenseList,2)
+      sort(@licenseList,2)
+      #p @licenseList
       writeRubyFile(filename,@licenseList)
       #@gemfile[:gemfile]     = WeakRef.new(@gemfile[:gemfile])
 #      p "@licenseList memory size: #{ObjectSpace.memsize_of @licenseList}"
