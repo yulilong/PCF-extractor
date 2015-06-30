@@ -8,6 +8,10 @@ GEM
       mini_portile (~> 0.6.0)
     inflecto (0.0.2)
     thread (0.2.0)
+    http_pa.rb (0.6.0)
+    htab123c.rb (0.9)
+    33.rb
+    44.rb
 
 PLATFORMS
   ruby

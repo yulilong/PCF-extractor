@@ -9,6 +9,8 @@ GEM
       mini_portile (~> 0.6.0)
     robotex (1.0.0)
     thread (0.2.0)
+    http_parser.rb (0.6.0)
+    htabc.rb (0.6.0)
 
 PLATFORMS
   ruby

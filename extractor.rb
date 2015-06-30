@@ -192,8 +192,9 @@ module Extractor
       #filename = "#{@gemfile[:name].split('/')[4]}_output.txt"
          
       arr = @gemfile[:name].split('/');
-      filename = "output/"+ arr[4] + "/";
-      fail_file = "fail-" + filename;
+      log = '#'
+      filename = "output/"+ arr[3] + log + arr[4] + "/";
+      fail_file = filename + "failureList";
       for i in (5 ... arr.size()-1) do
         filename = filename + arr[i] + "-";
       end
@@ -201,13 +202,13 @@ module Extractor
       if(!File.exist?("./output"))
         Dir.mkdir("./output");
       end
-      if(!File.exist?("./output/" + arr[4]))
-        Dir.mkdir("./output/" + arr[4]);
+      if(!File.exist?("./output/" + arr[3] + log + arr[4]))
+        Dir.mkdir("./output/" + arr[3] + log + arr[4]);
       end
       if !@failureList.empty?
         #@licenseList << "---------Failed to extract name and version-----------\n"
         #@licenseList.concat(@failureList)
-        writeRubyFile(fail_file,@failureList)
+        writeRubyFile(fail_file,@failureList,'a')
       end
       #2015-07-06
       sort(@licenseList,2)
