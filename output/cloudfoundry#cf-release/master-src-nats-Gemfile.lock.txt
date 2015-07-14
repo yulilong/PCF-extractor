@@ -1,0 +1,14 @@
+json_pure,1.8.1,Ruby,https://rubygems.org/gems/json_pure/versions/1.8.1
+rack,1.5.2,MIT,https://rubygems.org/gems/rack/versions/1.5.2
+json_pure,1.8.1,Ruby,https://rubygems.org/gems/json_pure/versions/1.8.1
+yajl-ruby,1.2.1,MIT,https://rubygems.org/gems/yajl-ruby/versions/1.2.1
+thin,1.6.0,Ruby,https://rubygems.org/gems/thin/versions/1.6.0
+thin,1.6.2,Ruby,https://rubygems.org/gems/thin/versions/1.6.2
+eventmachine,1.0.3,RUBY,https://rubygems.org/gems/eventmachine/versions/1.0.3,https://github.com/eventmachine/eventmachine/blob/master/LICENSE
+daemons,1.0.9,MIT,https://rubygems.org/gems/daemons/versions/1.0.9,https://github.com/thuehlinger/daemons/blob/master/LICENSE
+daemons,1.1.9,MIT,https://rubygems.org/gems/daemons/versions/1.1.9,https://github.com/thuehlinger/daemons/blob/master/LICENSE
+eventmachine,1.0.3,RUBY,https://rubygems.org/gems/eventmachine/versions/1.0.3,https://github.com/eventmachine/eventmachine/blob/master/LICENSE
+eventmachine,1.0.0,RUBY,https://rubygems.org/gems/eventmachine/versions/1.0.0,https://github.com/eventmachine/eventmachine/blob/master/LICENSE
+rack,1.0.0,MIT,https://rubygems.org/gems/rack/versions/1.0.0,https://github.com/rack/rack/blob/master/COPYING
+daemons,1.1.9,MIT,https://rubygems.org/gems/daemons/versions/1.1.9,https://github.com/thuehlinger/daemons/blob/master/LICENSE
+nats,0.5.0.beta.14,N/A,https://rubygems.org/gems/nats/versions/0.5.0.beta.14,https://github.com/derekcollison/nats

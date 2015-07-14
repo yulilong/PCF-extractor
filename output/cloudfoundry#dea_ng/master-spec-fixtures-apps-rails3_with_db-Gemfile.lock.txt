@@ -1,0 +1,85 @@
+tzinfo,0.3.26,MIT,https://rubygems.org/gems/tzinfo/versions/0.3.26,https://github.com/tzinfo/tzinfo/blob/master/LICENSE
+eventmachine,0.12.6,RUBY,https://rubygems.org/gems/eventmachine/versions/0.12.6,https://github.com/eventmachine/eventmachine/blob/master/LICENSE
+rack,1.0.0,MIT,https://rubygems.org/gems/rack/versions/1.0.0,https://github.com/rack/rack/blob/master/COPYING
+treetop,1.4.9,MIT,https://rubygems.org/gems/treetop/versions/1.4.9,https://github.com/cjheath/treetop/blob/master/LICENSE
+polyglot,0.3.1,MIT,https://rubygems.org/gems/polyglot/versions/0.3.1,https://github.com/cjheath/polyglot/blob/master/License.txt
+redis,2.2.0,MIT,https://rubygems.org/gems/redis/versions/2.2.0,https://github.com/redis/redis-rb/blob/master/LICENSE
+bundler,1.0.0,MIT,https://rubygems.org/gems/bundler/versions/1.0.0,https://github.com/bundler/bundler/blob/master/LICENSE.md
+daemons,1.0.9,MIT,https://rubygems.org/gems/daemons/versions/1.0.9,https://github.com/thuehlinger/daemons/blob/master/LICENSE
+rack,1.0.0,MIT,https://rubygems.org/gems/rack/versions/1.0.0,https://github.com/rack/rack/blob/master/COPYING
+rack,1.0.0,MIT,https://rubygems.org/gems/rack/versions/1.0.0,https://github.com/rack/rack/blob/master/COPYING
+rack,1.2.2,MIT,https://rubygems.org/gems/rack/versions/1.2.2,https://github.com/rack/rack/blob/master/COPYING
+polyglot,0.3.1,MIT,https://rubygems.org/gems/polyglot/versions/0.3.1,https://github.com/cjheath/polyglot/blob/master/License.txt
+mysql2,0.3.11,MIT,https://rubygems.org/gems/mysql2/versions/0.3.11,https://github.com/brianmario/mysql2/blob/master/LICENSE
+treetop,1.4.8,MIT,https://rubygems.org/gems/treetop/versions/1.4.8,https://github.com/cjheath/treetop/blob/master/LICENSE
+mongo,2.0.6,Apache License Version 2.0,https://rubygems.org/gems/mongo
+eventmachine,0.12.10,RUBY,https://rubygems.org/gems/eventmachine/versions/0.12.10,https://github.com/eventmachine/eventmachine/blob/master/LICENSE
+tzinfo,0.3.23,MIT,https://rubygems.org/gems/tzinfo/versions/0.3.23,https://github.com/tzinfo/tzinfo/blob/master/LICENSE
+daemons,1.1.2,MIT,https://rubygems.org/gems/daemons/versions/1.1.2,https://github.com/thuehlinger/daemons/blob/master/LICENSE
+carrot,0.8.1,MIT,https://rubygems.org/gems/carrot/versions/0.8.1,https://github.com/famoseagle/carrot/blob/master/LICENSE
+mime-types,2.6.1,MIT,https://rubygems.org/gems/mime-types
+mime-types,2.6.1,MIT,https://rubygems.org/gems/mime-types
+tzinfo,0.3.23,MIT,https://rubygems.org/gems/tzinfo/versions/0.3.23,https://github.com/tzinfo/tzinfo/blob/master/LICENSE
+rack,1.2.1,MIT,https://rubygems.org/gems/rack/versions/1.2.1,https://github.com/rack/rack/blob/master/COPYING
+abstract,1.0.0,N/A,https://rubygems.org/gems/abstract/versions/1.0.0,Not Found Github Url
+erubis,2.6.6,N/A,https://rubygems.org/gems/erubis/versions/2.6.6,Not Found Github Url
+builder,2.1.2,N/A,https://rubygems.org/gems/builder/versions/2.1.2,https://github.com/jimweirich/builder
+arel,2.0.2,N/A,https://rubygems.org/gems/arel/versions/2.0.2,https://github.com/rails/arel
+activesupport,3.0.6,N/A,https://rubygems.org/gems/activesupport/versions/3.0.6,Not Found Github Url
+bson,1.2.4,N/A,https://rubygems.org/gems/bson/versions/1.2.4,Not Found Github Url
+activesupport,2.3.6,N/A,https://rubygems.org/gems/activesupport/versions/2.3.6,Not Found Github Url
+arel,2.0.9,N/A,https://rubygems.org/gems/arel/versions/2.0.9,https://github.com/rails/arel
+i18n,0.5.0,N/A,https://rubygems.org/gems/i18n/versions/0.5.0,https://github.com/svenfuchs/i18n
+mongo,1.2.4,N/A,https://rubygems.org/gems/mongo/versions/1.2.4,https://www.github.com/mongodb/mongo-ruby-driver
+activemodel,3.0.6,N/A,https://rubygems.org/gems/activemodel/versions/3.0.6,Not Found Github Url
+bson,1.2.4,N/A,https://rubygems.org/gems/bson/versions/1.2.4,Not Found Github Url
+activesupport,3.0.6,N/A,https://rubygems.org/gems/activesupport/versions/3.0.6,Not Found Github Url
+mongo_mapper,0.9.0,N/A,https://rubygems.org/gems/mongo_mapper/versions/0.9.0,Not Found Github Url
+json,1.5.1,N/A,https://rubygems.org/gems/json/versions/1.5.1,https://flori.github.com/json/
+activemodel,3.0.0,N/A,https://rubygems.org/gems/activemodel/versions/3.0.0,Not Found Github Url
+mail,2.2.15,N/A,https://rubygems.org/gems/mail/versions/2.2.15,https://github.com/mikel/mail
+activesupport,3.0.0,N/A,https://rubygems.org/gems/activesupport/versions/3.0.0,Not Found Github Url
+pg,0.11.0,N/A,https://rubygems.org/gems/pg/versions/0.11.0,Not Found Github Url
+plucky,0.3.7,N/A,https://rubygems.org/gems/plucky/versions/0.3.7,https://jnunemaker.github.com/plucky/
+plucky,0.3.6,N/A,https://rubygems.org/gems/plucky/versions/0.3.6,https://jnunemaker.github.com/plucky/
+activeresource,3.0.6,N/A,https://rubygems.org/gems/activeresource/versions/3.0.6,Not Found Github Url
+activesupport,3.0.6,N/A,https://rubygems.org/gems/activesupport/versions/3.0.6,Not Found Github Url
+activemodel,3.0.6,N/A,https://rubygems.org/gems/activemodel/versions/3.0.6,Not Found Github Url
+i18n,0.4.0,N/A,https://rubygems.org/gems/i18n/versions/0.4.0,https://github.com/svenfuchs/i18n
+mail,2.2.15,N/A,https://rubygems.org/gems/mail/versions/2.2.15,https://github.com/mikel/mail
+builder,2.1.2,N/A,https://rubygems.org/gems/builder/versions/2.1.2,https://github.com/jimweirich/builder
+actionmailer,3.0.6,N/A,https://rubygems.org/gems/actionmailer/versions/3.0.6,Not Found Github Url
+rack-mount,0.6.14,N/A,https://rubygems.org/gems/rack-mount/versions/0.6.14,https://github.com/josh/rack-mount
+i18n,0.5.0,N/A,https://rubygems.org/gems/i18n/versions/0.5.0,https://github.com/svenfuchs/i18n
+actionpack,3.0.6,N/A,https://rubygems.org/gems/actionpack/versions/3.0.6,Not Found Github Url
+activerecord,3.0.6,N/A,https://rubygems.org/gems/activerecord/versions/3.0.6,Not Found Github Url
+rack-test,0.5.7,N/A,https://rubygems.org/gems/rack-test/versions/0.5.7,https://github.com/brynary/rack-test
+activeresource,3.0.6,N/A,https://rubygems.org/gems/activeresource/versions/3.0.6,Not Found Github Url
+activesupport,3.0.6,N/A,https://rubygems.org/gems/activesupport/versions/3.0.6,Not Found Github Url
+railties,3.0.6,N/A,https://rubygems.org/gems/railties/versions/3.0.6,Not Found Github Url
+railties,3.0.6,N/A,https://rubygems.org/gems/railties/versions/3.0.6,Not Found Github Url
+actionpack,3.0.6,N/A,https://rubygems.org/gems/actionpack/versions/3.0.6,Not Found Github Url
+activesupport,3.0.6,N/A,https://rubygems.org/gems/activesupport/versions/3.0.6,Not Found Github Url
+rails,3.0.6,N/A,https://rubygems.org/gems/rails/versions/3.0.6,https://github.com/rails/rails
+thin,1.2.11,N/A,https://rubygems.org/gems/thin/versions/1.2.11,Not Found Github Url
+builder,2.1.2,N/A,https://rubygems.org/gems/builder/versions/2.1.2,https://github.com/jimweirich/builder
+rack-test,0.5.7,N/A,https://rubygems.org/gems/rack-test/versions/0.5.7,https://github.com/brynary/rack-test
+rake,0.8.7,N/A,https://rubygems.org/gems/rake/versions/0.8.7,https://github.com/ruby/rake
+thor,0.14.4,N/A,https://rubygems.org/gems/thor/versions/0.14.4,https://github.com/wycats/thor
+i18n,0.5.0,N/A,https://rubygems.org/gems/i18n/versions/0.5.0,https://github.com/svenfuchs/i18n
+rake,0.8.7,N/A,https://rubygems.org/gems/rake/versions/0.8.7,https://github.com/ruby/rake
+rack-mount,0.6.14,N/A,https://rubygems.org/gems/rack-mount/versions/0.6.14,https://github.com/josh/rack-mount
+thor,0.14.6,N/A,https://rubygems.org/gems/thor/versions/0.14.6,https://github.com/wycats/thor
+activesupport,3.0.6,N/A,https://rubygems.org/gems/activesupport/versions/3.0.6,Not Found Github Url
+activesupport,3.0.6,N/A,https://rubygems.org/gems/activesupport/versions/3.0.6,Not Found Github Url
+activerecord,3.0.6,N/A,https://rubygems.org/gems/activerecord/versions/3.0.6,Not Found Github Url
+actionpack,3.0.6,N/A,https://rubygems.org/gems/actionpack/versions/3.0.6,Not Found Github Url
+activemodel,3.0.6,N/A,https://rubygems.org/gems/activemodel/versions/3.0.6,Not Found Github Url
+erubis,2.6.6,N/A,https://rubygems.org/gems/erubis/versions/2.6.6,Not Found Github Url
+actionpack,3.0.6,N/A,https://rubygems.org/gems/actionpack/versions/3.0.6,Not Found Github Url
+actionmailer,3.0.6,N/A,https://rubygems.org/gems/actionmailer/versions/3.0.6,Not Found Github Url
+activemodel,3.0.6,N/A,https://rubygems.org/gems/activemodel/versions/3.0.6,Not Found Github Url
+abstract,1.0.0,N/A,https://rubygems.org/gems/abstract/versions/1.0.0,Not Found Github Url
+mime-types,1.16
+mime-types,1.16
+mongo,1.1

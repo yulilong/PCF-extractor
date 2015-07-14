@@ -1,0 +1,9 @@
+tilt,1.3.4,MIT,https://rubygems.org/gems/tilt/versions/1.3.4
+rack,1.6.4,MIT,https://rubygems.org/gems/rack
+tilt,1.4.1,MIT,https://rubygems.org/gems/tilt/versions/1.4.1
+rack,1.5.2,MIT,https://rubygems.org/gems/rack/versions/1.5.2
+sinatra,1.4.3,MIT,https://rubygems.org/gems/sinatra/versions/1.4.3,https://github.com/sinatra/sinatra/blob/master/LICENSE
+rack,1.4.0,MIT,https://rubygems.org/gems/rack/versions/1.4.0,https://github.com/rack/rack/blob/master/COPYING
+rack-protection,1.5.0,N/A,https://rubygems.org/gems/rack-protection/versions/1.5.0,https://github.com/rkh/rack-protection
+rack-protection,1.4.0,N/A,https://rubygems.org/gems/rack-protection/versions/1.4.0,https://github.com/rkh/rack-protection
+rack,

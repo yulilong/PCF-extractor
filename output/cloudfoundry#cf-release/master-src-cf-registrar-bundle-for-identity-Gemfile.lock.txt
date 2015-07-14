@@ -1,0 +1,38 @@
+cf-registrar,1.0.3,Apache,https://rubygems.org/gems/cf-registrar/versions/1.0.3
+cf-message-bus,0.3.1,Apache,https://rubygems.org/gems/cf-message-bus/versions/0.3.1
+json_pure,1.8.1,Ruby,https://rubygems.org/gems/json_pure/versions/1.8.1
+msgpack,0.5.9,Apache 2.0,https://rubygems.org/gems/msgpack/versions/0.5.9
+yajl-ruby,1.2.1,MIT,https://rubygems.org/gems/yajl-ruby
+nats,0.5.0.beta.16,MIT,https://rubygems.org/gems/nats/versions/0.5.0.beta.16
+nats,0.5.0.beta.16,MIT,https://rubygems.org/gems/nats/versions/0.5.0.beta.16
+rack,1.0.0,MIT,https://rubygems.org/gems/rack/versions/1.0.0,https://github.com/rack/rack/blob/master/COPYING
+yajl-ruby,1.0.0,MIT,https://rubygems.org/gems/yajl-ruby/versions/1.0.0,https://github.com/brianmario/yajl-ruby/blob/master/LICENSE
+eventmachine,1.0.0,RUBY,https://rubygems.org/gems/eventmachine/versions/1.0.0,https://github.com/eventmachine/eventmachine/blob/master/LICENSE
+json_pure,1.8.1,Ruby,https://rubygems.org/gems/json_pure/versions/1.8.1
+thin,1.6.3,GPLv2+,https://rubygems.org/gems/thin/versions/1.6.3
+rack,1.5.2,MIT,https://rubygems.org/gems/rack/versions/1.5.2
+thin,1.6.3,GPLv2+,https://rubygems.org/gems/thin/versions/1.6.3
+daemons,1.0.9,MIT,https://rubygems.org/gems/daemons/versions/1.0.9,https://github.com/thuehlinger/daemons/blob/master/LICENSE
+cf-message-bus,0.3.3,Apache,https://rubygems.org/gems/cf-message-bus
+yajl-ruby,1.2.1,MIT,https://rubygems.org/gems/yajl-ruby/versions/1.2.1
+eventmachine,1.0.0,RUBY,https://rubygems.org/gems/eventmachine/versions/1.0.0,https://github.com/eventmachine/eventmachine/blob/master/LICENSE
+eventmachine,1.0.3,RUBY,https://rubygems.org/gems/eventmachine/versions/1.0.3,https://github.com/eventmachine/eventmachine/blob/master/LICENSE
+eventmachine,1.0.0,RUBY,https://rubygems.org/gems/eventmachine/versions/1.0.0,https://github.com/eventmachine/eventmachine/blob/master/LICENSE
+daemons,1.1.9,MIT,https://rubygems.org/gems/daemons/versions/1.1.9,https://github.com/thuehlinger/daemons/blob/master/LICENSE
+daemons,1.1.9,MIT,https://rubygems.org/gems/daemons/versions/1.1.9,https://github.com/thuehlinger/daemons/blob/master/LICENSE
+eventmachine,1.0.3,RUBY,https://rubygems.org/gems/eventmachine/versions/1.0.3,https://github.com/eventmachine/eventmachine/blob/master/LICENSE
+yajl-ruby,1.0.0,MIT,https://rubygems.org/gems/yajl-ruby/versions/1.0.0,https://github.com/brianmario/yajl-ruby/blob/master/LICENSE
+fluent-logger,0.4.9,N/A,https://rubygems.org/gems/fluent-logger/versions/0.4.9,https://github.com/fluent/fluent-logger-ruby/blob/master/COPYING
+msgpack,0.4.4,N/A,https://rubygems.org/gems/msgpack/versions/0.4.4,https://github.com/msgpack/msgpack-ruby/commit/fffaebcd5d28819bad0ecfe2f3298d2b7bc29e5f
+fluent-logger,0.5.0,N/A,https://rubygems.org/gems/fluent-logger,https://github.com/fluent/fluent-logger-ruby/blob/master/COPYING
+vcap-concurrency,0.1.0,N/A,https://rubygems.org/gems/vcap-concurrency/versions/0.1.0,Not Found Github Url
+steno,1.2.4,N/A,https://rubygems.org/gems/steno/versions/1.2.4,Not Found Github Url
+steno,1.2.4,N/A,https://rubygems.org/gems/steno,Not Found Github Url
+vcap-concurrency,0.1.0,N/A,https://rubygems.org/gems/vcap-concurrency,Not Found Github Url
+vcap-concurrency,0.1.0,N/A,https://rubygems.org/gems/vcap-concurrency,Not Found Github Url
+vcap-concurrency,
+yajl-ruby,
+cf-message-bus,0.3.0
+steno,
+vcap-concurrency,
+fluent-logger,

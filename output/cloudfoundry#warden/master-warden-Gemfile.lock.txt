@@ -1,0 +1,31 @@
+multi_xml,0.5.5,MIT,https://rubygems.org/gems/multi_xml
+multi_json,1.11.2,MIT,https://rubygems.org/gems/multi_json
+rack,1.6.4,MIT,https://rubygems.org/gems/rack
+rspec-mocks,2.11.1,MIT,https://rubygems.org/gems/rspec-mocks/versions/2.11.1,https://github.com/rspec/rspec-mocks/blob/master/License.txt
+rspec-expectations,2.11.1,MIT,https://rubygems.org/gems/rspec-expectations/versions/2.11.1,https://github.com/rspec/rspec-expectations/blob/master/License.txt
+rspec-mocks,2.11.0,MIT,https://rubygems.org/gems/rspec-mocks/versions/2.11.0,https://github.com/rspec/rspec-mocks/blob/master/License.txt
+multi_json,1.3.6,MIT,https://rubygems.org/gems/multi_json/versions/1.3.6,https://github.com/intridea/multi_json/blob/master/LICENSE.md
+hashie,1.2.0,MIT,https://rubygems.org/gems/hashie/versions/1.2.0,https://github.com/intridea/hashie/blob/master/LICENSE
+yajl-ruby,1.2.1,MIT,https://rubygems.org/gems/yajl-ruby/versions/1.2.1
+rspec-core,2.11.0,MIT,https://rubygems.org/gems/rspec-core/versions/2.11.0,https://github.com/rspec/rspec-core/blob/master/License.txt
+rspec-expectations,2.11.0,MIT,https://rubygems.org/gems/rspec-expectations/versions/2.11.0,https://github.com/rspec/rspec-expectations/blob/master/License.txt
+multi_xml,0.5.1,MIT,https://rubygems.org/gems/multi_xml/versions/0.5.1,https://github.com/sferik/multi_xml/blob/master/LICENSE.md
+beefcake,0.3.7,MIT,https://rubygems.org/gems/beefcake/versions/0.3.7,https://github.com/protobuf-ruby/beefcake/blob/master/LICENSE
+eventmachine,1.0.3,RUBY,https://rubygems.org/gems/eventmachine/versions/1.0.3,https://github.com/eventmachine/eventmachine/blob/master/LICENSE
+pidfile,0.3.0,MIT,https://rubygems.org/gems/pidfile/versions/0.3.0,https://github.com/samullen/pidfile/blob/master/LICENSE
+rack,1.0.0,MIT,https://rubygems.org/gems/rack/versions/1.0.0,https://github.com/rack/rack/blob/master/COPYING
+hashie,1.2.0,MIT,https://rubygems.org/gems/hashie/versions/1.2.0,https://github.com/intridea/hashie/blob/master/LICENSE
+rack,1.4.1,MIT,https://rubygems.org/gems/rack/versions/1.4.1,https://github.com/rack/rack/blob/master/COPYING
+grape,0.2.1,MIT,https://rubygems.org/gems/grape/versions/0.2.1,https://github.com/intridea/grape/blob/master/LICENSE
+rspec-core,2.11.0,MIT,https://rubygems.org/gems/rspec-core/versions/2.11.0,https://github.com/rspec/rspec-core/blob/master/License.txt
+posix-spawn,0.3.6,N/A,https://rubygems.org/gems/posix-spawn/versions/0.3.6,https://github.com/rtomayko/posix-spawn/blob/master/COPYING
+diff-lcs,1.1.3,N/A,https://rubygems.org/gems/diff-lcs/versions/1.1.3,Not Found Github Url
+rake,0.9.2.2,N/A,https://rubygems.org/gems/rake/versions/0.9.2.2,https://github.com/ruby/rake
+rspec,2.11.0,N/A,https://rubygems.org/gems/rspec/versions/2.11.0,https://github.com/rspec
+rack-mount,0.8.3,N/A,https://rubygems.org/gems/rack-mount,https://github.com/josh/rack-mount
+rack-mount,0.8.3,N/A,https://rubygems.org/gems/rack-mount/versions/0.8.3,https://github.com/josh/rack-mount
+diff-lcs,1.1.3,N/A,https://rubygems.org/gems/diff-lcs/versions/1.1.3,Not Found Github Url
+multi_json,
+multi_xml,
+rack,
+rack-mount,
