@@ -5,7 +5,6 @@ ruby,https://raw.githubusercontent.com/cloudfoundry/cf-acceptance-tests/master/a
 ruby,https://raw.githubusercontent.com/cloudfoundry/cf-acceptance-tests/master/assets/ruby_simple/Gemfile.lock
 ruby,https://raw.githubusercontent.com/cloudfoundry/cf-acceptance-tests/master/assets/service_broker/Gemfile.lock
 ruby,https://raw.githubusercontent.com/cloudfoundry/cf-acceptance-tests/master/assets/loggregator-load-generator/Gemfile.lock
-ruby,https://raw.githubusercontent.com/cloudfoundry/cf-smoke-tests/master/assets/ruby_simple/Gemfile.lock
 ruby,https://raw.githubusercontent.com/cloudfoundry/collector/master/Gemfile.lock
 ruby,https://raw.githubusercontent.com/cloudfoundry/warden/master/warden/Gemfile.lock
 ruby,https://raw.githubusercontent.com/cloudfoundry/cf-release/master/src/nats/Gemfile.lock

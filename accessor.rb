@@ -32,6 +32,53 @@ module Extractor
            #p "fileContent memory size: #{ObjectSpace.memsize_of fileContent}"
       end 
       
+      #2015-07-13
+      #url    :gemfile.lock link,
+      #choice : 
+      def path(url,choice)
+      
+        if(!File.exist?("./output"))
+           Dir.mkdir("./output");
+        end 
+        arr = url.split('/')
+        filename = "output/"+ arr[3] + '#' + arr[4];
+        if(!File.exist?(filename))
+            Dir.mkdir(filename) #if folder not exist,then creat it.
+        end
+        filename = filename + "/";
+        log = filename + "log";
+        fail_file = filename + "failureList";
+        if(!File.exist?(log))
+            Dir.mkdir(log)
+        end
+        log = log + "/";
+        for i in (5 ... arr.size()-1) do
+            filename = filename + arr[i] + "-";
+            log  = log + arr[i] + "-";
+        end
+        filename = filename + arr[arr.size()-1] + ".txt";
+        log = log + arr[arr.size()-1]+ '.log'
+        if choice == 1
+            return filename
+        elsif choice == 2
+            return log
+        elsif choice == 3
+            return fail_file
+        end
+      end
+      
+      #2015-07-13
+      #url  :gemfile.lock link,
+      #date :gemfile.lock data
+      def output_gemfilelock(url,data)
+        log = path(url,2);
+        File.open(log,'w') do | file |
+            data.each do | content |
+                file.write(content + "\n")                                         
+            end
+        end
+      end
+      
       #description: license is N/A Move to the bottom
       #input      : data 
       #location   : license location
@@ -40,7 +87,7 @@ module Extractor
           i = 0;
           j = input.size() - 1;
           while(i != j)
-              if input[i].split(',')[location] == flag
+              if input[i] != nil and input[i].split(',')[location] == flag
                  tmp = input[i]
                  input[i] = input[j]
                  input[j] = tmp
@@ -50,6 +97,167 @@ module Extractor
               i = i + 1
           end
       end
+      #2015-07-13
+      def getLicenseFromGithub(url)
+          licenseUrlList ||= []
+          licenseName      = ""
+          licenseUrl       = ""
+          licenseText      = ""
+
+          getHtmlWithAnemone(url) do |page|
+
+            if page.html?
+                page.doc.css('a[rel=nofollow]').each do | text |
+                  hrefValue = text.css("/@href").map(&:value)[0]
+                  licenseUrlList << hrefValue if text.inner_text == 'Homepage'    and hrefValue =~ /github.com/
+                  licenseUrlList << hrefValue if text.inner_text == 'Source Code' and hrefValue =~ /github.com/
+                  text = WeakRef.new(text)
+                end
+            end
+          page = WeakRef.new(page)
+          #anemone = WeakRef.new(anemone)
+          end
+          return nil if licenseUrlList.empty?
+          #p "++++++++++++++++++++++"
+          unless licenseUrlList[0] =~ /https/
+            licenseUrlList[0].gsub!(/http/,'https')
+          end
+          #p "githubURL : #{licenseUrlList[0]}"
+          #page_size = 0
+          getHtmlWithAnemone(licenseUrlList[0]) do |page|
+            #puts "page memory size: #{ObjectSpace.memsize_of page}"
+            if page.html?
+              page.doc.xpath("//a[@title]").each do | title |
+                if  title.css('/@title').map(&:value).to_s =~ /(copying|license){1}(.[a-zA-Z]{0,})?[^\w\s&quot;-]+/i  and title.css('/@title').map(&:value)[0].to_s[0] =~/c|l/i
+                  licenseName   =  title.css('/@title').map(&:value)[0]
+                  licenseName ||= ""
+                  #p "licenseName : #{licenseName}"
+                end
+              end
+                unless licenseName.empty?
+                  licenseUrl   = page.doc.css("a[title='#{licenseName}']").css('/@href').map(&:value)[0]
+                  licenseUrl ||= ""
+                  break
+                end
+                #p "licenseUrl : #{licenseUrl}"
+            else
+              #p "Not get license info , not a html page ?"
+              #p "......................"
+            end
+            page = WeakRef.new(page)
+            #puts "page memory size: #{ObjectSpace.memsize_of page}"
+          end
+
+          if !licenseUrl.empty?
+            licenseUrl = "https://github.com" + licenseUrl
+            license    = nil
+            #return licenseUrl,""
+            #p licenseUrl
+
+            getHtmlWithAnemone(licenseUrl) do |page|
+              if page.html?
+                rawLicenseUrl = page.doc.css('a#raw-url').css('/@href').map(&:value)[0]
+                rawLicenseUrl ||= ""
+                if !rawLicenseUrl.empty?
+                  rawLicenseUrl = "https://github.com" + rawLicenseUrl
+                  #p "rawLicenseUrl : #{rawLicenseUrl}"
+                  licenseRaw    = getHtmlWithAnemone(rawLicenseUrl) { |page|  page.doc.css('a').css('/@href').map(&:value)[0]  }
+                  #"<html><body>You are being <a href=\"https://raw.githubusercontent.com/sporkmonger/addressable/master/LICENSE.txt\">redirected</a>.</body></html>"
+                  licenseRaw ||= ""
+                  licenseText   = getHtmlWithAnemone(licenseRaw) { |page| page.body  } unless licenseRaw.empty?
+                  licenseText ||= ""
+                  #puts "licenseText memory size: #{ObjectSpace.memsize_of licenseText}"
+                  license       = ex_word(licenseText.gsub(/\\n/,' ').gsub(/\\t/,' ')) unless licenseText.empty?
+                  #licenseText = WeakRef.new(licenseText)
+                  #GC.start
+                  #p "License : #{license}"
+                  #p "----------------------------"
+                  if license =="ERROR"
+                    license = nil
+                  end
+                end
+              end
+
+            #page = WeakRef.new(page)
+            end #end block
+
+            return licenseUrl,license || ""#数组
+          end
+          return licenseUrlList[0],""
+      end#def getLicenseFromGithub(url)  end
+      #2015-07-13
+      def rubygems(ruby_pair)
+        ruby_name        = ruby_pair.strip.split(',')[0]
+        version          = ruby_pair.strip.split(',')[1]
+        if !version.eql? nil and version.count('.')  == 1
+          version += '.0'
+        end
+        url = "https://rubygems.org/gems/"
+        url += "#{ruby_name}"         unless ruby_name.empty?
+        url += "/versions/#{version}" unless version.eql? nil
+        
+        pair = getHtmlWithAnemone(url) do |page|
+               license = page.doc.css("span.gem__ruby-version").css('p').inner_text
+               #如果有多个license 那么取第一个
+               license = license.split(',')[0]
+               version = page.doc.css("i.page__subheading").inner_text
+               [version,license]
+        end
+        
+        unless pair.eql? nil
+          if pair[1] == 'N/A'
+            licenseInfo = ""
+            licenseUrl  = getLicenseFromGithub(url)
+            if licenseUrl.eql? nil#没有分配内存
+              licenseInfo = "Not Found Github Url"
+            elsif !licenseUrl.empty?
+              licenseInfo = licenseUrl[0]
+              pair[1]     = licenseUrl[1] unless licenseUrl[1].empty?
+            end
+            return "#{ruby_name},#{pair[0]},#{pair[1]},#{url},#{licenseInfo}\n"
+            
+          else
+            return "#{ruby_name},#{pair[0]},#{pair[1]},#{url}\n"
+          end
+        else
+          rubygems("#{ruby_name},");#内部调用类似于循环
+          #end
+        end #end unless
+        
+      end 
+      #description: delete repeat pacakge
+      #ruby_pair  : name and version
+      def delete_repeat(ruby_pair)
+        for i in (0 ... ruby_pair.size) do
+            for j in (i+1 ... ruby_pair.size) do
+                #strip:删除头部和尾部的所有空白字符。空白字符是指" \t\r\n\f\v"。
+                if ruby_pair[i].strip == ruby_pair[j].strip 
+                    ruby_pair[j] = "delete"
+                end
+            end
+        end
+      end
+      #description: 把没找到的放在后面
+      def append(arr, bb)
+        for i in (0 ... arr.size) do
+        version = arr[i].strip.split(',')[1]
+        if !version.eql? nil and version.count('.')  == 1
+          version += '.0'
+        end
+            for j in (0 ... bb.size) do
+                if arr[i].strip.split(',')[0] == bb[j].strip.split(',')[0] and version == bb[j].strip.split(',')[1]
+                    arr[i] = "11111111"
+                    break
+                end
+            end
+        end
+        for i in (0 ... arr.size) do
+            if arr[i] != "11111111"
+                bb << arr[i] + "\n"
+            end
+        end
+      end
+      
       
       def rule(string)
           exact_name          = ''

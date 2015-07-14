@@ -1,11 +1,13 @@
 require './accessor'
+require './utils'
 require 'thread/pool'
 module Extractor
   class Task
-     include Accessor
+     include Accessor,Utils
    
      def initialize pool_num = 1
          @queue   = []
+         @licenseList       = []   #success List string
          @pool = Thread.pool(pool_num)
      end
 
@@ -15,6 +17,14 @@ module Extractor
 
      def queue_clear
          @queue.clear 
+     end
+     
+     def get_queue()
+        return @queue
+     end
+     
+     def get_licenselist()
+        return @licenseList
      end
 
      def pool_shutdown
@@ -31,12 +41,13 @@ module Extractor
            #p "tsak + #{@queue}"
            return
          end
-         self.send readMethodName.to_sym,file,@queue     
+         p "size : #{@queue.size}"
+         self.send readMethodName.to_sym,file,@queue 
      end
 
-     def execution(exec_block)
-       
+     def execution(exec_block,flag = 0)
        @queue.each do | task |
+            #exec_block.call(task)
          @pool.process {
            exec_block.call(task)
            sleep 1
@@ -45,37 +56,38 @@ module Extractor
        @pool.wait(:done)
        exec_block = WeakRef.new(exec_block)
      end #execution
-=begin  so many threads created for this approach!
-         @queue.each do | task |
+     
+     
+     
+     def execut()
+        @queue.each do | task |
+            @pool.process {
+                @licenseList << rubygems(task)
+                sleep 1
+            }
+        end
+        #return @licenseList
+     end
+     
 
-            @threads << Thread.new do
-                exec_block.call(task)
-            end
-         end
-         @threads.each { | t | t.join }
-=end
-=begin
-       for i in (0...10) do
+  end #class Task end
+end #module Extractor end
 
-         Thread.new(i) do | i |
-           @queue.each_with_index do | task,index |
-             if index % 10 == i
-              exec_block.call(task)
-             end
-         end
-       end
-         end
-=end
-=begin
-         @pool.process {
-         #  sleep 2
-           p "in thread pool"
-           @queue.each do | task |
-             exec_block.call(task)
-           end
-         }
-         @pool.shutdown
-=end
 
-  end
-end 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

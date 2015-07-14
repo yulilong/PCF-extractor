@@ -19,6 +19,7 @@ module Extractor
       @gemfile           = {}   #hash table
       @licenseList       = []   #success List string
       @failureList       = []   #failure List
+      @gemfileList       = Array.new();
     end
 
     
@@ -29,8 +30,8 @@ module Extractor
         gemfile      = getHtmlWithAnemone(url) { |page| page.body } #嵌入一个快
         #
         raise Error.new("Page #{url} that you're visiting is not found.") if gemfile.eql? nil
-        @gemfile[:name]    = url
-        @gemfile[:gemfile] = gemfile
+        @gemfile[:name]    = url#raw gemfile.lock link
+        @gemfile[:gemfile] = gemfile# gemfile.lock content
         #gemfile.replace("")
       end #end Proc
       @getGemFileTask.execution(p)
@@ -58,8 +59,11 @@ module Extractor
               hrefValue = text.css("/@href").map(&:value)[0]
               licenseUrlList << hrefValue if text.inner_text == 'Homepage'    and hrefValue =~ /github.com/
               licenseUrlList << hrefValue if text.inner_text == 'Source Code' and hrefValue =~ /github.com/
+              text = WeakRef.new(text)
             end
         end
+      page = WeakRef.new(page)
+      #anemone = WeakRef.new(anemone)
       end
       return nil if licenseUrlList.empty?
       #p "++++++++++++++++++++++"
@@ -84,12 +88,11 @@ module Extractor
               break
             end
             #p "licenseUrl : #{licenseUrl}"
-
         else
           #p "Not get license info , not a html page ?"
           #p "......................"
         end
-        #page = WeakRef.new(page)
+        page = WeakRef.new(page)
         #puts "page memory size: #{ObjectSpace.memsize_of page}"
       end
 
@@ -123,6 +126,7 @@ module Extractor
             end
           end
 
+        #page = WeakRef.new(page)
         end #end block
 
         return licenseUrl,license || ""#数组
@@ -135,6 +139,7 @@ module Extractor
 
 
       p = Proc.new do |  ruby_pair |
+        #p ruby_pair
         ruby_name        = ruby_pair.strip.split(',')[0]
         version          = ruby_pair.strip.split(',')[1]
         #"1.0" => "1.0.0"  Completing
@@ -144,12 +149,26 @@ module Extractor
         url = "https://rubygems.org/gems/"
         url += "#{ruby_name}"         unless ruby_name.empty?
         url += "/versions/#{version}" unless version.eql? nil
+        
         pair = getHtmlWithAnemone(url) do |page|
+                p "url:#{url}"
+                if page == nil
+                    p "page == nil"
+                end
+                if page.doc == nil
+                    p "page.doc == nil"
+                    p page
+                    page = getHtmlWithAnemone(url)
+                end
+                if page.doc.css == nil
+                    p "page.doc.css == nil"
+                end
                license = page.doc.css("span.gem__ruby-version").css('p').inner_text
                #如果有多个license 那么取第一个
                license = license.split(',')[0]
                version = page.doc.css("i.page__subheading").inner_text
                [version,license]
+        #page = WeakRef.new(page)
         end
 
 
@@ -170,6 +189,7 @@ module Extractor
           else
             @licenseList << "#{ruby_name},#{pair[0]},#{pair[1]},#{url}\n"
           end
+          #p "#{ruby_name},#{pair[0]},#{pair[1]},#{url}\n"
         else
           #licenseList << "#{ruby_name},#{version},#{url},Not Found The Page\n"
           #Adjust searching depth of the URL
@@ -179,32 +199,29 @@ module Extractor
           p.call("#{ruby_name},")#p上边的P 内部调用类似于循环
           #end
         end #end unless
+        
       end #end Proc
 
       @failureList = @getGemLicenseTask.importQueue(@gemfile[:gemfile],:extract_ruby)
       @failureList ||= []
-      @getGemLicenseTask.execution(p)
+      @gemfileList = @getGemLicenseTask.get_queue();# no have "\n"
+      output_gemfilelock(@gemfile[:name],@gemfileList);
+      #@getGemLicenseTask.execution(p)
+      @getGemLicenseTask.execut();
       @getGemLicenseTask.pool_shutdown
+      @licenseList = @getGemLicenseTask.get_licenselist()
+      #p "@gemfileList == #{@gemfileList.size}"
+      #p "@failureList : #{@failureList.size}"
+      #p "@licenseList : #{@licenseList.size}"
+      
     end
 
     def writeFile
       #Write into file
       #filename = "#{@gemfile[:name].split('/')[4]}_output.txt"
-         
-      arr = @gemfile[:name].split('/');
-      log = '#'
-      filename = "output/"+ arr[3] + log + arr[4] + "/";
-      fail_file = filename + "failureList";
-      for i in (5 ... arr.size()-1) do
-        filename = filename + arr[i] + "-";
-      end
-      filename = filename + arr[arr.size()-1] + ".txt";
-      if(!File.exist?("./output"))
-        Dir.mkdir("./output");
-      end
-      if(!File.exist?("./output/" + arr[3] + log + arr[4]))
-        Dir.mkdir("./output/" + arr[3] + log + arr[4]);
-      end
+      filename = path(@gemfile[:name],1);
+      fail_file = path(@gemfile[:name],3);
+      
       if !@failureList.empty?
         #@licenseList << "---------Failed to extract name and version-----------\n"
         #@licenseList.concat(@failureList)
@@ -212,7 +229,7 @@ module Extractor
       end
       #2015-07-06
       sort(@licenseList,2)
-      #p @licenseList
+      append(@gemfileList,@licenseList)
       writeRubyFile(filename,@licenseList)
       #@gemfile[:gemfile]     = WeakRef.new(@gemfile[:gemfile])
 #      p "@licenseList memory size: #{ObjectSpace.memsize_of @licenseList}"

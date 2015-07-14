@@ -1,0 +1,1 @@
+ruby,https://raw.githubusercontent.com/pivotal-cf/console/master/Gemfile-PWS.lock?token=AJOcPMs8PsKMIJjNanLIXZZvzzcvrFiZks5VpNi0wA%3D%3D

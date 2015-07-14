@@ -1,33 +1,44 @@
-require 'csv'
 
-array = Array.new();
 
-CSV.foreach("11.txt") do | row|
-    array << row
-end
-for i in (0 ... array.size()) do
-    puts "#{array[i][0]},#{array[i][1]},#{array[i][2]}\n"
-end
+arr = ["123,456","123,456","55",  "46","55","32","1","2","3","4","5"]
+bb =  ["123,456","123",   "55,44","46","55","32"]
 
-p "**************"
 
-def sort(input,location)
-    i = 0;
-    j = input.size() - 1;
-    while(i != j)
-        if input[i][location] == "N/A"
-            tmp = input[i]
-            input[i] = input[j]
-            input[j] = tmp
-            i = i - 1
-            j = j - 1
+
+def delete(arr, bb)
+    for i in (0 ... arr.size) do
+        for j in (0 ... bb.size) do
+            if arr[i].strip.split(',')[0] == bb[j].strip.split(',')[0] and arr[i].strip.split(',')[1] == bb[j].strip.split(',')[1]
+                arr[i] = "use"
+                break
+            end
         end
-        i = i + 1
+        
+    end
+    for i in (0 ... arr.size) do
+        if arr[i] != "use"
+            bb << arr[i]
+        end
     end
 end
-a = array
-sort(a,2)
 
-for i in (0 ... array.size()) do
-    puts "#{array[i][0]},#{array[i][1]},#{array[i][2]}\n"
+delete(arr, bb)
+bb.each do |a|
+    p a
 end
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
