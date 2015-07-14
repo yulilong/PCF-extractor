@@ -1,0 +1,168 @@
+actionview,4.1.11,MIT,https://rubygems.org/gems/actionview/versions/4.1.11
+actionpack,4.1.11,MIT,https://rubygems.org/gems/actionpack/versions/4.1.11
+activesupport,4.1.11,MIT,https://rubygems.org/gems/activesupport/versions/4.1.11
+arel,5.0.0,MIT,https://rubygems.org/gems/arel/versions/5.0.0
+actionmailer,4.1.11,MIT,https://rubygems.org/gems/actionmailer/versions/4.1.11
+activesupport,4.1.11,MIT,https://rubygems.org/gems/activesupport/versions/4.1.11
+activerecord,4.1.11,MIT,https://rubygems.org/gems/activerecord/versions/4.1.11
+activesupport,4.1.11,MIT,https://rubygems.org/gems/activesupport/versions/4.1.11
+actionview,4.1.11,MIT,https://rubygems.org/gems/actionview/versions/4.1.11
+activemodel,4.1.11,MIT,https://rubygems.org/gems/activemodel/versions/4.1.11
+crack,0.3.2,MIT,https://rubygems.org/gems/crack/versions/0.3.2,https://github.com/jnunemaker/crack/blob/master/LICENSE
+actionview,4.1.11,MIT,https://rubygems.org/gems/actionview/versions/4.1.11
+actionpack,4.1.11,MIT,https://rubygems.org/gems/actionpack/versions/4.1.11
+mail,2.5.4,MIT,https://rubygems.org/gems/mail/versions/2.5.4
+activesupport,4.1.11,MIT,https://rubygems.org/gems/activesupport/versions/4.1.11
+i18n,0.6.9,MIT,https://rubygems.org/gems/i18n/versions/0.6.9
+minitest,5.1.0,MIT,https://rubygems.org/gems/minitest/versions/5.1.0
+rack,1.5.2,MIT,https://rubygems.org/gems/rack/versions/1.5.2
+json,1.7.7,Ruby,https://rubygems.org/gems/json/versions/1.7.7
+activemodel,4.1.11,MIT,https://rubygems.org/gems/activemodel/versions/4.1.11
+addressable,2.3.8,Apache License 2.0,https://rubygems.org/gems/addressable/versions/2.3.8
+tzinfo,1.1.0,MIT,https://rubygems.org/gems/tzinfo/versions/1.1.0
+arel,5.0.1.20140414130214,MIT,https://rubygems.org/gems/arel/versions/5.0.1.20140414130214
+awesome_print,1.6.1,MIT,https://rubygems.org/gems/awesome_print/versions/1.6.1
+builder,3.2.2,MIT,https://rubygems.org/gems/builder/versions/3.2.2
+eventmachine,1.0.0,RUBY,https://rubygems.org/gems/eventmachine/versions/1.0.0,https://github.com/eventmachine/eventmachine/blob/master/LICENSE
+activesupport,4.1.11,MIT,https://rubygems.org/gems/activesupport/versions/4.1.11
+capybara,2.4.4,MIT,https://rubygems.org/gems/capybara/versions/2.4.4
+thread_safe,0.1.0,Apache,https://rubygems.org/gems/thread_safe/versions/0.1.0,https://github.com/ruby-concurrency/thread_safe/blob/master/LICENSE
+clockwork,1.2.0,MIT,https://rubygems.org/gems/clockwork/versions/1.2.0
+activesupport,4.2.3,MIT,https://rubygems.org/gems/activesupport
+safe_yaml,1.0.0,MIT,https://rubygems.org/gems/safe_yaml/versions/1.0.0
+tzinfo,1.2.2,MIT,https://rubygems.org/gems/tzinfo
+coderay,1.1.0,MIT,https://rubygems.org/gems/coderay/versions/1.1.0
+crack,0.4.2,MIT,https://rubygems.org/gems/crack/versions/0.4.2
+multi_json,1.11.2,MIT,https://rubygems.org/gems/multi_json
+database_cleaner,1.4.1,MIT,https://rubygems.org/gems/database_cleaner/versions/1.4.1
+delayed_job,4.0.6,MIT,https://rubygems.org/gems/delayed_job/versions/4.0.6
+rack,1.0.0,MIT,https://rubygems.org/gems/rack/versions/1.0.0,https://github.com/rack/rack/blob/master/COPYING
+daemons,1.2.2,MIT,https://rubygems.org/gems/daemons/versions/1.2.2
+delayed_job_active_record,4.0.3,MIT,https://rubygems.org/gems/delayed_job_active_record/versions/4.0.3
+diff-lcs,1.2.5,MIT,https://rubygems.org/gems/diff-lcs/versions/1.2.5
+dotenv,2.0.1,MIT,https://rubygems.org/gems/dotenv/versions/2.0.1
+dotenv-rails,2.0.1,MIT,https://rubygems.org/gems/dotenv-rails/versions/2.0.1
+dotenv,2.0.1,MIT,https://rubygems.org/gems/dotenv/versions/2.0.1
+rack,1.0.0,MIT,https://rubygems.org/gems/rack/versions/1.0.0,https://github.com/rack/rack/blob/master/COPYING
+daemons,1.0.9,MIT,https://rubygems.org/gems/daemons/versions/1.0.9,https://github.com/thuehlinger/daemons/blob/master/LICENSE
+tilt,2.0.1,MIT,https://rubygems.org/gems/tilt
+ethon,0.7.3,MIT,https://rubygems.org/gems/ethon/versions/0.7.3
+ffi,1.3.0,LGPL-3,https://rubygems.org/gems/ffi/versions/1.3.0
+eventmachine,1.0.7,Ruby,https://rubygems.org/gems/eventmachine/versions/1.0.7
+rack,1.4.0,MIT,https://rubygems.org/gems/rack/versions/1.4.0,https://github.com/rack/rack/blob/master/COPYING
+mime-types,2.6.1,MIT,https://rubygems.org/gems/mime-types
+cf-uaa-lib,2.1.0,Apache 2.0,https://rubygems.org/gems/cf-uaa-lib/versions/2.1.0
+i18n,0.7.0,MIT,https://rubygems.org/gems/i18n/versions/0.7.0
+addressable,2.3.6,Apache License 2.0,https://rubygems.org/gems/addressable/versions/2.3.6
+thread_safe,0.1.0,Apache,https://rubygems.org/gems/thread_safe/versions/0.1.0,https://github.com/ruby-concurrency/thread_safe/blob/master/LICENSE
+json,1.8.3,Ruby,https://rubygems.org/gems/json/versions/1.8.3
+webmock,1.21.0,MIT,https://rubygems.org/gems/webmock/versions/1.21.0
+mail,2.6.3,MIT,https://rubygems.org/gems/mail/versions/2.6.3
+minitest,5.7.0,MIT,https://rubygems.org/gems/minitest/versions/5.7.0
+ffi,1.9.8,BSD,https://rubygems.org/gems/ffi/versions/1.9.8
+mini_portile,0.6.2,MIT,https://rubygems.org/gems/mini_portile/versions/0.6.2
+jbuilder,2.3.0,MIT,https://rubygems.org/gems/jbuilder/versions/2.3.0
+rack,1.0.0,MIT,https://rubygems.org/gems/rack/versions/1.0.0,https://github.com/rack/rack/blob/master/COPYING
+multi_json,1.11.1,MIT,https://rubygems.org/gems/multi_json/versions/1.11.1
+mysql2,0.3.18,MIT,https://rubygems.org/gems/mysql2/versions/0.3.18
+mime-types,2.6.1,MIT,https://rubygems.org/gems/mime-types/versions/2.6.1
+nokogiri,1.6.6.2,MIT,https://rubygems.org/gems/nokogiri/versions/1.6.6.2
+pry,0.10.1,MIT,https://rubygems.org/gems/pry/versions/0.10.1
+coderay,1.1.0,MIT,https://rubygems.org/gems/coderay/versions/1.1.0
+mini_portile,0.6.0,MIT,https://rubygems.org/gems/mini_portile/versions/0.6.0
+tzinfo,1.2.2,MIT,https://rubygems.org/gems/tzinfo/versions/1.2.2
+pry-nav,0.2.4,MIT,https://rubygems.org/gems/pry-nav/versions/0.2.4
+pry-rails,0.3.4,MIT,https://rubygems.org/gems/pry-rails/versions/0.3.4
+rack-protection,1.5.3,MIT,https://rubygems.org/gems/rack-protection/versions/1.5.3
+rack,1.6.4,MIT,https://rubygems.org/gems/rack
+rack,1.5.4,MIT,https://rubygems.org/gems/rack/versions/1.5.4
+rails,4.1.11,MIT,https://rubygems.org/gems/rails/versions/4.1.11
+actionmailer,4.1.11,MIT,https://rubygems.org/gems/actionmailer/versions/4.1.11
+actionpack,4.1.11,MIT,https://rubygems.org/gems/actionpack/versions/4.1.11
+ethon,0.7.1,MIT,https://rubygems.org/gems/ethon/versions/0.7.1
+delayed_job,3.0.0,MIT,https://rubygems.org/gems/delayed_job/versions/3.0.0,https://github.com/collectiveidea/delayed_job/blob/master/LICENSE.md
+tilt,2.0.1,MIT,https://rubygems.org/gems/tilt/versions/2.0.1
+activemodel,4.1.11,MIT,https://rubygems.org/gems/activemodel/versions/4.1.11
+activerecord,4.1.11,MIT,https://rubygems.org/gems/activerecord/versions/4.1.11
+actionview,4.1.11,MIT,https://rubygems.org/gems/actionview/versions/4.1.11
+railties,4.1.11,MIT,https://rubygems.org/gems/railties/versions/4.1.11
+activesupport,4.1.11,MIT,https://rubygems.org/gems/activesupport/versions/4.1.11
+multi_json,1.2.0,MIT,https://rubygems.org/gems/multi_json/versions/1.2.0,https://github.com/intridea/multi_json/blob/master/LICENSE.md
+bundler,1.3.0,MIT,https://rubygems.org/gems/bundler/versions/1.3.0
+rails_serve_static_assets,0.0.4,MIT,https://rubygems.org/gems/rails_serve_static_assets
+rails_12factor,0.0.3,MIT,https://rubygems.org/gems/rails_12factor/versions/0.0.3
+rails_serve_static_assets,0.0.4,MIT,https://rubygems.org/gems/rails_serve_static_assets/versions/0.0.4
+activesupport,4.1.11,MIT,https://rubygems.org/gems/activesupport/versions/4.1.11
+railties,4.1.11,MIT,https://rubygems.org/gems/railties/versions/4.1.11
+thor,0.18.1,MIT,https://rubygems.org/gems/thor/versions/0.18.1
+timecop,0.7.4,MIT,https://rubygems.org/gems/timecop/versions/0.7.4
+actionpack,4.1.11,MIT,https://rubygems.org/gems/actionpack/versions/4.1.11
+rspec-core,3.3.0,MIT,https://rubygems.org/gems/rspec-core/versions/3.3.0
+rspec-support,3.3.0,MIT,https://rubygems.org/gems/rspec-support/versions/3.3.0
+rdoc,4.2.0,Ruby,https://rubygems.org/gems/rdoc/versions/4.2.0
+rake,10.4.2,MIT,https://rubygems.org/gems/rake/versions/10.4.2
+mime-types,2.6.1,MIT,https://rubygems.org/gems/mime-types
+rspec-expectations,3.3.0,MIT,https://rubygems.org/gems/rspec-expectations/versions/3.3.0
+rspec-support,3.3.0,MIT,https://rubygems.org/gems/rspec-support/versions/3.3.0
+rspec-mocks,3.3.0,MIT,https://rubygems.org/gems/rspec-mocks/versions/3.3.0
+slop,3.4.0,MIT,https://rubygems.org/gems/slop/versions/3.4.0,https://github.com/leejarvis/slop/blob/master/LICENSE
+rspec-support,3.3.0,MIT,https://rubygems.org/gems/rspec-support/versions/3.3.0
+rspec-rails,3.3.1,MIT,https://rubygems.org/gems/rspec-rails/versions/3.3.1
+typhoeus,0.7.1,MIT,https://rubygems.org/gems/typhoeus/versions/0.7.1
+thread_safe,0.3.5,Apache-2.0,https://rubygems.org/gems/thread_safe/versions/0.3.5
+rspec-core,3.3.0,MIT,https://rubygems.org/gems/rspec-core/versions/3.3.0
+rspec-expectations,3.3.0,MIT,https://rubygems.org/gems/rspec-expectations/versions/3.3.0
+thor,0.19.1,MIT,https://rubygems.org/gems/thor/versions/0.19.1
+rspec-support,3.3.0,MIT,https://rubygems.org/gems/rspec-support/versions/3.3.0
+pry,0.9.10,MIT,https://rubygems.org/gems/pry/versions/0.9.10,https://github.com/pry/pry/blob/master/LICENSE
+rspec-support,3.3.0,MIT,https://rubygems.org/gems/rspec-support/versions/3.3.0
+rack,1.0.0,MIT,https://rubygems.org/gems/rack/versions/1.0.0,https://github.com/rack/rack/blob/master/COPYING
+thin,1.6.3,GPLv2+,https://rubygems.org/gems/thin/versions/1.6.3
+rails_stdout_logging,0.0.3,MIT,https://rubygems.org/gems/rails_stdout_logging,https://github.com/heroku/rails_stdout_logging/blob/master/LICENSE
+safe_yaml,1.0.4,MIT,https://rubygems.org/gems/safe_yaml/versions/1.0.4
+sdoc,0.4.1,MIT,https://rubygems.org/gems/sdoc/versions/0.4.1
+json,1.7.7,Ruby,https://rubygems.org/gems/json/versions/1.7.7
+pry,0.9.10,MIT,https://rubygems.org/gems/pry/versions/0.9.10,https://github.com/pry/pry/blob/master/LICENSE
+sinatra,1.4.6,MIT,https://rubygems.org/gems/sinatra/versions/1.4.6
+rdoc,4.0.0,Ruby,https://rubygems.org/gems/rdoc/versions/4.0.0
+sprockets-rails,2.0.0,MIT,https://rubygems.org/gems/sprockets-rails/versions/2.0.0,https://github.com/rails/sprockets-rails/blob/master/LICENSE
+slop,3.6.0,MIT,https://rubygems.org/gems/slop/versions/3.6.0
+sprockets,3.2.0,MIT,https://rubygems.org/gems/sprockets/versions/3.2.0
+rails_stdout_logging,0.0.3,MIT,https://rubygems.org/gems/rails_stdout_logging/versions/0.0.3,https://github.com/heroku/rails_stdout_logging/blob/master/LICENSE
+sprockets-rails,2.3.1,MIT,https://rubygems.org/gems/sprockets-rails/versions/2.3.1
+json,1.4.0,N/A,https://rubygems.org/gems/json/versions/1.4.0,https://flori.github.com/json/
+activesupport,3.0.0,N/A,https://rubygems.org/gems/activesupport/versions/3.0.0,Not Found Github Url
+railties,3.0.0,N/A,https://rubygems.org/gems/railties/versions/3.0.0,Not Found Github Url
+actionpack,3.0.0,N/A,https://rubygems.org/gems/actionpack/versions/3.0.0,Not Found Github Url
+actionpack,3.0.0,N/A,https://rubygems.org/gems/actionpack/versions/3.0.0,Not Found Github Url
+sprockets,2.8.0,N/A,https://rubygems.org/gems/sprockets/versions/2.8.0,Not Found Github Url
+diff-lcs,1.2.0,N/A,https://rubygems.org/gems/diff-lcs/versions/1.2.0,Not Found Github Url
+rake,0.8.7,N/A,https://rubygems.org/gems/rake/versions/0.8.7,https://github.com/ruby/rake
+diff-lcs,1.2.0,N/A,https://rubygems.org/gems/diff-lcs/versions/1.2.0,Not Found Github Url
+rack-test,0.6.3,N/A,https://rubygems.org/gems/rack-test/versions/0.6.3,https://github.com/brynary/rack-test
+method_source,0.8.1,N/A,https://rubygems.org/gems/method_source/versions/0.8.1,Not Found Github Url
+method_source,0.8.2,N/A,https://rubygems.org/gems/method_source/versions/0.8.2,Not Found Github Url
+activesupport,3.0.0,N/A,https://rubygems.org/gems/activesupport/versions/3.0.0,Not Found Github Url
+rack-protection,1.4.0,N/A,https://rubygems.org/gems/rack-protection/versions/1.4.0,https://github.com/rkh/rack-protection
+activesupport,3.0.0,N/A,https://rubygems.org/gems/activesupport/versions/3.0.0,Not Found Github Url
+erubis,2.7.0,N/A,https://rubygems.org/gems/erubis/versions/2.7.0,Not Found Github Url
+activerecord,3.0.0,N/A,https://rubygems.org/gems/activerecord/versions/3.0.0,Not Found Github Url
+activesupport,3.0.0,N/A,https://rubygems.org/gems/activesupport/versions/3.0.0,Not Found Github Url
+rack-test,0.5.4,N/A,https://rubygems.org/gems/rack-test/versions/0.5.4,https://github.com/brynary/rack-test
+xpath,2.0.0,N/A,https://rubygems.org/gems/xpath/versions/2.0.0,https://github.com/jnicklas/xpath
+xpath,2.0.0,N/A,https://rubygems.org/gems/xpath/versions/2.0.0,https://github.com/jnicklas/xpath
+nokogiri,1.3.0,N/A,https://rubygems.org/gems/nokogiri/versions/1.3.0,https://github.com/sparklemotion/nokogiri
+nokogiri,1.3.3,N/A,https://rubygems.org/gems/nokogiri/versions/1.3.3,https://github.com/sparklemotion/nokogiri
+rack-test,0.6.2,N/A,https://rubygems.org/gems/rack-test/versions/0.6.2,https://github.com/brynary/rack-test
+builder,3.1.0,N/A,https://rubygems.org/gems/builder/versions/3.1.0,https://github.com/jimweirich/builder
+builder,3.1.0,N/A,https://rubygems.org/gems/builder/versions/3.1.0,https://github.com/jimweirich/builder
+erubis,2.7.0,N/A,https://rubygems.org/gems/erubis/versions/2.7.0,Not Found Github Url
+mime-types,1.16
+multi_json,
+activesupport,
+tzinfo,
+mime-types,1.16
+rack,
+rails_serve_static_assets,
+rails_stdout_logging,
+tilt,1.3

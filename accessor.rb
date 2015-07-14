@@ -214,9 +214,11 @@ module Extractor
               licenseInfo = licenseUrl[0]
               pair[1]     = licenseUrl[1] unless licenseUrl[1].empty?
             end
+            p "#{ruby_name},#{pair[0]},#{pair[1]},#{url},#{licenseInfo}\n"
             return "#{ruby_name},#{pair[0]},#{pair[1]},#{url},#{licenseInfo}\n"
             
           else
+            p "#{ruby_name},#{pair[0]},#{pair[1]},#{url}\n"
             return "#{ruby_name},#{pair[0]},#{pair[1]},#{url}\n"
           end
         else
@@ -237,19 +239,26 @@ module Extractor
             end
         end
       end
-      #description: 把没找到的放在后面
+      #description: 把没找到license 的放在后面
       def append(arr, bb)
         for i in (0 ... arr.size) do
-        version = arr[i].strip.split(',')[1]
-        if !version.eql? nil and version.count('.')  == 1
-          version += '.0'
-        end
+            version = arr[i].strip.split(',')[1]
+            if !version.eql? nil and version.count('.')  == 1
+              version += '.0'
+            end
+            #去掉重复的
+            for k in (i + 1 ... arr.size) do
+                if arr[i] == arr[k]
+                    arr[k] = "11111111"
+                end
+            end
             for j in (0 ... bb.size) do
                 if arr[i].strip.split(',')[0] == bb[j].strip.split(',')[0] and version == bb[j].strip.split(',')[1]
                     arr[i] = "11111111"
                     break
                 end
             end
+            
         end
         for i in (0 ... arr.size) do
             if arr[i] != "11111111"
