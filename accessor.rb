@@ -83,11 +83,24 @@ module Extractor
       #input      : data 
       #location   : license location
       #flag       : N/A
+      #description: 把 hula,,,https://ruby  这样的信息放到下边
       def sort(input,location,flag = "N/A")
           i = 0;
           j = input.size() - 1;
           while(i != j)
               if input[i] != nil and input[i].split(',')[location] == flag
+                 tmp = input[i]
+                 input[i] = input[j]
+                 input[j] = tmp
+                 i = i - 1
+                 j = j - 1
+              end
+              i = i + 1
+          end
+          i = 0;
+          j = input.size() - 1;
+          while(i != j)
+              if input[i] != nil and input[i].split(',')[1] == '' and input[i].split(',')[2] == '' 
                  tmp = input[i]
                  input[i] = input[j]
                  input[j] = tmp
@@ -186,7 +199,8 @@ module Extractor
           return licenseUrlList[0],""
       end#def getLicenseFromGithub(url)  end
       #2015-07-13
-      def rubygems(ruby_pair)
+      def rubygems(ruby_pair,flag = "close",vs = '')#flag = "close"#避免无限次自调用自己
+        
         ruby_name        = ruby_pair.strip.split(',')[0]
         version          = ruby_pair.strip.split(',')[1]
         if !version.eql? nil and version.count('.')  == 1
@@ -197,7 +211,13 @@ module Extractor
         url += "/versions/#{version}" unless version.eql? nil
         
         pair = getHtmlWithAnemone(url) do |page|
+                if page == nil
+                    p "page not found"
+                end
                license = page.doc.css("span.gem__ruby-version").css('p').inner_text
+               if license == nil
+                p "#{ruby_name} is nil "
+               end
                #如果有多个license 那么取第一个
                license = license.split(',')[0]
                version = page.doc.css("i.page__subheading").inner_text
@@ -214,15 +234,24 @@ module Extractor
               licenseInfo = licenseUrl[0]
               pair[1]     = licenseUrl[1] unless licenseUrl[1].empty?
             end
-            p "#{ruby_name},#{pair[0]},#{pair[1]},#{url},#{licenseInfo}\n"
+            #p "#{ruby_name},#{pair[0]},#{pair[1]},#{url},#{licenseInfo}\n"
             return "#{ruby_name},#{pair[0]},#{pair[1]},#{url},#{licenseInfo}\n"
             
           else
-            p "#{ruby_name},#{pair[0]},#{pair[1]},#{url}\n"
-            return "#{ruby_name},#{pair[0]},#{pair[1]},#{url}\n"
+            #p "#{ruby_name},#{pair[0]},#{pair[1]},#{url}\n"
+            return "#{ruby_name},#{pair[0]},#{pair[1]},#{url},\n"
           end
         else
-          rubygems("#{ruby_name},");#内部调用类似于循环
+            if flag == "close"
+                p "#{ruby_name},"
+                flag = "open"
+                rubygems("#{ruby_name},",flag,version);#内部调用类似于循环
+                
+            elsif flag == "open"
+                p "#{ruby_name},#{vs},,#{url},Page not found\n"
+                return "#{ruby_name},#{vs},,#{url},Page not found\n"
+            end
+          
           #end
         end #end unless
         
@@ -241,6 +270,9 @@ module Extractor
       end
       #description: 把没找到license 的放在后面
       def append(arr, bb)
+        if arr.size == bb.size
+            return ;
+        end
         for i in (0 ... arr.size) do
             version = arr[i].strip.split(',')[1]
             if !version.eql? nil and version.count('.')  == 1

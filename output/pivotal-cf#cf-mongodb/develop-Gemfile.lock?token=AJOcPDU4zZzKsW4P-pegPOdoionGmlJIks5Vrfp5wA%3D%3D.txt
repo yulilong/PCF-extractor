@@ -1,0 +1,249 @@
+aws-sdk-v1,1.60.2,Apache 2.0,https://rubygems.org/gems/aws-sdk-v1/versions/1.60.2,
+aws-sdk-v1,1.60.2,Apache 2.0,https://rubygems.org/gems/aws-sdk-v1/versions/1.60.2,
+fog,1.27.0,MIT,https://rubygems.org/gems/fog/versions/1.27.0,
+blobstore_client,1.2891.0,Apache 2.0,https://rubygems.org/gems/blobstore_client/versions/1.2891.0,
+httpclient,2.4.0,ruby,https://rubygems.org/gems/httpclient/versions/2.4.0,
+aws-sdk,1.60.2,Apache 2.0,https://rubygems.org/gems/aws-sdk/versions/1.60.2,
+bosh_common,1.2891.0,Apache 2.0,https://rubygems.org/gems/bosh_common/versions/1.2891.0,
+CFPropertyList,2.3.1,MIT,https://rubygems.org/gems/CFPropertyList/versions/2.3.1,
+aws-sdk,1.60.2,Apache 2.0,https://rubygems.org/gems/aws-sdk/versions/1.60.2,
+net-ssh-gateway,1.2.0,MIT,https://rubygems.org/gems/net-ssh-gateway/versions/1.2.0,
+httpclient,2.4.0,ruby,https://rubygems.org/gems/httpclient/versions/2.4.0,
+vara,0.12.0,,https://rubygems.org/gems/vara,Page not found
+semi_semantic,1.1.0,Apache 2.0,https://rubygems.org/gems/semi_semantic/versions/1.1.0,
+rack,1.0.0,MIT,https://rubygems.org/gems/rack/versions/1.0.0,https://github.com/rack/rack/blob/master/COPYING
+bosh-template,1.2891.0,Apache 2.0,https://rubygems.org/gems/bosh-template/versions/1.2891.0,
+blobstore_client,1.2891.0,Apache 2.0,https://rubygems.org/gems/blobstore_client/versions/1.2891.0,
+bosh-template,1.2891.0,Apache 2.0,https://rubygems.org/gems/bosh-template/versions/1.2891.0,
+bosh_common,1.2891.0,Apache 2.0,https://rubygems.org/gems/bosh_common/versions/1.2891.0,
+bosh_cli,1.2891.0,Apache 2.0,https://rubygems.org/gems/bosh_cli/versions/1.2891.0,
+semi_semantic,1.1.0,Apache 2.0,https://rubygems.org/gems/semi_semantic/versions/1.1.0,
+voxtur,0.2.0,,https://rubygems.org/gems/voxtur,Page not found
+bosh_common,1.2891.0,Apache 2.0,https://rubygems.org/gems/bosh_common/versions/1.2891.0,
+httmultiparty,0.3.16,MIT,https://rubygems.org/gems/httmultiparty,
+net-scp,1.1.0,MIT,https://rubygems.org/gems/net-scp/versions/1.1.0,
+bson,1.9.2,Apache License Version 2.0,https://rubygems.org/gems/bson/versions/1.9.2,
+builder,3.2.2,MIT,https://rubygems.org/gems/builder/versions/3.2.2,
+capybara,2.4.4,MIT,https://rubygems.org/gems/capybara/versions/2.4.4,
+multi_json,1.0.0,MIT,https://rubygems.org/gems/multi_json/versions/1.0.0,https://github.com/intridea/multi_json/blob/master/LICENSE.md
+capybara-webkit,1.5.2,MIT,https://rubygems.org/gems/capybara-webkit/versions/1.5.2,
+json,1.8.3,Ruby,https://rubygems.org/gems/json,
+capybara,2.3.0,MIT,https://rubygems.org/gems/capybara/versions/2.3.0,
+cf-uaa-lib,3.1.0,Apache 2.0,https://rubygems.org/gems/cf-uaa-lib/versions/3.1.0,
+multi_json,1.11.2,MIT,https://rubygems.org/gems/multi_json,
+ci_reporter,2.0.0,MIT,https://rubygems.org/gems/ci_reporter/versions/2.0.0,
+mime-types,2.6.1,MIT,https://rubygems.org/gems/mime-types,
+cliver,0.3.2,MIT,https://rubygems.org/gems/cliver/versions/0.3.2,
+diffy,3.0.7,MIT,https://rubygems.org/gems/diffy,
+nokogiri,1.6.6.2,MIT,https://rubygems.org/gems/nokogiri,
+diff-lcs,1.2.5,MIT,https://rubygems.org/gems/diff-lcs/versions/1.2.5,
+diffy,3.0.7,MIT,https://rubygems.org/gems/diffy/versions/3.0.7,
+excon,0.45.3,MIT,https://rubygems.org/gems/excon/versions/0.45.3,
+faraday,0.9.1,MIT,https://rubygems.org/gems/faraday/versions/0.9.1,
+multipart-post,1.2.0,MIT,https://rubygems.org/gems/multipart-post/versions/1.2.0,
+faraday_middleware,0.9.1,MIT,https://rubygems.org/gems/faraday_middleware/versions/0.9.1,
+continuous_configuration,0.5.1,,https://rubygems.org/gems/continuous_configuration,Page not found
+tempest-client,0.7.0,,https://rubygems.org/gems/tempest-client,Page not found
+aws-sdk,2.1.7,Apache 2.0,https://rubygems.org/gems/aws-sdk,
+dock_it,0.3.0,,https://rubygems.org/gems/dock_it,Page not found
+websocket-extensions,0.1.2,MIT,https://rubygems.org/gems/websocket-extensions/versions/0.1.2,
+fog,1.27.0,MIT,https://rubygems.org/gems/fog/versions/1.27.0,
+websocket-extensions,0.1.0,MIT,https://rubygems.org/gems/websocket-extensions/versions/0.1.0,
+fog-atmos,0.1.0,MIT,https://rubygems.org/gems/fog-atmos,
+websocket-driver,0.5.4,MIT,https://rubygems.org/gems/websocket-driver/versions/0.5.4,
+capybara,2.1.0,MIT,https://rubygems.org/gems/capybara/versions/2.1.0,https://github.com/jnicklas/capybara/blob/master/License.txt
+fog-brightbox,0.4.0,MIT,https://rubygems.org/gems/fog-brightbox/versions/0.4.0,
+thor,0.19.1,MIT,https://rubygems.org/gems/thor,
+fog-core,1.27.3,MIT,https://rubygems.org/gems/fog-core/versions/1.27.3,
+fetch_artefact,0.5.1,,https://rubygems.org/gems/fetch_artefact,Page not found
+fog-ecloud,0.3.0,MIT,https://rubygems.org/gems/fog-ecloud,
+fog-json,1.0.2,MIT,https://rubygems.org/gems/fog-json,
+fog-radosgw,0.0.2,MIT,https://rubygems.org/gems/fog-radosgw/versions/0.0.2,
+fog-aws,0.7.3,MIT,https://rubygems.org/gems/fog-aws,
+fog-sakuracloud,0.0.4,MIT,https://rubygems.org/gems/fog-sakuracloud/versions/0.0.4,
+fog-profitbricks,0.0.3,MIT,https://rubygems.org/gems/fog-profitbricks,
+fog-serverlove,0.1.2,MIT,https://rubygems.org/gems/fog-serverlove,
+open4,1.3.4,Ruby,https://rubygems.org/gems/open4,
+fog-softlayer,0.4.7,MIT,https://rubygems.org/gems/fog-softlayer,
+fog-storm_on_demand,0.1.1,MIT,https://rubygems.org/gems/fog-storm_on_demand,
+fog-terremark,0.1.0,MIT,https://rubygems.org/gems/fog-terremark,
+fog-vmfusion,0.1.0,MIT,https://rubygems.org/gems/fog-vmfusion,
+fog-xml,0.1.1,MIT,https://rubygems.org/gems/fog-xml/versions/0.1.1,
+fog-voxel,0.1.0,MIT,https://rubygems.org/gems/fog-voxel,
+nokogiri,1.5.11,MIT,https://rubygems.org/gems/nokogiri/versions/1.5.11,
+pipeline,0.0.9,MIT,https://rubygems.org/gems/pipeline,https://github.com/dtsato/pipeline/blob/master/LICENSE
+fog-atmos,0.1.0,MIT,https://rubygems.org/gems/fog-atmos/versions/0.1.0,
+fog-core,1.32.0,MIT,https://rubygems.org/gems/fog-core,
+fog-xml,0.1.2,MIT,https://rubygems.org/gems/fog-xml,
+fog-aws,0.1.2,MIT,https://rubygems.org/gems/fog-aws/versions/0.1.2,
+rspec-core,3.3.2,MIT,https://rubygems.org/gems/rspec-core,
+fog-core,1.27.0,MIT,https://rubygems.org/gems/fog-core/versions/1.27.0,
+fog-json,1.0.0,MIT,https://rubygems.org/gems/fog-json/versions/1.0.0,
+fog-xml,0.1.0,MIT,https://rubygems.org/gems/fog-xml/versions/0.1.0,
+fog-brightbox,0.7.1,MIT,https://rubygems.org/gems/fog-brightbox/versions/0.7.1,
+multi_json,1.1.0,MIT,https://rubygems.org/gems/multi_json/versions/1.1.0,https://github.com/intridea/multi_json/blob/master/LICENSE.md
+fog-core,1.22.0,MIT,https://rubygems.org/gems/fog-core/versions/1.22.0,
+fog-json,1.0.2,MIT,https://rubygems.org/gems/fog-json,
+net-ssh,2.2.1,MIT,https://rubygems.org/gems/net-ssh/versions/2.2.1,https://github.com/net-ssh/net-ssh/blob/master/LICENSE.txt
+fog-core,1.30.0,MIT,https://rubygems.org/gems/fog-core/versions/1.30.0,
+builder,3.2.2,MIT,https://rubygems.org/gems/builder,
+faraday,0.7.4,MIT,https://rubygems.org/gems/faraday/versions/0.7.4,https://github.com/lostisland/faraday/blob/master/LICENSE.md
+net-scp,1.1.0,MIT,https://rubygems.org/gems/net-scp/versions/1.1.0,
+mime-types,2.6.1,MIT,https://rubygems.org/gems/mime-types,
+excon,0.45.0,MIT,https://rubygems.org/gems/excon/versions/0.45.0,
+fog-ecloud,0.1.1,MIT,https://rubygems.org/gems/fog-ecloud/versions/0.1.1,
+fog-core,1.32.0,MIT,https://rubygems.org/gems/fog-core,
+fog-xml,0.1.2,MIT,https://rubygems.org/gems/fog-xml,
+fog-json,1.0.1,MIT,https://rubygems.org/gems/fog-json/versions/1.0.1,
+CFPropertyList,2.2.0,MIT,https://rubygems.org/gems/CFPropertyList/versions/2.2.0,https://github.com/ckruse/CFPropertyList/blob/master/LICENSE
+fog-core,1.32.0,MIT,https://rubygems.org/gems/fog-core,
+fog-profitbricks,0.0.2,MIT,https://rubygems.org/gems/fog-profitbricks/versions/0.0.2,
+rack,1.0.0,MIT,https://rubygems.org/gems/rack/versions/1.0.0,https://github.com/rack/rack/blob/master/COPYING
+fog-xml,0.1.2,MIT,https://rubygems.org/gems/fog-xml,
+nokogiri,1.6.6.2,MIT,https://rubygems.org/gems/nokogiri,
+fog-radosgw,0.0.4,MIT,https://rubygems.org/gems/fog-radosgw/versions/0.0.4,
+fog-core,1.21.0,MIT,https://rubygems.org/gems/fog-core/versions/1.21.0,
+fog-json,1.0.2,MIT,https://rubygems.org/gems/fog-json,
+fission,0.5.0,MIT,https://rubygems.org/gems/fission/versions/0.5.0,https://github.com/thbishop/fission/blob/master/LICENSE
+fog-sakuracloud,1.0.1,MIT,https://rubygems.org/gems/fog-sakuracloud/versions/1.0.1,
+fog-core,1.32.0,MIT,https://rubygems.org/gems/fog-core,
+fog-json,1.0.2,MIT,https://rubygems.org/gems/fog-json,
+fog-core,1.32.0,MIT,https://rubygems.org/gems/fog-core,
+fog-serverlove,0.1.2,MIT,https://rubygems.org/gems/fog-serverlove/versions/0.1.2,
+fog-core,1.32.0,MIT,https://rubygems.org/gems/fog-core,
+fog-json,1.0.2,MIT,https://rubygems.org/gems/fog-json,
+fog-core,1.32.0,MIT,https://rubygems.org/gems/fog-core,
+fog-softlayer,0.4.5,MIT,https://rubygems.org/gems/fog-softlayer/versions/0.4.5,
+fog-storm_on_demand,0.1.1,MIT,https://rubygems.org/gems/fog-storm_on_demand/versions/0.1.1,
+fog-core,1.32.0,MIT,https://rubygems.org/gems/fog-core,
+fog-json,1.0.2,MIT,https://rubygems.org/gems/fog-json,
+fog-terremark,0.1.0,MIT,https://rubygems.org/gems/fog-terremark/versions/0.1.0,
+fog-core,1.32.0,MIT,https://rubygems.org/gems/fog-core,
+fog-xml,0.1.2,MIT,https://rubygems.org/gems/fog-xml,
+fog-vmfusion,0.1.0,MIT,https://rubygems.org/gems/fog-vmfusion/versions/0.1.0,
+fog-core,1.32.0,MIT,https://rubygems.org/gems/fog-core,
+ipaddress,0.5.0,MIT,https://rubygems.org/gems/ipaddress/versions/0.5.0,https://github.com/bluemonk/ipaddress/blob/master/LICENSE.txt
+fog-xml,0.1.2,MIT,https://rubygems.org/gems/fog-xml,
+fog-core,1.32.0,MIT,https://rubygems.org/gems/fog-core,
+fog-json,1.0.2,MIT,https://rubygems.org/gems/fog-json,
+inflecto,0.0.2,MIT,https://rubygems.org/gems/inflecto/versions/0.0.2,https://github.com/mbj/inflecto/blob/master/LICENSE
+fog-xml,0.1.2,MIT,https://rubygems.org/gems/fog-xml/versions/0.1.2,
+fog-core,1.32.0,MIT,https://rubygems.org/gems/fog-core,
+nokogiri,1.5.11,MIT,https://rubygems.org/gems/nokogiri/versions/1.5.11,
+ipaddress,0.8.0,MIT,https://rubygems.org/gems/ipaddress/versions/0.8.0,https://github.com/bluemonk/ipaddress/blob/master/LICENSE.txt
+fog-xml,0.1.2,MIT,https://rubygems.org/gems/fog-xml,
+highline,1.6.21,Ruby,https://rubygems.org/gems/highline/versions/1.6.21,
+httmultiparty,0.3.16,MIT,https://rubygems.org/gems/httmultiparty/versions/0.3.16,
+mimemagic,0.3.0,MIT,https://rubygems.org/gems/mimemagic,
+multipart-post,2.0.0,MIT,https://rubygems.org/gems/multipart-post,
+httparty,0.13.5,MIT,https://rubygems.org/gems/httparty/versions/0.13.5,
+json,1.8.0,Ruby,https://rubygems.org/gems/json/versions/1.8.0,
+multi_xml,0.5.2,MIT,https://rubygems.org/gems/multi_xml/versions/0.5.2,
+httpclient,2.4.0,ruby,https://rubygems.org/gems/httpclient/versions/2.4.0,
+json,1.8.2,Ruby,https://rubygems.org/gems/json/versions/1.8.2,
+json_pure,1.8.2,Ruby,https://rubygems.org/gems/json_pure/versions/1.8.2,
+multi_json,1.0.0,MIT,https://rubygems.org/gems/multi_json/versions/1.0.0,https://github.com/intridea/multi_json/blob/master/LICENSE.md
+multi_json,1.8.4,MIT,https://rubygems.org/gems/multi_json/versions/1.8.4,
+mime-types,2.4.3,MIT,https://rubygems.org/gems/mime-types/versions/2.4.3,
+mimemagic,0.3.0,MIT,https://rubygems.org/gems/mimemagic/versions/0.3.0,
+net-ssh,2.1.3,MIT,https://rubygems.org/gems/net-ssh/versions/2.1.3,https://github.com/net-ssh/net-ssh/blob/master/LICENSE.txt
+formatador,0.2.0,MIT,https://rubygems.org/gems/formatador/versions/0.2.0,https://github.com/geemus/formatador/blob/master/LICENSE.md
+hula,0.6.8,,https://rubygems.org/gems/hula,Page not found
+mini_portile,0.6.2,MIT,https://rubygems.org/gems/mini_portile/versions/0.6.2,
+thor,0.19.1,MIT,https://rubygems.org/gems/thor/versions/0.19.1,
+builder,3.2.2,MIT,https://rubygems.org/gems/builder,
+mongo,1.9.2,Apache License Version 2.0,https://rubygems.org/gems/mongo/versions/1.9.2,
+leita,0.0.9,,https://rubygems.org/gems/leita,Page not found
+bson,1.9.2,Apache License Version 2.0,https://rubygems.org/gems/bson/versions/1.9.2,
+multi_json,1.11.0,MIT,https://rubygems.org/gems/multi_json/versions/1.11.0,
+multi_xml,0.5.5,MIT,https://rubygems.org/gems/multi_xml/versions/0.5.5,
+net-scp,1.1.2,MIT,https://rubygems.org/gems/net-scp/versions/1.1.2,
+multipart-post,2.0.0,MIT,https://rubygems.org/gems/multipart-post/versions/2.0.0,
+rubyzip,1.1.7,BSD 2-Clause,https://rubygems.org/gems/rubyzip/versions/1.1.7,
+net-ssh,2.6.5,MIT,https://rubygems.org/gems/net-ssh/versions/2.6.5,
+net-ssh,2.9.2,MIT,https://rubygems.org/gems/net-ssh/versions/2.9.2,
+net-ssh-gateway,1.2.0,MIT,https://rubygems.org/gems/net-ssh-gateway/versions/1.2.0,
+net-ssh,2.6.5,MIT,https://rubygems.org/gems/net-ssh/versions/2.6.5,
+semi_semantic,1.1.0,Apache 2.0,https://rubygems.org/gems/semi_semantic/versions/1.1.0,
+fission,0.5.0,MIT,https://rubygems.org/gems/fission,https://github.com/thbishop/fission/blob/master/LICENSE
+nokogiri,1.6.6.2,MIT,https://rubygems.org/gems/nokogiri/versions/1.6.6.2,
+mini_portile,0.6.0,MIT,https://rubygems.org/gems/mini_portile/versions/0.6.0,
+open4,1.3.4,Ruby,https://rubygems.org/gems/open4/versions/1.3.4,
+aws-sdk,2.1.7,Apache 2.0,https://rubygems.org/gems/aws-sdk,
+bosh_cli,1.3016.0,Apache 2.0,https://rubygems.org/gems/bosh_cli,
+rspec_junit_formatter,0.2.3,MIT,https://rubygems.org/gems/rspec_junit_formatter/versions/0.2.3,
+rake,10.4.2,MIT,https://rubygems.org/gems/rake,
+poltergeist,1.6.0,MIT,https://rubygems.org/gems/poltergeist/versions/1.6.0,
+rspec-support,3.2.2,MIT,https://rubygems.org/gems/rspec-support/versions/3.2.2,
+formatador,0.2.5,MIT,https://rubygems.org/gems/formatador/versions/0.2.5,https://github.com/geemus/formatador/blob/master/LICENSE.md
+cliver,0.3.1,MIT,https://rubygems.org/gems/cliver/versions/0.3.1,
+ipaddress,0.8.0,MIT,https://rubygems.org/gems/ipaddress/versions/0.8.0,https://github.com/bluemonk/ipaddress/blob/master/LICENSE.txt
+rspec-support,3.2.0,MIT,https://rubygems.org/gems/rspec-support/versions/3.2.0,
+bosh_cli,1.2534.0,Apache 2.0,https://rubygems.org/gems/bosh_cli/versions/1.2534.0,
+capybara,2.4.4,MIT,https://rubygems.org/gems/capybara,
+fetch_artefact,0.5.0,,https://rubygems.org/gems/fetch_artefact,Page not found
+prof,0.9.2,,https://rubygems.org/gems/prof,Page not found
+json,1.4.0,N/A,https://rubygems.org/gems/json/versions/1.4.0,https://flori.github.com/json/
+inflecto,0.0.2,MIT,https://rubygems.org/gems/inflecto/versions/0.0.2,https://github.com/mbj/inflecto/blob/master/LICENSE
+cf-uaa-lib,3.1.0,Apache 2.0,https://rubygems.org/gems/cf-uaa-lib/versions/3.1.0,
+capybara-webkit,1.6.0,MIT,https://rubygems.org/gems/capybara-webkit,
+voxtur,0.2.0,,https://rubygems.org/gems/voxtur,Page not found
+ci_reporter,2.0.0,MIT,https://rubygems.org/gems/ci_reporter,
+faraday,0.9.1,MIT,https://rubygems.org/gems/faraday,
+faraday_middleware,0.10.0,MIT,https://rubygems.org/gems/faraday_middleware,
+vara,0.12.0,,https://rubygems.org/gems/vara,Page not found
+httmultiparty,0.3.16,MIT,https://rubygems.org/gems/httmultiparty,
+net-ssh-gateway,1.2.0,MIT,https://rubygems.org/gems/net-ssh-gateway,
+nokogiri,1.6.6.2,MIT,https://rubygems.org/gems/nokogiri,
+rspec,3.1.0,MIT,https://rubygems.org/gems/rspec/versions/3.1.0,
+poltergeist,1.6.0,MIT,https://rubygems.org/gems/poltergeist,
+rspec_junit_formatter,0.2.3,MIT,https://rubygems.org/gems/rspec_junit_formatter,
+rack,1.6.1,MIT,https://rubygems.org/gems/rack/versions/1.6.1,
+rspec,3.2.0,MIT,https://rubygems.org/gems/rspec/versions/3.2.0,
+rake,10.4.2,MIT,https://rubygems.org/gems/rake/versions/10.4.2,
+rspec-core,3.2.0,MIT,https://rubygems.org/gems/rspec-core/versions/3.2.0,
+prof,0.26.7,,https://rubygems.org/gems/prof,Page not found
+rspec-expectations,3.2.0,MIT,https://rubygems.org/gems/rspec-expectations/versions/3.2.0,
+rspec-mocks,3.2.0,MIT,https://rubygems.org/gems/rspec-mocks/versions/3.2.0,
+rspec-core,3.2.3,MIT,https://rubygems.org/gems/rspec-core/versions/3.2.3,
+hula,0.6.8,,https://rubygems.org/gems/hula,Page not found
+rspec-support,3.2.0,MIT,https://rubygems.org/gems/rspec-support/versions/3.2.0,
+rspec-expectations,3.2.1,MIT,https://rubygems.org/gems/rspec-expectations/versions/3.2.1,
+fog-voxel,0.1.0,MIT,https://rubygems.org/gems/fog-voxel/versions/0.1.0,
+tempest-client,0.6.0,,https://rubygems.org/gems/tempest-client,Page not found
+rspec-support,3.2.0,MIT,https://rubygems.org/gems/rspec-support/versions/3.2.0,
+rspec-mocks,3.2.1,MIT,https://rubygems.org/gems/rspec-mocks/versions/3.2.1,
+websocket-driver,0.2.0,N/A,https://rubygems.org/gems/websocket-driver/versions/0.2.0,https://github.com/faye/websocket-driver-ruby
+minitar,0.5.4,N/A,https://rubygems.org/gems/minitar/versions/0.5.4,https://www.github.com/atoulme/minitar
+logging,1.8.2,N/A,https://rubygems.org/gems/logging/versions/1.8.2,https://github.com/TwP/logging
+diff-lcs,1.2.0,N/A,https://rubygems.org/gems/diff-lcs/versions/1.2.0,Not Found Github Url
+rack-test,0.6.3,N/A,https://rubygems.org/gems/rack-test/versions/0.6.3,https://github.com/brynary/rack-test
+rubyzip,1.1.0,N/A,https://rubygems.org/gems/rubyzip/versions/1.1.0,https://github.com/rubyzip/rubyzip
+diff-lcs,1.2.0,N/A,https://rubygems.org/gems/diff-lcs/versions/1.2.0,Not Found Github Url
+netaddr,1.5.0,N/A,https://rubygems.org/gems/netaddr/versions/1.5.0,Not Found Github Url
+ruby-atmos-pure,1.0.5,N/A,https://rubygems.org/gems/ruby-atmos-pure/versions/1.0.5,Not Found Github Url
+little-plugger,1.1.3,N/A,https://rubygems.org/gems/little-plugger/versions/1.1.3,https://github.com/TwP/little-plugger
+log4r,1.1.9,N/A,https://rubygems.org/gems/log4r/versions/1.1.9,Not Found Github Url
+little-plugger,1.1.3,N/A,https://rubygems.org/gems/little-plugger/versions/1.1.3,https://github.com/TwP/little-plugger
+ruby-hmac,0.4.0,N/A,https://rubygems.org/gems/ruby-hmac/versions/0.4.0,Not Found Github Url
+httparty,0.7.3,N/A,https://rubygems.org/gems/httparty/versions/0.7.3,https://jnunemaker.github.com/httpsarty
+log4r,1.1.10,N/A,https://rubygems.org/gems/log4r/versions/1.1.10,Not Found Github Url
+highline,1.6.2,N/A,https://rubygems.org/gems/highline/versions/1.6.2,https://github.com/JEG2/highline/blob/master/LICENSE
+nokogiri,1.4.4,N/A,https://rubygems.org/gems/nokogiri/versions/1.4.4,https://github.com/sparklemotion/nokogiri
+ruby-hmac,0.4.0,N/A,https://rubygems.org/gems/ruby-hmac/versions/0.4.0,Not Found Github Url
+progressbar,0.9.0,N/A,https://rubygems.org/gems/progressbar/versions/0.9.0,https://github.com/peleteiro/progressbar/blob/master/LICENSE
+xpath,2.0.0,N/A,https://rubygems.org/gems/xpath/versions/2.0.0,https://github.com/jnicklas/xpath
+nokogiri,1.3.3,N/A,https://rubygems.org/gems/nokogiri/versions/1.3.3,https://github.com/sparklemotion/nokogiri
+logging,1.8.2,N/A,https://rubygems.org/gems/logging/versions/1.8.2,https://github.com/TwP/logging
+terminal-table,1.4.3,N/A,https://rubygems.org/gems/terminal-table/versions/1.4.3,https://github.com/tj/terminal-table
+builder,2.1.2,N/A,https://rubygems.org/gems/builder/versions/2.1.2,https://github.com/jimweirich/builder
+rack-test,0.5.4,N/A,https://rubygems.org/gems/rack-test/versions/0.5.4,https://github.com/brynary/rack-test
+terminal-table,1.4.5,N/A,https://rubygems.org/gems/terminal-table/versions/1.4.5,https://github.com/tj/terminal-table
+minitar,0.5.4,N/A,https://rubygems.org/gems/minitar/versions/0.5.4,https://www.github.com/atoulme/minitar
+json_pure,1.7.0,N/A,https://rubygems.org/gems/json_pure/versions/1.7.0,https://flori.github.com/json
+ruby-atmos-pure,1.0.5,N/A,https://rubygems.org/gems/ruby-atmos-pure/versions/1.0.5,Not Found Github Url
+progressbar,0.9.2,N/A,https://rubygems.org/gems/progressbar/versions/0.9.2,https://github.com/peleteiro/progressbar/blob/master/LICENSE
+netaddr,1.5.0,N/A,https://rubygems.org/gems/netaddr/versions/1.5.0,Not Found Github Url
+nokogiri,1.3.0,N/A,https://rubygems.org/gems/nokogiri/versions/1.3.0,https://github.com/sparklemotion/nokogiri
+xpath,2.0.0,N/A,https://rubygems.org/gems/xpath/versions/2.0.0,https://github.com/jnicklas/xpath
+leita,,,https://rubygems.org/gems/leita,Page not found
