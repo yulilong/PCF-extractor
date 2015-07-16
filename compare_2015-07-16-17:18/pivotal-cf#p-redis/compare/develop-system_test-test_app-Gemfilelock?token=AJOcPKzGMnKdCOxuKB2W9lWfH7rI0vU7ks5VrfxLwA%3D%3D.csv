@@ -1,0 +1,10 @@
+name,1.5version,1.4version,URL,license,Delta Information,repo_name,PCF1.5_github_url,PCF1.4_url
+rack-protection,1.5.3,1.5.3,https://github.com/rack/rack-protection,MIT,No change,p-redis,,
+tilt,1.4.1,1.4.1,https://github.com/rtomayko/tilt,MIT,No change,p-redis,,
+sinatra,1.4.5,1.4.5,https://github.com/sinatra/sinatra,MIT,No change,p-redis,,
+redis,3.1.0,3.1.0,https://github.com/redis/redis-rb,MIT,No change,p-redis,,
+tilt,1.3.4,1.3.4,https://github.com/rtomayko/tilt,MIT,No change,p-redis,,
+rack,1.5.2,1.5.2,https://github.com/rack/rack,MIT,No change,p-redis,,
+rack,1.6.4,1.0.0,https://rubygems.org/gems/rack,MIT,Version Changed,p-redis,,https://github.com/rack/rack
+rack,1.4.0,1.0.0,https://rubygems.org/gems/rack/versions/1.4.0,MIT,Version Changed,p-redis,https://github.com/rack/rack/blob/master/COPYING,https://github.com/rack/rack
+rack-protection,1.4.0,1.5.3,https://rubygems.org/gems/rack-protection/versions/1.4.0,N/A,Version Changed,p-redis,https://github.com/rkh/rack-protection,https://github.com/rack/rack-protection

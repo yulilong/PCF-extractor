@@ -1,0 +1,176 @@
+Repo/Source of Dependency,Component Name,1.4 Version,Download URL,License
+cf-mongodb,terminal-table,1.4.5,https://github.com/tj/terminal-table,MIT
+cf-mongodb,builder,3.2.2,https://github.com/jimweirich/builder,MIT
+cf-mongodb,mimemagic,0.2.1,https://github.com/minad/mimemagic,MIT
+cf-mongodb,httmultiparty,0.3,https://github.com/jwagener/httmultiparty,MIT
+cf-mongodb,net-ssh,2.6.5,https://github.com/net-ssh/net-ssh,MIT
+cf-mongodb,net-ssh,2.9.1,https://github.com/net-ssh/net-ssh,MIT
+cf-mongodb,capybara,2.1,https://github.com/jnicklas/capybara,MIT
+cf-mongodb,rack,1,https://github.com/rack/rack,MIT
+cf-mongodb,nokogiri,1.3,https://github.com/sparklemotion/nokogiri,MIT
+cf-mongodb,net-scp,1.1.2,https://github.com/net-ssh/net-scp,MIT
+cf-mongodb,formatador,0.2,https://github.com/geemus/formatador,MIT
+cf-mongodb,log4r,1.1.9,https://github.com/colbygk/log4r,BSD
+cf-mongodb,fog-core,1.22,https://github.com/fog/fog-core,MIT
+cf-mongodb,net-ssh,2.1.3,https://github.com/net-ssh/net-ssh,MIT
+cf-mongodb,json_pure,1.7,https://github.com/flori/json,Ruby License
+cf-mongodb,json,1.8,https://github.com/flori/json,Ruby License
+cf-mongodb,httparty,0.7.3,https://github.com/jnunemaker/httparty,MIT
+cf-mongodb,open4,1.3.4,https://github.com/ahoward/open4,Ruby License
+cf-mongodb,fog-core,1.27.2,https://github.com/fog/fog-core,MIT
+cf-mongodb,progressbar,0.9.0,https://github.com/peleteiro/progressbar,Ruby License
+cf-mongodb,rspec-core,3.1.7,https://github.com/rspec/rspec-core,MIT
+cf-mongodb,log4r,1.1.10,https://github.com/colbygk/log4r,BSD
+cf-mongodb,nokogiri,1.6.3.1,https://github.com/sparklemotion/nokogiri,MIT
+cf-mongodb,multi_json,1.1,https://github.com/intridea/multi_json,MIT
+cf-mongodb,progressbar,0.9.0,https://github.com/peleteiro/progressbar,Ruby License
+cf-mongodb,net-ssh,2.2.1,https://github.com/net-ssh/net-ssh,MIT
+cf-mongodb,rspec-core,3.1.0,https://github.com/rspec/rspec-core,MIT
+cf-mongodb,excon,0.40.0,https://github.com/excon/excon,MIT
+cf-mongodb,terminal-table,1.4.5,https://github.com/tj/terminal-table,MIT
+cf-mongodb,poltergeist,1.5.1,https://github.com/teampoltergeist/poltergeist,MIT
+cf-mongodb,rspec,3.1,https://github.com/rspec/rspec,MIT
+cf-mongodb,multi_json,1.1,https://github.com/intridea/multi_json,MIT
+cf-mongodb,nokogiri,1.3,https://github.com/sparklemotion/nokogiri,MIT
+cf-mongodb,net-ssh,2.2.1,https://github.com/net-ssh/net-ssh,MIT
+cf-mongodb,json,1.4,https://github.com/flori/json,Ruby License
+cf-mongodb,json_pure,1.8.1,https://github.com/flori/json,Ruby License
+cf-mongodb,faraday,0.7.4,https://github.com/lostisland/faraday,MIT
+cf-mongodb,fog-core,1.23,https://github.com/fog/fog-core,MIT
+cf-mongodb,rspec-support,3.1.2,https://github.com/rspec/rspec-support,MIT
+cf-mongodb,rack-test,0.6.2,https://github.com/brynary/rack-test,MIT
+cf-mongodb,prof,0.17.2,https://github.com/ruby-prof/ruby-prof,BSD
+cf-mongodb,multi_json,1,https://github.com/intridea/multi_json,MIT
+cf-mongodb,capybara,2.4.4,https://github.com/jnicklas/capybara,MIT
+cf-mongodb,net-ssh,2.6.5,https://github.com/net-ssh/net-ssh,MIT
+cf-mongodb,net-ssh,2.2.1,https://github.com/net-ssh/net-ssh,MIT
+cf-mongodb,json,1.8,https://github.com/flori/json,Ruby License
+cf-mongodb,capybara-webkit,1.3.1,https://github.com/thoughtbot/capybara-webkit,MIT
+cf-mongodb,nokogiri,1.5.11,https://github.com/sparklemotion/nokogiri,MIT
+cf-mongodb,multipart-post,1.2,https://github.com/nicksieger/multipart-post,MIT
+cf-mongodb,json,1.8.1,https://github.com/flori/json,Ruby License
+cf-mongodb,log4r,1.1.10,https://github.com/colbygk/log4r,BSD
+cf-mongodb,nokogiri,1.4.4,https://github.com/sparklemotion/nokogiri,MIT
+cf-mongodb,multi_json,1,https://github.com/intridea/multi_json,MIT
+cf-mongodb,rack-test,0.5.4,https://github.com/brynary/rack-test,MIT
+cf-mongodb,rack,1.0.0,https://github.com/rack/rack,MIT
+cf-mongodb,multi_xml,0.5.2,https://github.com/sferik/multi_xml,MIT
+cf-mongodb,dock_it,0.2.0,https://github.com/dockitapp/dockit,MIT
+cf-mongodb,rubyzip,1.1.6,https://github.com/rubyzip/rubyzip,Ruby License
+cf-mongodb,prof,0.9.2,https://github.com/ruby-prof/ruby-prof,BSD
+cf-mongodb,terminal-table,1.4.3,https://github.com/tj/terminal-table,MIT
+cf-mongodb,net-ssh,2.1.3,https://github.com/net-ssh/net-ssh,MIT
+cf-mongodb,rspec-support,3.1.0,https://github.com/rspec/rspec-support,MIT
+cf-mongodb,net-ssh,2.9.1,https://github.com/net-ssh/net-ssh,MIT
+cf-mongodb,net-ssh,2.6.5,https://github.com/net-ssh/net-ssh,MIT
+cf-mongodb,multi_json,1.10.1,https://github.com/intridea/multi_json,MIT
+cf-mongodb,diff-lcs,1.2.0,https://github.com/halostatue/diff-lcs,MIT
+cf-mongodb,net-ssh,2.6.5,https://github.com/net-ssh/net-ssh,MIT
+cf-mongodb,nokogiri,1.3.3,https://github.com/sparklemotion/nokogiri,MIT
+cf-mongodb,nokogiri,1.6.5,https://github.com/sparklemotion/nokogiri,MIT
+cf-mongodb,xpath,2.0.0,https://github.com/jnicklas/xpath,MIT
+cf-mongodb,terminal-table,1.4.3,https://github.com/tj/terminal-table,MIT
+cf-mongodb,multi_json,1.10.1,https://github.com/intridea/multi_json,MIT
+cf-mongodb,nokogiri,1.6.3.1,https://github.com/sparklemotion/nokogiri,MIT
+cf-mongodb,rspec,3.1.0,https://github.com/rspec/rspec,MIT
+cf-mongodb,pipeline,0.1.0,https://github.com/jch/html-pipeline,MIT
+cf-mongodb,netaddr,1.5.0,http://www.ruby-doc.org/gems/docs/n/netaddr-1.5.0/NetAddr.html,RUBY
+cf-mongodb,ruby-hmac,0.4.0,https://rubygems.org/downloads/ruby-hmac-0.4.0.gem,MIT
+cf-mongodb,net-ssh,2.2.1,https://github.com/net-ssh/net-ssh,MIT
+cf-mongodb,xpath,2,https://github.com/jnicklas/xpath,MIT
+cf-mongodb,rspec-mocks,3.1.3,https://github.com/rspec/rspec-mocks,MIT
+cf-mongodb,mini_portile,0.6.0,https://github.com/flavorjones/mini_portile,MIT
+cf-mongodb,inflecto,0.0.2,https://github.com/mbj/inflecto,MIT
+cf-mongodb,httmultiparty,0.3.16,https://github.com/jwagener/httmultiparty,MIT
+cf-mongodb,formatador,0.2.5,https://github.com/geemus/formatador,MIT
+cf-mongodb,net-ssh,2.9.1,https://github.com/net-ssh/net-ssh,MIT
+cf-mongodb,progressbar,0.9.2,https://github.com/peleteiro/progressbar,Ruby License
+cf-mongodb,multipart-post,2.0.0,https://github.com/nicksieger/multipart-post,MIT
+cf-mongodb,faraday,0.9.0,https://github.com/lostisland/faraday,MIT
+cf-mongodb,progressbar,0.9.2,https://github.com/peleteiro/progressbar,Ruby License
+cf-mongodb,fog-core,1.24.0,https://github.com/fog/fog-core,MIT
+cf-mongodb,json_pure,1.7,https://github.com/flori/json,Ruby License
+cf-mongodb,formatador,0.2.5,https://github.com/geemus/formatador,MIT
+cf-mongodb,fog-softlayer,0.3.23,https://github.com/fog/fog-softlayer,MIT
+cf-mongodb,log4r,1.1.9,https://github.com/colbygk/log4r,BSD
+cf-mongodb,net-scp,1.1.0,https://github.com/net-ssh/net-scp,MIT
+cf-mongodb,excon,0.38,https://github.com/excon/excon,MIT
+cf-mongodb,net-ssh,2.1.3,https://github.com/net-ssh/net-ssh,MIT
+cf-mongodb,rspec_junit_formatter,0.2.0,https://github.com/sj26/rspec_junit_formatter,MIT
+cf-mongodb,net-scp,1.1.0,https://github.com/net-ssh/net-scp,MIT
+cf-mongodb,websocket-driver,0.4.0,https://github.com/faye/websocket-driver-ruby,MIT
+cf-mongodb,aws-sdk,1.44.0,https://github.com/aws/aws-sdk-core-ruby,APACHE 2.0
+cf-mongodb,excon,0.38,https://github.com/excon/excon,MIT
+cf-mongodb,highline,1.6.2,https://github.com/JEG2/highline,GPL-2
+cf-mongodb,net-ssh,2.2.1,https://github.com/net-ssh/net-ssh,MIT
+cf-mongodb,nokogiri,1.3,https://github.com/sparklemotion/nokogiri,MIT
+cf-mongodb,net-ssh,2.1.3,https://github.com/net-ssh/net-ssh,MIT
+cf-mongodb,nokogiri,1.4.4,https://github.com/sparklemotion/nokogiri,MIT
+cf-mongodb,highline,1.6.21,https://github.com/JEG2/highline,GPL-2
+cf-mongodb,multi_json,1.1,https://github.com/intridea/multi_json,MIT
+cf-mongodb,httparty,0.13.3,https://github.com/jnunemaker/httparty,MIT
+cf-mongodb,ci_reporter,2.0.0,https://github.com/ci-reporter/ci_reporter,MIT
+cf-mongodb,nokogiri,1.3.3,https://github.com/sparklemotion/nokogiri,MIT
+cf-mongodb,json,1.4,https://github.com/flori/json,Ruby License
+cf-mongodb,formatador,0.2,https://github.com/geemus/formatador,MIT
+cf-mongodb,rubyzip,1.1,https://github.com/rubyzip/rubyzip,Ruby License
+cf-mongodb,multi_xml,0.5.5,https://github.com/sferik/multi_xml,MIT
+cf-mongodb,nokogiri,1.5.11,https://github.com/sparklemotion/nokogiri,MIT
+cf-mongodb,rake,10.4.2,https://github.com/ruby/rake,MIT
+cf-mongodb,rspec-expectations,3.1.2,https://github.com/rspec/rspec-expectations,MIT
+cf-mongodb,cliver,0.3.1,https://github.com/yaauie/cliver,MIT
+cf-mongodb,diff-lcs,1.2.5,https://github.com/halostatue/diff-lcs,MIT
+cf-mongodb,net-scp,1.1,https://github.com/net-ssh/net-scp,MIT
+cf-mongodb,fog-softlayer,0.3.26,https://github.com/fog/fog-softlayer,MIT
+cf-mongodb,net-scp,1.1.2,https://github.com/net-ssh/net-scp,MIT
+cf-mongodb,capybara,2.0.2,https://github.com/jnicklas/capybara,MIT
+cf-mongodb,fog-brightbox,0.6.1,https://rubygems.org/gems/fog-brightbox,MIT
+cf-mongodb,net-scp,1.1,https://github.com/net-ssh/net-scp,MIT
+cf-mongodb,net-scp,1.1.2,https://github.com/net-ssh/net-scp,MIT
+cf-mongodb,net-ssh,2.9.1,https://github.com/net-ssh/net-ssh,MIT
+cf-mongodb,rspec-mocks,3.1.0,https://github.com/rspec/rspec-mocks,MIT
+cf-mongodb,net-scp,1.1,https://github.com/net-ssh/net-scp,MIT
+cf-mongodb,aws-sdk,1.60.2,https://github.com/aws/aws-sdk-core-ruby,APACHE 2.0
+cf-mongodb,net-ssh,2.9.1,https://github.com/net-ssh/net-ssh,MIT
+cf-mongodb,websocket-driver,0.2.0,https://github.com/faye/websocket-driver-ruby,MIT
+cf-mongodb,net-scp,1.1.0,https://github.com/net-ssh/net-scp,MIT
+cf-mongodb,nokogiri,1.6.3.1,https://github.com/sparklemotion/nokogiri,MIT
+cf-mongodb,multi_json,1,https://github.com/intridea/multi_json,MIT
+cf-mongodb,net-ssh,2.6.5,https://github.com/net-ssh/net-ssh,MIT
+cf-mongodb,rack,1.5.2,https://github.com/rack/rack,MIT
+cf-mongodb,json_pure,1.8.1,https://github.com/flori/json,Ruby License
+cf-mongodb,highline,1.6.21,https://github.com/JEG2/highline,GPL-2
+cf-mongodb,json,1.8.1,https://github.com/flori/json,Ruby License
+cf-mongodb,net-ssh-gateway,1.2.0,https://github.com/net-ssh/net-ssh-gateway,MIT
+cf-mongodb,highline,1.6.2,https://github.com/JEG2/highline,GPL-2
+cf-mongodb,builder,2.1.2,https://github.com/jimweirich/builder,MIT
+cf-mongodb,nokogiri,1.6.5,https://github.com/sparklemotion/nokogiri,MIT
+cf-mongodb,cliver,0.3.2,https://github.com/yaauie/cliver,MIT
+cf-mongodb,httpclient,2.4.0,https://github.com/nahi/httpclient,Ruby License
+cf-mongodb,faraday_middleware,0.9.1,https://github.com/lostisland/faraday_middleware,MIT
+cf-mongodb,ipaddress,0.5,https://github.com/bluemonk/ipaddress,MIT
+cf-mongodb,nokogiri,1.3.3,https://github.com/sparklemotion/nokogiri,MIT
+cf-mongodb,fog-brightbox,0.7.1,https://rubygems.org/gems/fog-brightbox,MIT
+cf-mongodb,mime-types,1.16,https://github.com/halostatue/mime-types,MIT
+cf-mongodb,excon,0.40.0,https://github.com/excon/excon,MIT
+cf-mongodb,nokogiri,1.4.4,https://github.com/sparklemotion/nokogiri,MIT
+cf-mongodb,minitar,0.5.4,https://github.com/atoulme/minitar,Ruby License
+cf-mongodb,ipaddress,0.8.0,https://github.com/bluemonk/ipaddress,MIT
+cf-mongodb,multi_json,1.10.1,https://github.com/intridea/multi_json,MIT
+cf-mongodb,nokogiri,1.6.5,https://github.com/sparklemotion/nokogiri,MIT
+cf-mongodb,thor,0.19.1,https://github.com/erikhuda/thor,MIT
+cf-mongodb,fog-json,1.0.0,https://github.com/fog/fog-json,MIT
+cf-mongodb,rspec-expectations,3.1.0,https://github.com/rspec/rspec-expectations,MIT
+cf-mongodb,fog,1.23.0,https://github.com/fog/fog,MIT
+cf-mongodb,mime-types,2.4.3,https://github.com/halostatue/mime-types,MIT
+cf-mongodb,net-ssh,2.1.3,https://github.com/net-ssh/net-ssh,MIT
+cf-mongodb,nokogiri,1.5.11,https://github.com/sparklemotion/nokogiri,MIT
+cf-mongodb,mongodb-linux-x86_64-2.6.3.tgz,2.6.3,http://downloads.mongodb.org/linux/mongodb-linux-x86_64-2.6.3.tgz,AGPL-3.0
+cf-mongodb,pcre-8.34.tar.gz,8.34,http://sourceforge.net/projects/pcre/files/pcre/8.34/pcre-8.34.tar.gz/download,BSD
+cf-mongodb,nginx-1.7.3.tar.gz,1.7.3,http://nginx.org/download/nginx-1.7.3.tar.gz,BSD
+cf-mongodb,bundler-1.6.5.gem,1.6.5,https://rubygems.org/downloads/bundler-1.6.5.gem,MIT
+cf-mongodb,ruby-2.1.2.tar.gz,2.1.2,https://cache.ruby-lang.org/pub/ruby/2.1/ruby-2.1.2.tar.gz,Ruby License
+cf-mongodb,yaml-0.1.5.tar.gz,0.1.5,http://pyyaml.org/download/libyaml/yaml-0.1.5.tar.gz,MIT
+cf-mongodb,ruby-2.0.0-p481.tar.gz,2.0.0-p481,https://cache.ruby-lang.org/pub/ruby/2.0/ruby-2.0.0-p481.tar.gz,Ruby License
+cf-mongodb,rubygems-2.1.11.tgz,2.1.11,http://production.cf.rubygems.org/rubygems/rubygems-2.1.11.tgz,Ruby License
+cf-mongodb,bundler-1.3.5.gem,1.3.5,https://rubygems.org/downloads/bundler-1.3.5.gem,MIT

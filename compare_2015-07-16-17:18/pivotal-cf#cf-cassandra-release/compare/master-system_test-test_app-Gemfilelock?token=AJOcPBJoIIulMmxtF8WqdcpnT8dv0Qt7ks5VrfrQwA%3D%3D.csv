@@ -1,0 +1,16 @@
+name,1.5version,1.4version,URL,license,Delta Information,repo_name,PCF1.5_github_url,PCF1.4_url
+rack-protection,1.5.2,None,https://rubygems.org/gems/rack-protection/versions/1.5.2,MIT,New in 1.5,cf-cassandra-release,,
+rack,1.5.2,1.5.2,https://github.com/rack/rack,MIT,No change,cf-cassandra-release,,
+tilt,1.4.1,None,https://rubygems.org/gems/tilt/versions/1.4.1,MIT,New in 1.5,cf-cassandra-release,,
+simple_uuid,0.4.0,0.4.0,https://github.com/cassandra-rb/simple_uuid,Apache License2.0,No change,cf-cassandra-release,,
+rack,1.6.4,1,https://rubygems.org/gems/rack,MIT,Version Changed,cf-cassandra-release,,https://github.com/rack/rack
+tilt,1.3.4,None,https://rubygems.org/gems/tilt/versions/1.3.4,MIT,New in 1.5,cf-cassandra-release,,
+sinatra,1.4.4,None,https://rubygems.org/gems/sinatra/versions/1.4.4,MIT,New in 1.5,cf-cassandra-release,https://github.com/sinatra/sinatra/blob/master/LICENSE,
+thrift_client,0.8.4,0.8.4,https://github.com/twitter/thrift_client,Apache License2.0,No change,cf-cassandra-release,,
+thrift_client,0.7.1,0.7,https://rubygems.org/gems/thrift_client/versions/0.7.1,Apache,Version Changed,cf-cassandra-release,https://github.com/twitter/thrift_client/blob/master/LICENSE,https://github.com/twitter/thrift_client
+rack,1.4.0,1,https://rubygems.org/gems/rack/versions/1.4.0,MIT,Version Changed,cf-cassandra-release,https://github.com/rack/rack/blob/master/COPYING,https://github.com/rack/rack
+simple_uuid,0.2.0,0.3,https://rubygems.org/gems/simple_uuid/versions/0.2.0,N/A,Version Changed,cf-cassandra-release,https://github.com/cassandra-rb/simple_uuid/blob/master/LICENSE,https://github.com/cassandra-rb/simple_uuid
+rack-protection,1.4.0,None,https://rubygems.org/gems/rack-protection/versions/1.4.0,N/A,New in 1.5,cf-cassandra-release,https://github.com/rkh/rack-protection,
+thrift,0.8.0,0.8.0,https://github.com/opscode-cookbooks/thrift,APACHE-2.0,No change,cf-cassandra-release,,
+thrift,0.8.0,0.8.0,https://github.com/opscode-cookbooks/thrift,APACHE-2.0,No change,cf-cassandra-release,,
+cassandra-cql,1.2.2,None,https://rubygems.org/gems/cassandra-cql/versions/1.2.2,N/A,New in 1.5,cf-cassandra-release,Not Found Github Url,

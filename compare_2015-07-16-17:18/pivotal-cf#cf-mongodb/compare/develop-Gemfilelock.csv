@@ -1,0 +1,250 @@
+name,1.5version,1.4version,URL,license,Delta Information,repo_name
+httpclient,2.4.0,2.4.0,https://github.com/nahi/httpclient,Ruby License,No change,cf-mongodb,,
+aws-sdk,1.60.2,1.60.2,https://github.com/aws/aws-sdk-core-ruby,APACHE 2.0,No change,cf-mongodb,,
+aws-sdk,1.60.2,1.60.2,https://github.com/aws/aws-sdk-core-ruby,APACHE 2.0,No change,cf-mongodb,,
+bosh_common,1.2891.0,None,https://rubygems.org/gems/bosh_common/versions/1.2891.0,Apache 2.0,New in 1.5,cf-mongodb,,
+aws-sdk-v1,1.60.2,None,https://rubygems.org/gems/aws-sdk-v1/versions/1.60.2,Apache 2.0,New in 1.5,cf-mongodb,,
+blobstore_client,1.2891.0,None,https://rubygems.org/gems/blobstore_client/versions/1.2891.0,Apache 2.0,New in 1.5,cf-mongodb,,
+aws-sdk-v1,1.60.2,None,https://rubygems.org/gems/aws-sdk-v1/versions/1.60.2,Apache 2.0,New in 1.5,cf-mongodb,,
+CFPropertyList,2.3.1,None,https://rubygems.org/gems/CFPropertyList/versions/2.3.1,MIT,New in 1.5,cf-mongodb,,
+fog,1.27.0,1.23.0,https://rubygems.org/gems/fog/versions/1.27.0,MIT,Version Changed,cf-mongodb,,https://github.com/fog/fog
+fog-xml,0.1.2,None,https://rubygems.org/gems/fog-xml,MIT,New in 1.5,cf-mongodb,,
+httpclient,2.4.0,2.4.0,https://github.com/nahi/httpclient,Ruby License,No change,cf-mongodb,,
+net-scp,1.1.0,1.1.0,https://github.com/net-ssh/net-scp,MIT,No change,cf-mongodb,,
+net-ssh-gateway,1.2.0,1.2.0,https://github.com/net-ssh/net-ssh-gateway,MIT,No change,cf-mongodb,,
+ruby-atmos-pure,1.0.5,None,https://rubygems.org/gems/ruby-atmos-pure/versions/1.0.5,N/A,New in 1.5,cf-mongodb,Not Found Github Url,
+json,1.4.0,1.8,https://rubygems.org/gems/json/versions/1.4.0,N/A,Version Changed,cf-mongodb,https://flori.github.com/json/,https://github.com/flori/json
+bosh_common,1.2891.0,None,https://rubygems.org/gems/bosh_common/versions/1.2891.0,Apache 2.0,New in 1.5,cf-mongodb,,
+bosh_cli,1.2891.0,None,https://rubygems.org/gems/bosh_cli/versions/1.2891.0,Apache 2.0,New in 1.5,cf-mongodb,,
+bosh_common,1.2891.0,None,https://rubygems.org/gems/bosh_common/versions/1.2891.0,Apache 2.0,New in 1.5,cf-mongodb,,
+bosh-template,1.2891.0,None,https://rubygems.org/gems/bosh-template/versions/1.2891.0,Apache 2.0,New in 1.5,cf-mongodb,,
+nokogiri,1.4.4,1.4.4,https://github.com/sparklemotion/nokogiri,MIT,No change,cf-mongodb,,
+bosh-template,1.2891.0,None,https://rubygems.org/gems/bosh-template/versions/1.2891.0,Apache 2.0,New in 1.5,cf-mongodb,,
+semi_semantic,1.1.0,None,https://rubygems.org/gems/semi_semantic/versions/1.1.0,Apache 2.0,New in 1.5,cf-mongodb,,
+blobstore_client,1.2891.0,None,https://rubygems.org/gems/blobstore_client/versions/1.2891.0,Apache 2.0,New in 1.5,cf-mongodb,,
+semi_semantic,1.1.0,None,https://rubygems.org/gems/semi_semantic/versions/1.1.0,Apache 2.0,New in 1.5,cf-mongodb,,
+bson,1.9.2,None,https://rubygems.org/gems/bson/versions/1.9.2,Apache License Version 2.0,New in 1.5,cf-mongodb,,
+rspec-core,3.3.2,3.1.7,https://rubygems.org/gems/rspec-core,MIT,Version Changed,cf-mongodb,,https://github.com/rspec/rspec-core
+httmultiparty,0.3.16,0.3.16,https://github.com/jwagener/httmultiparty,MIT,No change,cf-mongodb,,
+builder,3.2.2,3.2.2,https://github.com/jimweirich/builder,MIT,No change,cf-mongodb,,
+capybara,2.4.4,2.4.4,https://github.com/jnicklas/capybara,MIT,No change,cf-mongodb,,
+capybara,2.3.0,2.1,https://rubygems.org/gems/capybara/versions/2.3.0,MIT,Version Changed,cf-mongodb,,https://github.com/jnicklas/capybara
+capybara-webkit,1.5.2,1.3.1,https://rubygems.org/gems/capybara-webkit/versions/1.5.2,MIT,Version Changed,cf-mongodb,,https://github.com/thoughtbot/capybara-webkit
+json,1.8.3,1.8,https://rubygems.org/gems/json,Ruby,Version Changed,cf-mongodb,,https://github.com/flori/json
+websocket-extensions,0.1.2,None,https://rubygems.org/gems/websocket-extensions/versions/0.1.2,MIT,New in 1.5,cf-mongodb,,
+multi_json,1.11.2,1.1,https://rubygems.org/gems/multi_json,MIT,Version Changed,cf-mongodb,,https://github.com/intridea/multi_json
+cf-uaa-lib,3.1.0,None,https://rubygems.org/gems/cf-uaa-lib/versions/3.1.0,Apache 2.0,New in 1.5,cf-mongodb,,
+ci_reporter,2.0.0,2.0.0,https://github.com/ci-reporter/ci_reporter,MIT,No change,cf-mongodb,,
+websocket-extensions,0.1.0,None,https://rubygems.org/gems/websocket-extensions/versions/0.1.0,MIT,New in 1.5,cf-mongodb,,
+cliver,0.3.2,0.3.2,https://github.com/yaauie/cliver,MIT,No change,cf-mongodb,,
+diffy,3.0.7,None,https://rubygems.org/gems/diffy,MIT,New in 1.5,cf-mongodb,,
+diff-lcs,1.2.5,1.2.5,https://github.com/halostatue/diff-lcs,MIT,No change,cf-mongodb,,
+nokogiri,1.6.6.2,1.3,https://rubygems.org/gems/nokogiri,MIT,Version Changed,cf-mongodb,,https://github.com/sparklemotion/nokogiri
+diffy,3.0.7,None,https://rubygems.org/gems/diffy/versions/3.0.7,MIT,New in 1.5,cf-mongodb,,
+multi_json,1.1.0,1.1,https://rubygems.org/gems/multi_json/versions/1.1.0,MIT,Version Changed,cf-mongodb,https://github.com/intridea/multi_json/blob/master/LICENSE.md,https://github.com/intridea/multi_json
+builder,3.2.2,3.2.2,https://github.com/jimweirich/builder,MIT,No change,cf-mongodb,,
+rack,1.0.0,1.0.0,https://github.com/rack/rack,MIT,No change,cf-mongodb,,
+excon,0.45.3,0.40.0,https://rubygems.org/gems/excon/versions/0.45.3,MIT,Version Changed,cf-mongodb,,https://github.com/excon/excon
+mime-types,2.6.1,1.16,https://rubygems.org/gems/mime-types,MIT,Version Changed,cf-mongodb,,https://github.com/halostatue/mime-types
+websocket-driver,0.5.4,0.4.0,https://rubygems.org/gems/websocket-driver/versions/0.5.4,MIT,Version Changed,cf-mongodb,,https://github.com/faye/websocket-driver-ruby
+faraday,0.9.1,0.7.4,https://rubygems.org/gems/faraday/versions/0.9.1,MIT,Version Changed,cf-mongodb,,https://github.com/lostisland/faraday
+net-ssh,2.2.1,2.2.1,https://github.com/net-ssh/net-ssh,MIT,No change,cf-mongodb,,
+multipart-post,1.2.0,1.2,https://rubygems.org/gems/multipart-post/versions/1.2.0,MIT,Version Changed,cf-mongodb,,https://github.com/nicksieger/multipart-post
+thor,0.19.1,0.19.1,https://github.com/erikhuda/thor,MIT,No change,cf-mongodb,,
+aws-sdk,2.1.7,1.44.0,https://rubygems.org/gems/aws-sdk,Apache 2.0,Version Changed,cf-mongodb,,https://github.com/aws/aws-sdk-core-ruby
+fog,1.27.0,1.23.0,https://rubygems.org/gems/fog/versions/1.27.0,MIT,Version Changed,cf-mongodb,,https://github.com/fog/fog
+fog-atmos,0.1.0,None,https://rubygems.org/gems/fog-atmos,MIT,New in 1.5,cf-mongodb,,
+open4,1.3.4,1.3.4,https://github.com/ahoward/open4,Ruby License,No change,cf-mongodb,,
+fog-brightbox,0.4.0,0.6.1,https://rubygems.org/gems/fog-brightbox/versions/0.4.0,MIT,Version Changed,cf-mongodb,,https://rubygems.org/gems/fog-brightbox
+fog-core,1.27.3,1.22,https://rubygems.org/gems/fog-core/versions/1.27.3,MIT,Version Changed,cf-mongodb,,https://github.com/fog/fog-core
+fog-ecloud,0.3.0,None,https://rubygems.org/gems/fog-ecloud,MIT,New in 1.5,cf-mongodb,,
+thor,0.19.1,0.19.1,https://github.com/erikhuda/thor,MIT,No change,cf-mongodb,,
+fog-json,1.0.2,1.0.0,https://rubygems.org/gems/fog-json,MIT,Version Changed,cf-mongodb,,https://github.com/fog/fog-json
+fog-profitbricks,0.0.3,None,https://rubygems.org/gems/fog-profitbricks,MIT,New in 1.5,cf-mongodb,,
+fog-radosgw,0.0.2,None,https://rubygems.org/gems/fog-radosgw/versions/0.0.2,MIT,New in 1.5,cf-mongodb,,
+faraday_middleware,0.9.1,0.9.1,https://github.com/lostisland/faraday_middleware,MIT,No change,cf-mongodb,,
+fog-sakuracloud,0.0.4,None,https://rubygems.org/gems/fog-sakuracloud/versions/0.0.4,MIT,New in 1.5,cf-mongodb,,
+netaddr,1.5.0,1.5.0,http://www.ruby-doc.org/gems/docs/n/netaddr-1.5.0/NetAddr.html,RUBY,No change,cf-mongodb,,
+fog-serverlove,0.1.2,None,https://rubygems.org/gems/fog-serverlove,MIT,New in 1.5,cf-mongodb,,
+fog-softlayer,0.4.7,0.3.23,https://rubygems.org/gems/fog-softlayer,MIT,Version Changed,cf-mongodb,,https://github.com/fog/fog-softlayer
+fog-storm_on_demand,0.1.1,None,https://rubygems.org/gems/fog-storm_on_demand,MIT,New in 1.5,cf-mongodb,,
+fog-terremark,0.1.0,None,https://rubygems.org/gems/fog-terremark,MIT,New in 1.5,cf-mongodb,,
+fog-vmfusion,0.1.0,None,https://rubygems.org/gems/fog-vmfusion,MIT,New in 1.5,cf-mongodb,,
+fog-voxel,0.1.0,None,https://rubygems.org/gems/fog-voxel,MIT,New in 1.5,cf-mongodb,,
+fog-xml,0.1.1,None,https://rubygems.org/gems/fog-xml/versions/0.1.1,MIT,New in 1.5,cf-mongodb,,
+nokogiri,1.5.11,1.5.11,https://github.com/sparklemotion/nokogiri,MIT,No change,cf-mongodb,,
+rack,1.0.0,1.0.0,https://github.com/rack/rack,MIT,No change,cf-mongodb,,
+minitar,0.5.4,0.5.4,https://github.com/atoulme/minitar,Ruby License,No change,cf-mongodb,,
+fog-aws,0.7.3,None,https://rubygems.org/gems/fog-aws,MIT,New in 1.5,cf-mongodb,,
+fog-atmos,0.1.0,None,https://rubygems.org/gems/fog-atmos/versions/0.1.0,MIT,New in 1.5,cf-mongodb,,
+fog-core,1.32.0,1.22,https://rubygems.org/gems/fog-core,MIT,Version Changed,cf-mongodb,,https://github.com/fog/fog-core
+fog-xml,0.1.2,None,https://rubygems.org/gems/fog-xml,MIT,New in 1.5,cf-mongodb,,
+fog-aws,0.1.2,None,https://rubygems.org/gems/fog-aws/versions/0.1.2,MIT,New in 1.5,cf-mongodb,,
+fog-core,1.27.0,1.22,https://rubygems.org/gems/fog-core/versions/1.27.0,MIT,Version Changed,cf-mongodb,,https://github.com/fog/fog-core
+fog-xml,0.1.0,None,https://rubygems.org/gems/fog-xml/versions/0.1.0,MIT,New in 1.5,cf-mongodb,,
+nokogiri,1.3.0,1.3,https://rubygems.org/gems/nokogiri/versions/1.3.0,N/A,Version Changed,cf-mongodb,https://github.com/sparklemotion/nokogiri,https://github.com/sparklemotion/nokogiri
+fog-brightbox,0.7.1,0.7.1,https://rubygems.org/gems/fog-brightbox,MIT,No change,cf-mongodb,,
+fog-core,1.22.0,1.22,https://rubygems.org/gems/fog-core/versions/1.22.0,MIT,Version Changed,cf-mongodb,,https://github.com/fog/fog-core
+fog-json,1.0.2,1.0.0,https://rubygems.org/gems/fog-json,MIT,Version Changed,cf-mongodb,,https://github.com/fog/fog-json
+fog-core,1.30.0,1.22,https://rubygems.org/gems/fog-core/versions/1.30.0,MIT,Version Changed,cf-mongodb,,https://github.com/fog/fog-core
+builder,3.2.2,3.2.2,https://github.com/jimweirich/builder,MIT,No change,cf-mongodb,,
+excon,0.45.0,0.40.0,https://rubygems.org/gems/excon/versions/0.45.0,MIT,Version Changed,cf-mongodb,,https://github.com/excon/excon
+mime-types,2.6.1,1.16,https://rubygems.org/gems/mime-types,MIT,Version Changed,cf-mongodb,,https://github.com/halostatue/mime-types
+fog-json,1.0.0,1.0.0,https://github.com/fog/fog-json,MIT,No change,cf-mongodb,,
+net-scp,1.1.0,1.1.0,https://github.com/net-ssh/net-scp,MIT,No change,cf-mongodb,,
+CFPropertyList,2.2.0,None,https://rubygems.org/gems/CFPropertyList/versions/2.2.0,MIT,New in 1.5,cf-mongodb,https://github.com/ckruse/CFPropertyList/blob/master/LICENSE,
+fog-ecloud,0.1.1,None,https://rubygems.org/gems/fog-ecloud/versions/0.1.1,MIT,New in 1.5,cf-mongodb,,
+fog-core,1.32.0,1.22,https://rubygems.org/gems/fog-core,MIT,Version Changed,cf-mongodb,,https://github.com/fog/fog-core
+fog-xml,0.1.2,None,https://rubygems.org/gems/fog-xml,MIT,New in 1.5,cf-mongodb,,
+fog-json,1.0.1,1.0.0,https://rubygems.org/gems/fog-json/versions/1.0.1,MIT,Version Changed,cf-mongodb,,https://github.com/fog/fog-json
+faraday,0.7.4,0.7.4,https://github.com/lostisland/faraday,MIT,No change,cf-mongodb,,
+fission,0.5.0,None,https://rubygems.org/gems/fission/versions/0.5.0,MIT,New in 1.5,cf-mongodb,https://github.com/thbishop/fission/blob/master/LICENSE,
+fog-profitbricks,0.0.2,None,https://rubygems.org/gems/fog-profitbricks/versions/0.0.2,MIT,New in 1.5,cf-mongodb,,
+fog-core,1.32.0,1.22,https://rubygems.org/gems/fog-core,MIT,Version Changed,cf-mongodb,,https://github.com/fog/fog-core
+fog-xml,0.1.2,None,https://rubygems.org/gems/fog-xml,MIT,New in 1.5,cf-mongodb,,
+nokogiri,1.6.6.2,1.3,https://rubygems.org/gems/nokogiri,MIT,Version Changed,cf-mongodb,,https://github.com/sparklemotion/nokogiri
+fog-radosgw,0.0.4,None,https://rubygems.org/gems/fog-radosgw/versions/0.0.4,MIT,New in 1.5,cf-mongodb,,
+fog-core,1.21.0,1.22,https://rubygems.org/gems/fog-core/versions/1.21.0,MIT,Version Changed,cf-mongodb,,https://github.com/fog/fog-core
+fog-json,1.0.2,1.0.0,https://rubygems.org/gems/fog-json,MIT,Version Changed,cf-mongodb,,https://github.com/fog/fog-json
+fog-sakuracloud,1.0.1,None,https://rubygems.org/gems/fog-sakuracloud/versions/1.0.1,MIT,New in 1.5,cf-mongodb,,
+fog-core,1.32.0,1.22,https://rubygems.org/gems/fog-core,MIT,Version Changed,cf-mongodb,,https://github.com/fog/fog-core
+fog-json,1.0.2,1.0.0,https://rubygems.org/gems/fog-json,MIT,Version Changed,cf-mongodb,,https://github.com/fog/fog-json
+fog-serverlove,0.1.2,None,https://rubygems.org/gems/fog-serverlove/versions/0.1.2,MIT,New in 1.5,cf-mongodb,,
+fog-core,1.32.0,1.22,https://rubygems.org/gems/fog-core,MIT,Version Changed,cf-mongodb,,https://github.com/fog/fog-core
+fog-json,1.0.2,1.0.0,https://rubygems.org/gems/fog-json,MIT,Version Changed,cf-mongodb,,https://github.com/fog/fog-json
+fog-softlayer,0.4.5,0.3.23,https://rubygems.org/gems/fog-softlayer/versions/0.4.5,MIT,Version Changed,cf-mongodb,,https://github.com/fog/fog-softlayer
+fog-core,1.32.0,1.22,https://rubygems.org/gems/fog-core,MIT,Version Changed,cf-mongodb,,https://github.com/fog/fog-core
+fog-json,1.0.2,1.0.0,https://rubygems.org/gems/fog-json,MIT,Version Changed,cf-mongodb,,https://github.com/fog/fog-json
+fog-storm_on_demand,0.1.1,None,https://rubygems.org/gems/fog-storm_on_demand/versions/0.1.1,MIT,New in 1.5,cf-mongodb,,
+fog-core,1.32.0,1.22,https://rubygems.org/gems/fog-core,MIT,Version Changed,cf-mongodb,,https://github.com/fog/fog-core
+ipaddress,0.5.0,0.5,https://rubygems.org/gems/ipaddress/versions/0.5.0,MIT,Version Changed,cf-mongodb,https://github.com/bluemonk/ipaddress/blob/master/LICENSE.txt,https://github.com/bluemonk/ipaddress
+fog-json,1.0.2,1.0.0,https://rubygems.org/gems/fog-json,MIT,Version Changed,cf-mongodb,,https://github.com/fog/fog-json
+fog-core,1.32.0,1.22,https://rubygems.org/gems/fog-core,MIT,Version Changed,cf-mongodb,,https://github.com/fog/fog-core
+fog-terremark,0.1.0,None,https://rubygems.org/gems/fog-terremark/versions/0.1.0,MIT,New in 1.5,cf-mongodb,,
+fog-core,1.32.0,1.22,https://rubygems.org/gems/fog-core,MIT,Version Changed,cf-mongodb,,https://github.com/fog/fog-core
+fog-xml,0.1.2,None,https://rubygems.org/gems/fog-xml,MIT,New in 1.5,cf-mongodb,,
+fog-vmfusion,0.1.0,None,https://rubygems.org/gems/fog-vmfusion/versions/0.1.0,MIT,New in 1.5,cf-mongodb,,
+fog-core,1.32.0,1.22,https://rubygems.org/gems/fog-core,MIT,Version Changed,cf-mongodb,,https://github.com/fog/fog-core
+fog-voxel,0.1.0,None,https://rubygems.org/gems/fog-voxel/versions/0.1.0,MIT,New in 1.5,cf-mongodb,,
+ipaddress,0.8.0,0.8.0,https://github.com/bluemonk/ipaddress,MIT,No change,cf-mongodb,,
+fog-xml,0.1.2,None,https://rubygems.org/gems/fog-xml,MIT,New in 1.5,cf-mongodb,,
+fog-core,1.32.0,1.22,https://rubygems.org/gems/fog-core,MIT,Version Changed,cf-mongodb,,https://github.com/fog/fog-core
+fog-xml,0.1.2,None,https://rubygems.org/gems/fog-xml/versions/0.1.2,MIT,New in 1.5,cf-mongodb,,
+formatador,0.2.0,0.2,https://rubygems.org/gems/formatador/versions/0.2.0,MIT,Version Changed,cf-mongodb,https://github.com/geemus/formatador/blob/master/LICENSE.md,https://github.com/geemus/formatador
+fog-core,1.32.0,1.22,https://rubygems.org/gems/fog-core,MIT,Version Changed,cf-mongodb,,https://github.com/fog/fog-core
+nokogiri,1.5.11,1.5.11,https://github.com/sparklemotion/nokogiri,MIT,No change,cf-mongodb,,
+highline,1.6.21,1.6.21,https://github.com/JEG2/highline,GPL-2,No change,cf-mongodb,,
+httmultiparty,0.3.16,0.3.16,https://github.com/jwagener/httmultiparty,MIT,No change,cf-mongodb,,
+mimemagic,0.3.0,0.2.1,https://rubygems.org/gems/mimemagic,MIT,Version Changed,cf-mongodb,,https://github.com/minad/mimemagic
+multipart-post,2.0.0,2.0.0,https://github.com/nicksieger/multipart-post,MIT,No change,cf-mongodb,,
+inflecto,0.0.2,0.0.2,https://github.com/mbj/inflecto,MIT,No change,cf-mongodb,,
+multi_json,1.0.0,1.1,https://rubygems.org/gems/multi_json/versions/1.0.0,MIT,Version Changed,cf-mongodb,https://github.com/intridea/multi_json/blob/master/LICENSE.md,https://github.com/intridea/multi_json
+httparty,0.13.5,0.7.3,https://rubygems.org/gems/httparty/versions/0.13.5,MIT,Version Changed,cf-mongodb,,https://github.com/jnunemaker/httparty
+json,1.8.0,1.8,https://rubygems.org/gems/json/versions/1.8.0,Ruby,Version Changed,cf-mongodb,,https://github.com/flori/json
+multi_xml,0.5.2,0.5.2,https://github.com/sferik/multi_xml,MIT,No change,cf-mongodb,,
+httpclient,2.4.0,2.4.0,https://github.com/nahi/httpclient,Ruby License,No change,cf-mongodb,,
+json,1.8.2,1.8,https://rubygems.org/gems/json/versions/1.8.2,Ruby,Version Changed,cf-mongodb,,https://github.com/flori/json
+json_pure,1.8.2,1.7,https://rubygems.org/gems/json_pure/versions/1.8.2,Ruby,Version Changed,cf-mongodb,,https://github.com/flori/json
+net-ssh,2.1.3,2.1.3,https://github.com/net-ssh/net-ssh,MIT,No change,cf-mongodb,,
+multi_json,1.8.4,1.1,https://rubygems.org/gems/multi_json/versions/1.8.4,MIT,Version Changed,cf-mongodb,,https://github.com/intridea/multi_json
+mime-types,2.4.3,2.4.3,https://github.com/halostatue/mime-types,MIT,No change,cf-mongodb,,
+mimemagic,0.3.0,0.2.1,https://rubygems.org/gems/mimemagic/versions/0.3.0,MIT,Version Changed,cf-mongodb,,https://github.com/minad/mimemagic
+mini_portile,0.6.2,0.6.0,https://rubygems.org/gems/mini_portile/versions/0.6.2,MIT,Version Changed,cf-mongodb,,https://github.com/flavorjones/mini_portile
+mongo,1.9.2,None,https://rubygems.org/gems/mongo/versions/1.9.2,Apache License Version 2.0,New in 1.5,cf-mongodb,,
+bson,1.9.2,None,https://rubygems.org/gems/bson/versions/1.9.2,Apache License Version 2.0,New in 1.5,cf-mongodb,,
+rubyzip,1.1.7,1.1.6,https://rubygems.org/gems/rubyzip/versions/1.1.7,BSD 2-Clause,Version Changed,cf-mongodb,,https://github.com/rubyzip/rubyzip
+multi_json,1.11.0,1.1,https://rubygems.org/gems/multi_json/versions/1.11.0,MIT,Version Changed,cf-mongodb,,https://github.com/intridea/multi_json
+fission,0.5.0,None,https://rubygems.org/gems/fission,MIT,New in 1.5,cf-mongodb,https://github.com/thbishop/fission/blob/master/LICENSE,
+semi_semantic,1.1.0,None,https://rubygems.org/gems/semi_semantic/versions/1.1.0,Apache 2.0,New in 1.5,cf-mongodb,,
+xpath,2.0.0,2.0.0,https://github.com/jnicklas/xpath,MIT,No change,cf-mongodb,,
+multi_xml,0.5.5,0.5.5,https://github.com/sferik/multi_xml,MIT,No change,cf-mongodb,,
+multipart-post,2.0.0,2.0.0,https://github.com/nicksieger/multipart-post,MIT,No change,cf-mongodb,,
+rspec_junit_formatter,0.2.3,0.2.0,https://rubygems.org/gems/rspec_junit_formatter/versions/0.2.3,MIT,Version Changed,cf-mongodb,,https://github.com/sj26/rspec_junit_formatter
+net-scp,1.1.2,1.1.2,https://github.com/net-ssh/net-scp,MIT,No change,cf-mongodb,,
+net-ssh,2.6.5,2.6.5,https://github.com/net-ssh/net-ssh,MIT,No change,cf-mongodb,,
+net-ssh,2.9.2,2.6.5,https://rubygems.org/gems/net-ssh/versions/2.9.2,MIT,Version Changed,cf-mongodb,,https://github.com/net-ssh/net-ssh
+rspec-support,3.2.2,3.1.2,https://rubygems.org/gems/rspec-support/versions/3.2.2,MIT,Version Changed,cf-mongodb,,https://github.com/rspec/rspec-support
+net-ssh-gateway,1.2.0,1.2.0,https://github.com/net-ssh/net-ssh-gateway,MIT,No change,cf-mongodb,,
+net-ssh,2.6.5,2.6.5,https://github.com/net-ssh/net-ssh,MIT,No change,cf-mongodb,,
+pipeline,0.0.9,0.1.0,https://rubygems.org/gems/pipeline,MIT,Version Changed,cf-mongodb,https://github.com/dtsato/pipeline/blob/master/LICENSE,https://github.com/jch/html-pipeline
+formatador,0.2.5,0.2.5,https://github.com/geemus/formatador,MIT,No change,cf-mongodb,,
+json_pure,1.7.0,1.7,https://rubygems.org/gems/json_pure/versions/1.7.0,N/A,Version Changed,cf-mongodb,https://flori.github.com/json,https://github.com/flori/json
+nokogiri,1.6.6.2,1.3,https://rubygems.org/gems/nokogiri/versions/1.6.6.2,MIT,Version Changed,cf-mongodb,,https://github.com/sparklemotion/nokogiri
+mini_portile,0.6.0,0.6.0,https://github.com/flavorjones/mini_portile,MIT,No change,cf-mongodb,,
+terminal-table,1.4.3,1.4.3,https://github.com/tj/terminal-table,MIT,No change,cf-mongodb,,
+aws-sdk,2.1.7,1.44.0,https://rubygems.org/gems/aws-sdk,Apache 2.0,Version Changed,cf-mongodb,,https://github.com/aws/aws-sdk-core-ruby
+rspec-support,3.2.0,3.1.2,https://rubygems.org/gems/rspec-support/versions/3.2.0,MIT,Version Changed,cf-mongodb,,https://github.com/rspec/rspec-support
+ipaddress,0.8.0,0.8.0,https://github.com/bluemonk/ipaddress,MIT,No change,cf-mongodb,,
+bosh_cli,1.3016.0,None,https://rubygems.org/gems/bosh_cli,Apache 2.0,New in 1.5,cf-mongodb,,
+rake,10.4.2,10.4.2,https://github.com/ruby/rake,MIT,No change,cf-mongodb,,
+open4,1.3.4,1.3.4,https://github.com/ahoward/open4,Ruby License,No change,cf-mongodb,,
+poltergeist,1.6.0,1.5.1,https://rubygems.org/gems/poltergeist/versions/1.6.0,MIT,Version Changed,cf-mongodb,,https://github.com/teampoltergeist/poltergeist
+inflecto,0.0.2,0.0.2,https://github.com/mbj/inflecto,MIT,No change,cf-mongodb,,
+cliver,0.3.1,0.3.1,https://github.com/yaauie/cliver,MIT,No change,cf-mongodb,,
+bosh_cli,1.2534.0,None,https://rubygems.org/gems/bosh_cli/versions/1.2534.0,Apache 2.0,New in 1.5,cf-mongodb,,
+capybara,2.4.4,2.4.4,https://github.com/jnicklas/capybara,MIT,No change,cf-mongodb,,
+capybara-webkit,1.6.0,1.3.1,https://rubygems.org/gems/capybara-webkit,MIT,Version Changed,cf-mongodb,,https://github.com/thoughtbot/capybara-webkit
+cf-uaa-lib,3.1.0,None,https://rubygems.org/gems/cf-uaa-lib/versions/3.1.0,Apache 2.0,New in 1.5,cf-mongodb,,
+ci_reporter,2.0.0,2.0.0,https://github.com/ci-reporter/ci_reporter,MIT,No change,cf-mongodb,,
+faraday,0.9.1,0.7.4,https://rubygems.org/gems/faraday,MIT,Version Changed,cf-mongodb,,https://github.com/lostisland/faraday
+faraday_middleware,0.10.0,0.9.1,https://rubygems.org/gems/faraday_middleware,MIT,Version Changed,cf-mongodb,,https://github.com/lostisland/faraday_middleware
+httmultiparty,0.3.16,0.3.16,https://github.com/jwagener/httmultiparty,MIT,No change,cf-mongodb,,
+net-ssh-gateway,1.2.0,1.2.0,https://github.com/net-ssh/net-ssh-gateway,MIT,No change,cf-mongodb,,
+nokogiri,1.6.6.2,1.3,https://rubygems.org/gems/nokogiri,MIT,Version Changed,cf-mongodb,,https://github.com/sparklemotion/nokogiri
+poltergeist,1.6.0,1.5.1,https://rubygems.org/gems/poltergeist,MIT,Version Changed,cf-mongodb,,https://github.com/teampoltergeist/poltergeist
+rspec,3.1.0,3.1.0,https://github.com/rspec/rspec,MIT,No change,cf-mongodb,,
+capybara,2.1.0,2.1,https://rubygems.org/gems/capybara/versions/2.1.0,MIT,Version Changed,cf-mongodb,https://github.com/jnicklas/capybara/blob/master/License.txt,https://github.com/jnicklas/capybara
+rspec_junit_formatter,0.2.3,0.2.0,https://rubygems.org/gems/rspec_junit_formatter,MIT,Version Changed,cf-mongodb,,https://github.com/sj26/rspec_junit_formatter
+terminal-table,1.4.5,1.4.5,https://github.com/tj/terminal-table,MIT,No change,cf-mongodb,,
+logging,1.8.2,None,https://rubygems.org/gems/logging/versions/1.8.2,N/A,New in 1.5,cf-mongodb,https://github.com/TwP/logging,
+xpath,2.0.0,2.0.0,https://github.com/jnicklas/xpath,MIT,No change,cf-mongodb,,
+rack-test,0.5.4,0.5.4,https://github.com/brynary/rack-test,MIT,No change,cf-mongodb,,
+progressbar,0.9.0,0.9.0,https://github.com/peleteiro/progressbar,Ruby License,No change,cf-mongodb,,
+rack,1.6.1,1,https://rubygems.org/gems/rack/versions/1.6.1,MIT,Version Changed,cf-mongodb,,https://github.com/rack/rack
+rake,10.4.2,10.4.2,https://github.com/ruby/rake,MIT,No change,cf-mongodb,,
+rspec,3.2.0,3.1,https://rubygems.org/gems/rspec/versions/3.2.0,MIT,Version Changed,cf-mongodb,,https://github.com/rspec/rspec
+rspec-core,3.2.0,3.1.7,https://rubygems.org/gems/rspec-core/versions/3.2.0,MIT,Version Changed,cf-mongodb,,https://github.com/rspec/rspec-core
+builder,2.1.2,2.1.2,https://github.com/jimweirich/builder,MIT,No change,cf-mongodb,,
+rspec-expectations,3.2.0,3.1.2,https://rubygems.org/gems/rspec-expectations/versions/3.2.0,MIT,Version Changed,cf-mongodb,,https://github.com/rspec/rspec-expectations
+multi_json,1.0.0,1.1,https://rubygems.org/gems/multi_json/versions/1.0.0,MIT,Version Changed,cf-mongodb,https://github.com/intridea/multi_json/blob/master/LICENSE.md,https://github.com/intridea/multi_json
+rspec-mocks,3.2.0,3.1.3,https://rubygems.org/gems/rspec-mocks/versions/3.2.0,MIT,Version Changed,cf-mongodb,,https://github.com/rspec/rspec-mocks
+rspec-core,3.2.3,3.1.7,https://rubygems.org/gems/rspec-core/versions/3.2.3,MIT,Version Changed,cf-mongodb,,https://github.com/rspec/rspec-core
+rspec-expectations,3.2.1,3.1.2,https://rubygems.org/gems/rspec-expectations/versions/3.2.1,MIT,Version Changed,cf-mongodb,,https://github.com/rspec/rspec-expectations
+rspec-support,3.2.0,3.1.2,https://rubygems.org/gems/rspec-support/versions/3.2.0,MIT,Version Changed,cf-mongodb,,https://github.com/rspec/rspec-support
+rspec-support,3.2.0,3.1.2,https://rubygems.org/gems/rspec-support/versions/3.2.0,MIT,Version Changed,cf-mongodb,,https://github.com/rspec/rspec-support
+ruby-hmac,0.4.0,0.4.0,https://rubygems.org/downloads/ruby-hmac-0.4.0.gem,MIT,No change,cf-mongodb,,
+rspec-mocks,3.2.1,3.1.3,https://rubygems.org/gems/rspec-mocks/versions/3.2.1,MIT,Version Changed,cf-mongodb,,https://github.com/rspec/rspec-mocks
+rubyzip,1.1.0,1.1.6,https://rubygems.org/gems/rubyzip/versions/1.1.0,N/A,Version Changed,cf-mongodb,https://github.com/rubyzip/rubyzip,https://github.com/rubyzip/rubyzip
+rack-test,0.6.3,0.6.2,https://rubygems.org/gems/rack-test/versions/0.6.3,N/A,Version Changed,cf-mongodb,https://github.com/brynary/rack-test,https://github.com/brynary/rack-test
+websocket-driver,0.2.0,0.2.0,https://github.com/faye/websocket-driver-ruby,MIT,No change,cf-mongodb,,
+netaddr,1.5.0,1.5.0,http://www.ruby-doc.org/gems/docs/n/netaddr-1.5.0/NetAddr.html,RUBY,No change,cf-mongodb,,
+little-plugger,1.1.3,None,https://rubygems.org/gems/little-plugger/versions/1.1.3,N/A,New in 1.5,cf-mongodb,https://github.com/TwP/little-plugger,
+minitar,0.5.4,0.5.4,https://github.com/atoulme/minitar,Ruby License,No change,cf-mongodb,,
+diff-lcs,1.2.0,1.2.0,https://github.com/halostatue/diff-lcs,MIT,No change,cf-mongodb,,
+diff-lcs,1.2.0,1.2.0,https://github.com/halostatue/diff-lcs,MIT,No change,cf-mongodb,,
+logging,1.8.2,None,https://rubygems.org/gems/logging/versions/1.8.2,N/A,New in 1.5,cf-mongodb,https://github.com/TwP/logging,
+httparty,0.7.3,0.7.3,https://github.com/jnunemaker/httparty,MIT,No change,cf-mongodb,,
+ruby-atmos-pure,1.0.5,None,https://rubygems.org/gems/ruby-atmos-pure/versions/1.0.5,N/A,New in 1.5,cf-mongodb,Not Found Github Url,
+log4r,1.1.9,1.1.9,https://github.com/colbygk/log4r,BSD,No change,cf-mongodb,,
+little-plugger,1.1.3,None,https://rubygems.org/gems/little-plugger/versions/1.1.3,N/A,New in 1.5,cf-mongodb,https://github.com/TwP/little-plugger,
+log4r,1.1.10,1.1.10,https://github.com/colbygk/log4r,BSD,No change,cf-mongodb,,
+highline,1.6.2,1.6.2,https://github.com/JEG2/highline,GPL-2,No change,cf-mongodb,,
+nokogiri,1.3.3,1.3.3,https://github.com/sparklemotion/nokogiri,MIT,No change,cf-mongodb,,
+progressbar,0.9.2,0.9.2,https://github.com/peleteiro/progressbar,Ruby License,No change,cf-mongodb,,
+ruby-hmac,0.4.0,0.4.0,https://rubygems.org/downloads/ruby-hmac-0.4.0.gem,MIT,No change,cf-mongodb,,
+hula,0.6.8,None,Page not found,,New in 1.5,cf-mongodb,,
+prof,0.26.7,0.17.2,Page not found,,Version Changed,cf-mongodb,,https://github.com/ruby-prof/ruby-prof
+vara,0.12.0,None,Page not found,,New in 1.5,cf-mongodb,,
+voxtur,0.2.0,None,Page not found,,New in 1.5,cf-mongodb,,
+prof,0.9.2,0.9.2,https://github.com/ruby-prof/ruby-prof,BSD,No change,cf-mongodb,,
+fetch_artefact,0.5.0,None,Page not found,,New in 1.5,cf-mongodb,,
+leita,,None,Page not found,,New in 1.5,cf-mongodb,,
+leita,0.0.9,None,Page not found,,New in 1.5,cf-mongodb,,
+hula,0.6.8,None,Page not found,,New in 1.5,cf-mongodb,,
+tempest-client,0.6.0,None,Page not found,,New in 1.5,cf-mongodb,,
+fetch_artefact,0.5.1,None,Page not found,,New in 1.5,cf-mongodb,,
+dock_it,0.3.0,0.2.0,Page not found,,Version Changed,cf-mongodb,,https://github.com/dockitapp/dockit
+continuous_configuration,0.5.1,None,Page not found,,New in 1.5,cf-mongodb,,
+tempest-client,0.7.0,None,Page not found,,New in 1.5,cf-mongodb,,
+vara,0.12.0,None,Page not found,,New in 1.5,cf-mongodb,,
+voxtur,0.2.0,None,Page not found,,New in 1.5,cf-mongodb,,

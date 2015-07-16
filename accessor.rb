@@ -100,7 +100,7 @@ module Extractor
           i = 0;
           j = input.size() - 1;
           while(i != j)
-              if input[i] != nil and input[i].split(',')[1] == '' and input[i].split(',')[2] == '' 
+              if input[i] != nil  and input[i].split(',')[location] == '' 
                  tmp = input[i]
                  input[i] = input[j]
                  input[j] = tmp
@@ -248,8 +248,8 @@ module Extractor
                 rubygems("#{ruby_name},",flag,version);#内部调用类似于循环
                 
             elsif flag == "open"
-                p "#{ruby_name},#{vs},,#{url},Page not found\n"
-                return "#{ruby_name},#{vs},,#{url},Page not found\n"
+                p "#{ruby_name},#{vs},,Page not found,\n"
+                return "#{ruby_name},#{vs},,Page not found,\n"
             end
           
           #end

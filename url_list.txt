@@ -1,3 +1,2 @@
-ruby,https://raw.githubusercontent.com/pivotal-cf/cf-mongodb/develop/Gemfile.lock?token=AJOcPDU4zZzKsW4P-pegPOdoionGmlJIks5Vrfp5wA%3D%3D
-ruby,https://raw.githubusercontent.com/pivotal-cf/cf-mongodb/develop/src/cf-mongodb-broker/Gemfile.lock?token=AJOcPIhi3YjL1ccROQZVVaEgs17yoZ6Mks5Vrfp8wA%3D%3D
-ruby,https://raw.githubusercontent.com/pivotal-cf/cf-mongodb/develop/src/cf-mongodb-broker/spec/assets/test_app/Gemfile.lock?token=AJOcPFV2Fp_y6BSxr7z4dqzjeqFsQCQvks5Vrfp9wA%3D%3D
+ruby,https://raw.githubusercontent.com/pivotal-cf/cf-cassandra-release/master/Gemfile.lock?token=AJOcPCSDoNgjYO21hHj5haxuxAv3spdpks5VrfrOwA%3D%3D
+ruby,https://raw.githubusercontent.com/pivotal-cf/cf-cassandra-release/master/system_test/test_app/Gemfile.lock?token=AJOcPBJoIIulMmxtF8WqdcpnT8dv0Qt7ks5VrfrQwA%3D%3D
