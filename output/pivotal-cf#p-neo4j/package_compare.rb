@@ -106,7 +106,9 @@ class Compare_new_old
 						github15  = pcf15[i][4]
 						url14     = pcf14[j][3]
 						tmp       = "#{name},#{version15},#{version14},#{url},#{license},#{@change},#{@repo_name},#{github15},"
-						if pcf15[i][2] == '' or pcf15[i][2] == 'N/A'
+						#CSV ,, is nil
+						if pcf15[i][2] == '' or pcf15[i][2] == 'N/A' or pcf15[i][2] == nil
+							
 							tmp += "#{url14},#{license14},"
 						else
 							tmp += ",,"
