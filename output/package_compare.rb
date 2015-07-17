@@ -153,10 +153,10 @@ class Compare_new_old
 end# class end
 
 
-repo_name = "cf-jenkins-release"
+repo_name = "rabbit-labrat"
 #if repo new  than p14=''
-p14 = "PCF-1_4-cf-jenkins-release.csv"
-p15 = "master-src-jenkins-cf-bootstrapper-Gemfile.lock?token=AJOcPKEPwd_k0drvupKrn4rnilyAqTQmks5VsewAwA%3D%3D.txt"
+p14 = "PCF-1_4-rabbit-labrat.csv"
+p15 = "master-Gemfile.lock.txt"
 #folder
 file_final = "./compare"
 
