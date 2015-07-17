@@ -45,9 +45,8 @@ module Extractor
          self.send readMethodName.to_sym,file,@queue 
      end
 
-     def execution(exec_block,flag = 0)
+     def execution(exec_block)
        @queue.each do | task |
-            #exec_block.call(task)
          @pool.process {
            exec_block.call(task)
            sleep 1

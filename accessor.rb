@@ -198,6 +198,7 @@ module Extractor
           end
           return licenseUrlList[0],""
       end#def getLicenseFromGithub(url)  end
+      
       #2015-07-13
       def rubygems(ruby_pair,flag = "close",vs = '')#flag = "close"#避免无限次自调用自己
         
