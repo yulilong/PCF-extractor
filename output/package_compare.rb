@@ -153,10 +153,10 @@ class Compare_new_old
 end# class end
 
 
-repo_name = "rabbit-labrat"
+repo_name = "phd-cf"
 #if repo new  than p14=''
-p14 = "PCF-1_4-rabbit-labrat.csv"
-p15 = "master-Gemfile.lock.txt"
+p14 = "PCF-1_4-cf-phd.csv"
+p15 = "master-Gemfile.lock?token=AJOcPFLQA0l2OI8W_smj2_yk9myJ57d7ks5VsfRmwA%3D%3D.txt"
 #folder
 file_final = "./compare"
 
