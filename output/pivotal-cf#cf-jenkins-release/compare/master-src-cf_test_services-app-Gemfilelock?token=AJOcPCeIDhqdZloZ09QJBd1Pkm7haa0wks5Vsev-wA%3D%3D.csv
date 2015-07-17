@@ -1,0 +1,8 @@
+name,1.5version,1.4version,URL,license,Delta Information,repo_name,PCF1.5_github_url,PCF1.4_url
+rack,1.5.2,1.5.2,https://github.com/rack/rack,MIT,No change,cf-jenkins-release,,
+thin,1.5.1,None,https://rubygems.org/gems/thin/versions/1.5.1,Ruby,New in 1.5,cf-jenkins-release,,
+eventmachine,0.12.6,None,https://rubygems.org/gems/eventmachine/versions/0.12.6,RUBY,New in 1.5,cf-jenkins-release,https://github.com/eventmachine/eventmachine/blob/master/LICENSE,
+rack,1.0.0,1.0.0,https://github.com/rack/rack,MIT,No change,cf-jenkins-release,,
+daemons,1.0.9,None,https://rubygems.org/gems/daemons/versions/1.0.9,MIT,New in 1.5,cf-jenkins-release,https://github.com/thuehlinger/daemons/blob/master/LICENSE,
+daemons,1.1.9,None,https://rubygems.org/gems/daemons/versions/1.1.9,MIT,New in 1.5,cf-jenkins-release,https://github.com/thuehlinger/daemons/blob/master/LICENSE,
+eventmachine,1.0.3,None,https://rubygems.org/gems/eventmachine/versions/1.0.3,RUBY,New in 1.5,cf-jenkins-release,https://github.com/eventmachine/eventmachine/blob/master/LICENSE,

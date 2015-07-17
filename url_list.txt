@@ -1,2 +1,8 @@
-ruby,https://raw.githubusercontent.com/pivotal-cf/cf-cassandra-release/master/Gemfile.lock?token=AJOcPCSDoNgjYO21hHj5haxuxAv3spdpks5VrfrOwA%3D%3D
-ruby,https://raw.githubusercontent.com/pivotal-cf/cf-cassandra-release/master/system_test/test_app/Gemfile.lock?token=AJOcPBJoIIulMmxtF8WqdcpnT8dv0Qt7ks5VrfrQwA%3D%3D
+ruby,https://raw.githubusercontent.com/pivotal-cf/cf-jenkins-release/master/Gemfile.lock?token=AJOcPOypbVdZTBIbkxR_kTQpAVfjivlBks5Vsev8wA%3D%3D
+ruby,https://raw.githubusercontent.com/pivotal-cf/cf-jenkins-release/master/src/cf_test_services/app/Gemfile.lock?token=AJOcPCeIDhqdZloZ09QJBd1Pkm7haa0wks5Vsev-wA%3D%3D
+ruby,https://raw.githubusercontent.com/pivotal-cf/cf-jenkins-release/master/src/jenkins-cf-bootstrapper/Gemfile.lock?token=AJOcPKEPwd_k0drvupKrn4rnilyAqTQmks5VsewAwA%3D%3D
+ruby,https://raw.githubusercontent.com/pivotal-cf/cf-jenkins-release/master/src/configure_jenkins/Gemfile.lock?token=AJOcPJLbIdup0q6w15uqkIjstyz9D00Pks5VsewCwA%3D%3D
+ruby,https://raw.githubusercontent.com/pivotal-cf/cf-jenkins-release/master/src/configure_jenkins_slave/Gemfile.lock?token=AJOcPBtO1KoKV1rvwXFt1JMvBnyCNQWZks5VsewEwA%3D%3D
+
+
+

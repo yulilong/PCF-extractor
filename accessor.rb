@@ -235,11 +235,15 @@ module Extractor
               licenseInfo = licenseUrl[0]
               pair[1]     = licenseUrl[1] unless licenseUrl[1].empty?
             end
-            #p "#{ruby_name},#{pair[0]},#{pair[1]},#{url},#{licenseInfo}\n"
+            if flag == "open"
+            	p "#{ruby_name},#{pair[0]},#{pair[1]},#{url},#{licenseInfo}\n"
+            end
             return "#{ruby_name},#{pair[0]},#{pair[1]},#{url},#{licenseInfo}\n"
             
           else
-            #p "#{ruby_name},#{pair[0]},#{pair[1]},#{url}\n"
+          	if flag == "open"
+            	p "#{ruby_name},#{pair[0]},#{pair[1]},#{url}\n"
+            end	
             return "#{ruby_name},#{pair[0]},#{pair[1]},#{url},\n"
           end
         else

@@ -1,0 +1,52 @@
+ffi,1.9.3,BSD,https://rubygems.org/gems/ffi/versions/1.9.3,
+guard,2.1.0,MIT,https://rubygems.org/gems/guard/versions/2.1.0,
+crack,0.4.2,MIT,https://rubygems.org/gems/crack/versions/0.4.2,
+rspec,2.14.0,MIT,https://rubygems.org/gems/rspec/versions/2.14.0,
+coderay,1.1.0,MIT,https://rubygems.org/gems/coderay/versions/1.1.0,
+thor,0.18.1,MIT,https://rubygems.org/gems/thor/versions/0.18.1,
+listen,2.7.0,MIT,https://rubygems.org/gems/listen/versions/2.7.0,
+guard,2.6.1,MIT,https://rubygems.org/gems/guard/versions/2.6.1,
+diff-lcs,1.2.5,MIT,https://rubygems.org/gems/diff-lcs/versions/1.2.5,
+addressable,2.3.6,Apache License 2.0,https://rubygems.org/gems/addressable/versions/2.3.6,
+guard-rspec,4.2.10,MIT,https://rubygems.org/gems/guard-rspec/versions/4.2.10,
+celluloid,0.15.2,MIT,https://rubygems.org/gems/celluloid/versions/0.15.2,
+safe_yaml,1.0.0,MIT,https://rubygems.org/gems/safe_yaml/versions/1.0.0,
+listen,2.7.8,MIT,https://rubygems.org/gems/listen/versions/2.7.8,
+celluloid,0.15.2,MIT,https://rubygems.org/gems/celluloid/versions/0.15.2,
+lumberjack,1.0.6,MIT,https://rubygems.org/gems/lumberjack/versions/1.0.6,
+pry,0.10.1,MIT,https://rubygems.org/gems/pry/versions/0.10.1,
+coderay,1.1.0,MIT,https://rubygems.org/gems/coderay/versions/1.1.0,
+rb-fsevent,0.9.4,MIT,https://rubygems.org/gems/rb-fsevent/versions/0.9.4,
+rspec,3.0.0,MIT,https://rubygems.org/gems/rspec/versions/3.0.0,
+rspec-core,3.0.0,MIT,https://rubygems.org/gems/rspec-core/versions/3.0.0,
+crack,0.3.2,MIT,https://rubygems.org/gems/crack/versions/0.3.2,https://github.com/jnunemaker/crack/blob/master/LICENSE
+timers,1.1.0,MIT,https://rubygems.org/gems/timers/versions/1.1.0,https://github.com/celluloid/timers/blob/master/LICENSE
+safe_yaml,1.0.3,MIT,https://rubygems.org/gems/safe_yaml/versions/1.0.3,
+rspec-mocks,3.0.0,MIT,https://rubygems.org/gems/rspec-mocks/versions/3.0.0,
+rspec-core,3.0.4,MIT,https://rubygems.org/gems/rspec-core/versions/3.0.4,
+rspec-expectations,3.0.0,MIT,https://rubygems.org/gems/rspec-expectations/versions/3.0.0,
+rspec-support,3.0.0,MIT,https://rubygems.org/gems/rspec-support/versions/3.0.0,
+rspec-expectations,3.0.4,MIT,https://rubygems.org/gems/rspec-expectations/versions/3.0.4,
+rspec-support,3.0.0,MIT,https://rubygems.org/gems/rspec-support/versions/3.0.0,
+rspec-mocks,3.0.4,MIT,https://rubygems.org/gems/rspec-mocks/versions/3.0.4,
+rb-fsevent,0.9.3,MIT,https://rubygems.org/gems/rb-fsevent/versions/0.9.3,https://github.com/thibaudgg/rb-fsevent/blob/master/LICENSE.txt
+authorized_keys,1.1.1,MIT,https://rubygems.org/gems/authorized_keys/versions/1.1.1,https://github.com/bjeanes/authorized_keys/blob/master/LICENSE.txt
+rspec-support,3.0.0,MIT,https://rubygems.org/gems/rspec-support/versions/3.0.0,
+slop,3.4.0,MIT,https://rubygems.org/gems/slop/versions/3.4.0,https://github.com/leejarvis/slop/blob/master/LICENSE
+rspec-support,3.0.4,MIT,https://rubygems.org/gems/rspec-support/versions/3.0.4,
+pry,0.9.12,MIT,https://rubygems.org/gems/pry/versions/0.9.12,https://github.com/pry/pry/blob/master/LICENSE
+formatador,0.2.4,MIT,https://rubygems.org/gems/formatador/versions/0.2.4,https://github.com/geemus/formatador/blob/master/LICENSE.md
+formatador,0.2.5,MIT,https://rubygems.org/gems/formatador/versions/0.2.5,https://github.com/geemus/formatador/blob/master/LICENSE.md
+timers,1.1.0,MIT,https://rubygems.org/gems/timers/versions/1.1.0,https://github.com/celluloid/timers/blob/master/LICENSE
+slop,3.6.0,MIT,https://rubygems.org/gems/slop/versions/3.6.0,
+sshkey,1.6.1,MIT,https://rubygems.org/gems/sshkey/versions/1.6.1,
+thor,0.19.1,MIT,https://rubygems.org/gems/thor/versions/0.19.1,
+addressable,2.3.6,Apache License 2.0,https://rubygems.org/gems/addressable/versions/2.3.6,
+webmock,1.18.0,MIT,https://rubygems.org/gems/webmock/versions/1.18.0,
+ffi,0.5.0,N/A,https://rubygems.org/gems/ffi/versions/0.5.0,https://wiki.github.com/ffi/ffi
+diff-lcs,1.2.0,N/A,https://rubygems.org/gems/diff-lcs/versions/1.2.0,Not Found Github Url
+rb-inotify,0.9.0,N/A,https://rubygems.org/gems/rb-inotify/versions/0.9.0,https://github.com/nex3/rb-inotify
+rb-inotify,0.9.5,N/A,https://rubygems.org/gems/rb-inotify/versions/0.9.5,https://github.com/nex3/rb-inotify
+method_source,0.8.1,N/A,https://rubygems.org/gems/method_source/versions/0.8.1,Not Found Github Url
+method_source,0.8.2,N/A,https://rubygems.org/gems/method_source/versions/0.8.2,Not Found Github Url
+lumberjack,1.0.0,N/A,https://rubygems.org/gems/lumberjack/versions/1.0.0,https://github.com/bdurand/lumberjack
