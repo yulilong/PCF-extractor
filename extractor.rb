@@ -57,6 +57,7 @@ module Extractor
       @getGemLicenseTask.execut();
       @getGemLicenseTask.pool_shutdown
       @licenseList = @getGemLicenseTask.get_licenselist()
+      p "network over"
       
     end
 
@@ -72,8 +73,11 @@ module Extractor
         writeRubyFile(fail_file,@failureList,'a')
       end
       #2015-07-06
+      p "sort"
       sort(@licenseList,2)
+      p "append"
       append(@gemfileList,@licenseList)
+      p "begin write file"
       writeRubyFile(filename,@licenseList)
       #@gemfile[:gemfile]     = WeakRef.new(@gemfile[:gemfile])
 #      p "@licenseList memory size: #{ObjectSpace.memsize_of @licenseList}"

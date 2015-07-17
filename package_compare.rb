@@ -42,7 +42,7 @@ class Compare_new_old
 		new = new_v.split('.');
 		old = old_v.split('.');
 		if new.size == 3 and old.size == 2
-			if new[0] == old[0] and new[1] = old[1] and new[2] = '0'
+			if new[0] == old[0] and new[1] == old[1] and new[2] == '0'
 				return "mark"
 			end
 		end
@@ -56,9 +56,11 @@ class Compare_new_old
 		version14 = ''
 		url		  = ''
 		license   = ''
+		license14 = ''
 		github15  = ''
 		url14     = ''
 		tmp       = ''	
+		final     = Array.new();
 		final << "name,1.5version,1.4version,URL,license,Delta Information,repo_name,PCF1.5_github_url,PCF1.4_url\n"
 		if p14 == ''
 			for i in (0 ... pcf15.size) do
@@ -68,7 +70,7 @@ class Compare_new_old
 				url		  = pcf15[i][3]
 				license   = pcf15[i][2]
 				github15  = pcf15[i][4]
-				final << "#{name},#{version15},#{version14},#{url},#{license},#{new},#{repo_name},#{github15},\n"
+				final << "#{name},#{version15},#{version14},#{url},#{license},#{@new},#{@repo_name},#{github15},\n"
 			end
 		else
 			for i in (0 ... pcf15.size) do
@@ -84,7 +86,7 @@ class Compare_new_old
 						url		  = pcf14[j][3]
 						license   = pcf14[j][4]
 				
-						final << "#{name},#{version15},#{version14},#{url},#{license},#{no_change},#{repo_name},,\n"
+						final << "#{name},#{version15},#{version14},#{url},#{license},#{@no_change},#{@repo_name},,\n"
 						flag = "open"
 						break;
 					end
@@ -100,13 +102,21 @@ class Compare_new_old
 						version14 = pcf14[j][2]
 						url		  = pcf15[i][3]
 						license   = pcf15[i][2]
+						license14 = pcf14[j][4]
 						github15  = pcf15[i][4]
 						url14     = pcf14[j][3]
-						tmp       = "#{name},#{version15},#{version14},#{url},#{license},#{change},#{repo_name},#{github15},"
-						if pcf15[i][2] == '' and pcf15[i][2] == 'N/A'
-							tmp += "#{url14}\n"
+						tmp       = "#{name},#{version15},#{version14},#{url},#{license},#{@change},#{@repo_name},#{github15},"
+						#CSV ,, is nil
+						if pcf15[i][2] == '' or pcf15[i][2] == 'N/A' or pcf15[i][2] == nil
+							
+							tmp += "#{url14},#{license14},"
+						else
+							tmp += ",,"
 						end
 						tmp += version_compare(pcf15[i][1],pcf14[j][2])
+						
+						tmp += ",\n"
+						
 						final << tmp
 						flag = "open"
 						break;
@@ -122,7 +132,7 @@ class Compare_new_old
 					url		  = pcf15[i][3]
 					license   = pcf15[i][2]
 					github15  = pcf15[i][4]
-					final << "#{name},#{version15},#{version14},#{url},#{license},#{new},#{repo_name},#{github15},\n"
+					final << "#{name},#{version15},#{version14},#{url},#{license},#{@new},#{@repo_name},#{github15},\n"
 				end
 			end# end for
 			@final_data = final;
@@ -143,10 +153,10 @@ class Compare_new_old
 end# class end
 
 
-repo_name = "p-rabbitmq"
+repo_name = "app-usage-service"
 #if repo new  than p14=''
-p14 = "PCF-1_4-p-rabbitmq.csv"
-p15 = "develop-Gemfile.lock?token=AJOcPP22Vy5U-jNoQj1n3PcTiie82fVpks5VrfzUwA%3D%3D.txt"
+p14 = "PCF-1_4-app-usage-service(ruby).csv"
+p15 = "master-Gemfile.lock?token=AJOcPKe6GXIZTfZ_HO3o2vZv_7xR7vymks5Vsfi4wA%3D%3D.txt"
 #folder
 file_final = "./compare"
 
