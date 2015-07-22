@@ -159,7 +159,7 @@ end# class end
 repo_name = "console"
 #if repo new  than p14=''
 p14 = "PCF-1_4-cf-console.csv"
-p15 = "master-Gemfile-PCF.lock?token=AJOcPIpoWoIiyyt0iWc2bGBs0Udv2KCPks5VtzIowA%3D%3D.txt"
+p15 = "master-spec-e2e-hello-sinatra-Gemfile.lock?token=AJOcPEQQnTwY9NryOplvm89GSiay3kguks5VtzMAwA%3D%3D.txt"
 #folder
 file_final = "./compare"
 

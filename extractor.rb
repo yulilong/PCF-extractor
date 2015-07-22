@@ -78,6 +78,7 @@ module Extractor
       sort(@licenseList,2)
       p "append"
       append(@gemfileList,@licenseList)
+      #puts @licenseList
       p "begin write file"
       writeRubyFile(filename,@licenseList)
       #@gemfile[:gemfile]     = WeakRef.new(@gemfile[:gemfile])

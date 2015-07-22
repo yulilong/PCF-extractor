@@ -245,25 +245,25 @@ module Extractor
               licenseInfo = licenseUrl[0]
               pair[1]     = licenseUrl[1] unless licenseUrl[1].empty?
             end
-            if flag == "open"
-            	p "#{ruby_name},#{pair[0]},#{pair[1]},#{url},#{licenseInfo}\n"
-            end
+            #if flag == "open"
+            	#puts "#{ruby_name},#{pair[0]},#{pair[1]},#{url},#{licenseInfo}\n"
+            #end
             return "#{ruby_name},#{pair[0]},#{pair[1]},#{url},#{licenseInfo}\n"
             
           else
-          	if flag == "open"
-            	p "#{ruby_name},#{pair[0]},#{pair[1]},#{url}\n"
-            end	
+          	#if flag == "open"
+            	#puts "#{ruby_name},#{pair[0]},#{pair[1]},#{url}\n"
+            #end	
             return "#{ruby_name},#{pair[0]},#{pair[1]},#{url},\n"
           end
         else
             if flag == "close"
-                p "#{ruby_name},"
+                #p "#{ruby_name},"
                 flag = "open"
                 rubygems("#{ruby_name},",flag,version);#内部调用类似于循环
                 
             elsif flag == "open"
-                p "#{ruby_name},#{vs},,Page not found,\n"
+                #puts "#{ruby_name},#{vs},,Page not found,\n"
                 return "#{ruby_name},#{vs},,Page not found,\n"
             end
           
