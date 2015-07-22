@@ -1,0 +1,9 @@
+name,1.5version,1.4version,URL,license,Delta Information,repo_name,PCF1.5_github_url,PCF1.4_url
+rack,1.6.4,1.6.0,https://rubygems.org/gems/rack,MIT,Version Changed,cf-acceptance-tests,,,,,
+rack,1.5.2,1.5.2,https://github.com/rack/rack,MIT,No change,cf-acceptance-tests,,
+tilt,1.3.4,1.3.4,https://github.com/rtomayko/tilt,MIT,No change,cf-acceptance-tests,,
+tilt,1.4.1,1.4.1,https://github.com/rtomayko/tilt,MIT,No change,cf-acceptance-tests,,
+sinatra,1.4.3,1.4.3,https://github.com/sinatra/sinatra,MIT,No change,cf-acceptance-tests,,
+rack,1.4.0,1.6.0,https://rubygems.org/gems/rack/versions/1.4.0,MIT,Version Changed,cf-acceptance-tests,https://github.com/rack/rack/blob/master/COPYING,,,,
+rack-protection,1.4.0,1.5.3,https://rubygems.org/gems/rack-protection/versions/1.4.0,N/A,Version Changed,cf-acceptance-tests,https://github.com/rkh/rack-protection,https://github.com/rkh/rack-protection,MIT,,
+rack-protection,1.5.0,1.5.0,https://github.com/rkh/rack-protection,MIT,No change,cf-acceptance-tests,,

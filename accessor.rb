@@ -22,11 +22,20 @@ module Extractor
       end
  
       def writeRubyFile(filename,fileContent,mode = 'w')
-           File.open(filename,mode) do | file |
-               fileContent.each do | content |
-                     file.write(content)                                         
-               end
+           #File.open(filename,mode) do | file |
+           #    fileContent.each do | content |
+           #          file.write(content)                                         
+           #    end
+           #    file.close;
+           #end
+           p "111"
+           file = File.new(filename,mode);
+           p "222"
+           fileContent.each do | content |
+           		file.write(content)                                         
            end
+           p "333"
+           file.close;
            #p "fileContent memory size: #{ObjectSpace.memsize_of fileContent}"
            fileContent = WeakRef.new(fileContent)
            #p "fileContent memory size: #{ObjectSpace.memsize_of fileContent}"
@@ -47,7 +56,7 @@ module Extractor
         end
         filename = filename + "/";
         log = filename + "log";
-        fail_file = filename + "failureList";
+        fail_file = filename + "failureList.txt";
         if(!File.exist?(log))
             Dir.mkdir(log)
         end
@@ -76,6 +85,7 @@ module Extractor
             data.each do | content |
                 file.write(content + "\n")                                         
             end
+            file.close();
         end
       end
       

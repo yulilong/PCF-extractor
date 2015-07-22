@@ -51,6 +51,11 @@ module Extractor
       
       @failureList = @getGemLicenseTask.importQueue(@gemfile[:gemfile],:extract_ruby)
       @failureList ||= []
+      fail_file = path(@gemfile[:name],3);
+      if !@failureList.empty?
+        p "write failureList"
+        writeRubyFile(fail_file,@failureList,'a')
+      end
       @gemfileList = @getGemLicenseTask.get_queue();# no have "\n"
       output_gemfilelock(@gemfile[:name],@gemfileList);
       #@getGemLicenseTask.execution(p)
@@ -65,13 +70,9 @@ module Extractor
       #Write into file
       #filename = "#{@gemfile[:name].split('/')[4]}_output.txt"
       filename = path(@gemfile[:name],1);
-      fail_file = path(@gemfile[:name],3);
       
-      if !@failureList.empty?
-        #@licenseList << "---------Failed to extract name and version-----------\n"
-        #@licenseList.concat(@failureList)
-        writeRubyFile(fail_file,@failureList,'a')
-      end
+      
+      
       #2015-07-06
       p "sort"
       sort(@licenseList,2)

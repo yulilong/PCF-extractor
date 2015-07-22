@@ -1,0 +1,4 @@
+Repo/Source of Dependency,Component Name,1.4 Version,Download URL,License
+cf-smoke-tests,gomega,8adf9e1730c55cdc590de7d49766cb2acc88d8f2,https://github.com/onsi/gomega,MIT
+cf-smoke-tests,gouuid,179d4d0c4d8d407a32af483c2354df1d2c91e6c3,github.com/nu7hatch/gouuid,MIT
+cf-smoke-tests,ginkgo,291f28e66dd277f35d3635990a7448759645c7e7,https://github.com/onsi/ginkgo,MIT

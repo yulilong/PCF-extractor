@@ -1,0 +1,298 @@
+Repo/Source of Dependency,Component Name,1.4 Version,Download URL,License
+dea_ng,simplecov,0.7.1,https://github.com/colszowka/simplecov,MIT
+dea_ng,eventmachine,1.0.0.beta.1,https://github.com/eventmachine/eventmachine,Ruby License
+dea_ng,carrot,0.8.1,https://github.com/famoseagle/carrot,MIT
+dea_ng,multi_xml,0.5.2,https://github.com/sferik/multi_xml,MIT
+dea_ng,rack,1.6.0,https://github.com/rack/rack,MIT
+dea_ng,rack,1.2.1,https://github.com/rack/rack,MIT
+dea_ng,rspec-core,2.14.0,https://github.com/rspec/rspec-core,MIT
+dea_ng,mongo_mapper,0.13.1,https://github.com/mongomapper/mongomapper,MIT
+dea_ng,rack-test,0.6.1,https://github.com/brynary/rack-test,MIT
+dea_ng,debugger-ruby_core_source,1.3.5,https://github.com/cldwalker/debugger-ruby_core_source,MIT
+dea_ng,addressable,2.3.5,https://github.com/sporkmonger/addressable,APACHE 2.0
+dea_ng,rspec-mocks,2.14.4,https://github.com/rspec/rspec-mocks,MIT
+dea_ng,rails,3.0.6,https://github.com/rails/rails,MIT
+dea_ng,rack,1,https://github.com/rack/rack,MIT
+dea_ng,addressable,2.2.7,https://github.com/sporkmonger/addressable,APACHE 2.0
+dea_ng,eventmachine,1.0.0.beta.4,https://github.com/eventmachine/eventmachine,Ruby License
+dea_ng,eventmachine,1.0.0.beta.1,https://github.com/eventmachine/eventmachine,Ruby License
+dea_ng,treetop,1.4.8,https://github.com/cjheath/treetop,MIT
+dea_ng,activeresource,3.0.6,https://github.com/rails/activeresource,MIT
+dea_ng,treetop,1.4.9,https://github.com/cjheath/treetop,MIT
+dea_ng,rspec-expectations,2.14.0,https://github.com/rspec/rspec-expectations,MIT
+dea_ng,activesupport,3.2.13,https://github.com/rails/rails/tree/master/activesupport,MIT
+dea_ng,addressable,2.3.5,https://github.com/sporkmonger/addressable,APACHE 2.0
+dea_ng,docile,1.1.5,https://github.com/ms-ati/docile,MIT
+dea_ng,json_pure,1.8.1,https://github.com/flori/json,Ruby License
+dea_ng,rack,1.2.2,https://github.com/rack/rack,MIT
+dea_ng,docile,1.1.0,https://github.com/ms-ati/docile,MIT
+dea_ng,em-http-request,1,https://github.com/igrigorik/em-http-request,MIT
+dea_ng,thin,1.6.3,https://github.com/macournoyer/thin,Ruby License
+dea_ng,vmstat,2,https://github.com/threez/ruby-vmstat,MIT
+dea_ng,safe_yaml,0.9.0,https://github.com/dtao/safe_yaml,MIT
+dea_ng,httpclient,2.5.3.3,https://github.com/nahi/httpclient,Ruby License
+dea_ng,tilt,1.3.3,https://github.com/rtomayko/tilt,MIT
+dea_ng,descendants_tracker,0.0.1,https://github.com/dkubb/descendants_tracker,MIT
+dea_ng,columnize,0.3.1,https://github.com/rocky/columnize,Ruby License
+dea_ng,rspec-core,2.14.7,https://github.com/rspec/rspec-core,MIT
+dea_ng,loggregator_emitter,3.0.0,https://github.com/cloudfoundry/loggregator_emitter,APACHE-2.0
+dea_ng,activesupport,4.2.0,https://github.com/rails/rails/tree/master/activesupport,MIT
+dea_ng,redis,2.2.0,https://github.com/redis/redis-rb,MIT
+dea_ng,docile,1.1.0,https://github.com/ms-ati/docile,MIT
+dea_ng,rack-mount,0.8.3,https://github.com/josh/rack-mount,MIT
+dea_ng,eventmachine,1,https://github.com/eventmachine/eventmachine,Ruby License
+dea_ng,rack-protection,1.3,https://github.com/rkh/rack-protection,MIT
+dea_ng,uuidtools,2.1.3,https://github.com/sporkmonger/uuidtools,Apache License2.0
+dea_ng,simplecov,0.9.0,https://github.com/colszowka/simplecov,MIT
+dea_ng,rack,1.0.0,https://github.com/rack/rack,MIT
+dea_ng,activesupport,2.3.6,https://github.com/rails/rails/tree/master/activesupport,MIT
+dea_ng,mime-types,2.1,https://github.com/halostatue/mime-types,MIT
+dea_ng,rack,0.4,https://github.com/rack/rack,MIT
+dea_ng,beefcake,0.3.7,https://github.com/protobuf-ruby/beefcake,MIT
+dea_ng,multi_json,1.3.2,https://github.com/intridea/multi_json,MIT
+dea_ng,bson,1.2.4,https://github.com/mongodb/bson-ruby,Apache License2.0
+dea_ng,grape,0.10.0,https://github.com/intridea/grape,MIT
+dea_ng,daemons,1.0.9,https://github.com/ghazel/daemons,MIT
+dea_ng,rack,1.5.2,https://github.com/rack/rack,MIT
+dea_ng,mail,2.2.15,https://github.com/mikel/mail,MIT
+dea_ng,nats,0.5.0.beta.12,https://github.com/derekcollison/ruby-nats,MIT
+dea_ng,squash_ruby,1.4.0,https://github.com/SquareSquash/ruby,Apache License2.0
+dea_ng,abstract,1.0.0,https://github.com/pivotal-casebook/abstract,Ruby License
+dea_ng,rspec,2.11,https://github.com/rspec/rspec,MIT
+dea_ng,rack,1.4,https://github.com/rack/rack,MIT
+dea_ng,thor,0.13.6,https://github.com/erikhuda/thor,MIT
+dea_ng,tilt,1.3.4,https://github.com/rtomayko/tilt,MIT
+dea_ng,fluent-logger,0.4.5,https://github.com/fluent/fluent-logger-ruby,Apache License2.0
+dea_ng,tilt,1.3.4,https://github.com/rtomayko/tilt,MIT
+dea_ng,rails,3.0.5,https://github.com/rails/rails,MIT
+dea_ng,daemons,1.1.9,https://github.com/ghazel/daemons,MIT
+dea_ng,diff-lcs,1.1.3,https://github.com/halostatue/diff-lcs,MIT
+dea_ng,virtus,0.5.5,https://github.com/solnic/virtus,MIT
+dea_ng,eventmachine,1.0.4,https://github.com/eventmachine/eventmachine,Ruby License
+dea_ng,rspec-mocks,2.14.0,https://github.com/rspec/rspec-mocks,MIT
+dea_ng,mime-types,2.5.3.3,https://github.com/halostatue/mime-types,MIT
+dea_ng,rack,1.5.2,https://github.com/rack/rack,MIT
+dea_ng,uuidtools,2.1.5,https://github.com/sporkmonger/uuidtools,Apache License2.0
+dea_ng,backports,3.3.1,https://github.com/marcandre/backports,MIT
+dea_ng,eventmachine,0.12.6,https://github.com/eventmachine/eventmachine,Ruby License
+dea_ng,ffi,1.0.11,https://github.com/ffi/ffi,BSD
+dea_ng,rack,1.2.2,https://github.com/rack/rack,MIT
+dea_ng,rack,1.4,https://github.com/rack/rack,MIT
+dea_ng,crack,0.4.1,https://github.com/jnunemaker/crack,MIT
+dea_ng,crack,0.4.1,https://github.com/jnunemaker/crack,MIT
+dea_ng,safe_yaml,0.9.7,https://github.com/dtao/safe_yaml,MIT
+dea_ng,posix-spawn,0.3.6,https://github.com/rtomayko/posix-spawn,MIT
+dea_ng,multi_json,1.7.6,https://github.com/intridea/multi_json,MIT
+dea_ng,rspec-expectations,2.14.0,https://github.com/rspec/rspec-expectations,MIT
+dea_ng,tzinfo,0.3.26,https://github.com/tzinfo/tzinfo,MIT
+dea_ng,posix-spawn,0.3.8,https://github.com/rtomayko/posix-spawn,MIT
+dea_ng,builder,3.2.2,https://github.com/jimweirich/builder,MIT
+dea_ng,simplecov-html,0.8.0,https://github.com/colszowka/simplecov-html,MIT
+dea_ng,carrot,1.2.0,https://github.com/famoseagle/carrot,MIT
+dea_ng,rspec,2.14.1,https://github.com/rspec/rspec,MIT
+dea_ng,safe_yaml,0.9.0,https://github.com/dtao/safe_yaml,MIT
+dea_ng,virtus,1.0.3,https://github.com/solnic/virtus,MIT
+dea_ng,simplecov,0.9.0,https://github.com/colszowka/simplecov,MIT
+dea_ng,sinatra,1.4.5,https://github.com/sinatra/sinatra,MIT
+dea_ng,eventmachine,0.12.10,https://github.com/eventmachine/eventmachine,Ruby License
+dea_ng,activemodel,3.0.6,https://rubygems.org/gems/activemodel,MIT
+dea_ng,builder,3.2.2,https://github.com/jimweirich/builder,MIT
+dea_ng,eventmachine,1.0.3,https://github.com/eventmachine/eventmachine,Ruby License
+dea_ng,debugger-ruby_core_source,1.3.2,https://github.com/cldwalker/debugger-ruby_core_source,MIT
+dea_ng,fsnotify,6b1ef893dc11e0447abda6da20a5203481878dda,github.com/howeyc/fsnotify,BSD
+dea_ng,thor,0.14.6,https://github.com/erikhuda/thor,MIT
+dea_ng,rack-mount,0.6.14,https://github.com/josh/rack-mount,MIT
+dea_ng,ci_reporter,1.7.0,https://github.com/ci-reporter/ci_reporter,MIT
+dea_ng,thor,0.14.4,https://github.com/erikhuda/thor,MIT
+dea_ng,eventmachine,1.0.0.beta.4,https://github.com/eventmachine/eventmachine,Ruby License
+dea_ng,eventmachine,1.0.3,https://github.com/eventmachine/eventmachine,Ruby License
+dea_ng,rack,1.2.1,https://github.com/rack/rack,MIT
+dea_ng,rack,1.6.0,https://github.com/rack/rack,MIT
+dea_ng,actionmailer,3.0.6,https://github.com/rails/rails/tree/master/actionmailer,MIT
+dea_ng,mysql2,0.3.17,https://github.com/brianmario/mysql2,MIT
+dea_ng,thor,0.15.4,https://github.com/erikhuda/thor,MIT
+dea_ng,rack,1.3.0,https://github.com/rack/rack,MIT
+dea_ng,multi_json,1.7.6,https://github.com/intridea/multi_json,MIT
+dea_ng,eventmachine,1,https://github.com/eventmachine/eventmachine,Ruby License
+dea_ng,rubyzip,1.1.0,https://github.com/rubyzip/rubyzip,Ruby License
+dea_ng,daemons,1.1.2,https://github.com/ghazel/daemons,MIT
+dea_ng,daemons,1.0.9,https://github.com/ghazel/daemons,MIT
+dea_ng,debugger-linecache,1.2.0,https://github.com/cldwalker/debugger-linecache,MIT
+dea_ng,rack,1.5.1,https://github.com/rack/rack,MIT
+dea_ng,addressable,2.3.5,https://github.com/sporkmonger/addressable,APACHE 2.0
+dea_ng,em-synchrony,1.0.3,https://github.com/igrigorik/em-synchrony,MIT
+dea_ng,rack,1.3.0,https://github.com/rack/rack,MIT
+dea_ng,eventmachine,1.0.3,https://github.com/eventmachine/eventmachine,Ruby License
+dea_ng,rack,1.5.2,https://github.com/rack/rack,MIT
+dea_ng,diff-lcs,1.1.3,https://github.com/halostatue/diff-lcs,MIT
+dea_ng,rack-protection,1.3.2,https://github.com/rkh/rack-protection,MIT
+dea_ng,rack,1.3.0,https://github.com/rack/rack,MIT
+dea_ng,columnize,0.8.9,https://github.com/rocky/columnize,Ruby License
+dea_ng,rack,1.5.2,https://github.com/rack/rack,MIT
+dea_ng,eventmachine,1.0.0.beta.1,https://github.com/eventmachine/eventmachine,Ruby License
+dea_ng,plucky,0.3.7,https://github.com/mongomapper/plucky,MIT
+dea_ng,mongo,1.1,https://github.com/mongodb/mongo-ruby-driver,Apache License2.0
+dea_ng,rack,1,https://github.com/rack/rack,MIT
+dea_ng,backports,3.3,https://github.com/marcandre/backports,MIT
+dea_ng,eventmachine,0.12.10,https://github.com/eventmachine/eventmachine,Ruby License
+dea_ng,eventmachine,1.0.4,https://github.com/eventmachine/eventmachine,Ruby License
+dea_ng,mini_portile,0.6.0,https://github.com/flavorjones/mini_portile,MIT
+dea_ng,rack-protection,1.4.0,https://github.com/rkh/rack-protection,MIT
+dea_ng,json,1.5.1,https://github.com/flori/json,Ruby License
+dea_ng,i18n,0.6.1,https://github.com/svenfuchs/i18n,MIT
+dea_ng,squash_ruby,2.0.0,https://github.com/SquareSquash/ruby,Apache License2.0
+dea_ng,simplecov,0.7.1,https://github.com/colszowka/simplecov,MIT
+dea_ng,yajl-ruby,1.2.1,https://github.com/brianmario/yajl-ruby,MIT
+dea_ng,rack,1.5.1,https://github.com/rack/rack,MIT
+dea_ng,i18n,0.4.0,https://github.com/svenfuchs/i18n,MIT
+dea_ng,httpclient,2.3.4.1,https://github.com/nahi/httpclient,Ruby License
+dea_ng,addressable,2.2.7,https://github.com/sporkmonger/addressable,APACHE 2.0
+dea_ng,rack,1.0.0,https://github.com/rack/rack,MIT
+dea_ng,rack,1.0.0,https://github.com/rack/rack,MIT
+dea_ng,em-http-request,1.0.3,https://github.com/igrigorik/em-http-request,MIT
+dea_ng,rack,0.4,https://github.com/rack/rack,MIT
+dea_ng,rake,10.0.3,https://github.com/ruby/rake,MIT
+dea_ng,daemons,1.1.9,https://github.com/ghazel/daemons,MIT
+dea_ng,rack,1.5.1,https://github.com/rack/rack,MIT
+dea_ng,activesupport,3.0.6,https://github.com/rails/rails/tree/master/activesupport,MIT
+dea_ng,patron,0.4.18,https://github.com/toland/patron,MIT
+dea_ng,eventmachine,0.12.6,https://github.com/eventmachine/eventmachine,Ruby License
+dea_ng,crack,0.3.2,https://github.com/jnunemaker/crack,MIT
+dea_ng,eventmachine,1.0.0.beta.1,https://github.com/eventmachine/eventmachine,Ruby License
+dea_ng,addressable,2.2,https://github.com/sporkmonger/addressable,APACHE 2.0
+dea_ng,rack,1.0.0,https://github.com/rack/rack,MIT
+dea_ng,plucky,0.3.6,https://github.com/mongomapper/plucky,MIT
+dea_ng,debugger,1.6.6,https://github.com/cldwalker/debugger,BSD
+dea_ng,rspec-core,2.14.0,https://github.com/rspec/rspec-core,MIT
+dea_ng,addressable,2.2.7,https://github.com/sporkmonger/addressable,APACHE 2.0
+dea_ng,rspec,2.14.1,https://github.com/rspec/rspec,MIT
+dea_ng,rack,1.5.2,https://github.com/rack/rack,MIT
+dea_ng,builder,3.0.0,https://github.com/jimweirich/builder,MIT
+dea_ng,rspec-fire,1.3.0,https://github.com/xaviershay/rspec-fire,MIT
+dea_ng,http_parser.rb,0.5.3,https://github.com/tmm1/http_parser.rb,MIT
+dea_ng,crack,0.3.2,https://github.com/jnunemaker/crack,MIT
+dea_ng,yajl-ruby,1,https://github.com/brianmario/yajl-ruby,MIT
+dea_ng,mongo_mapper,0.9.0,https://github.com/mongomapper/mongomapper,MIT
+dea_ng,thor,0.15.4,https://github.com/erikhuda/thor,MIT
+dea_ng,rack,1.2.1,https://github.com/rack/rack,MIT
+dea_ng,mongo,1.2.4,https://github.com/mongodb/mongo-ruby-driver,APACHE LICENSE 2.0
+dea_ng,arel,2.0.2,https://github.com/rails/arel,MIT
+dea_ng,em-socksify,0.3.0,https://github.com/igrigorik/em-socksify,MIT
+dea_ng,activerecord,3.0.6,https://github.com/rails/rails/tree/master/activerecord,MIT
+dea_ng,hashie,2.0.5,https://github.com/intridea/hashie,MIT
+dea_ng,rspec-expectations,2.14.3,https://github.com/rspec/rspec-expectations,MIT
+dea_ng,rack,1.4,https://github.com/rack/rack,MIT
+dea_ng,rack-protection,1.3.2,https://github.com/rkh/rack-protection,MIT
+dea_ng,pg,0.17.1,https://rubygems.org/gems/pg,BSD
+dea_ng,json,1.8.1,https://github.com/flori/json,Ruby License
+dea_ng,mongo,1.11.1,https://github.com/mongodb/mongo-ruby-driver,APACHE LICENSE 2.0
+dea_ng,builder,2.1.2,https://github.com/jimweirich/builder,MIT
+dea_ng,ffi,1.0.0,https://github.com/ffi/ffi,BSD
+dea_ng,hashie,1.2.0,https://github.com/intridea/hashie,MIT
+dea_ng,codeclimate-test-reporter,0.3.0,https://github.com/codeclimate/ruby-test-reporter,MIT
+dea_ng,thor,0.14.6,https://github.com/erikhuda/thor,MIT
+dea_ng,rack-protection,1.4.0,https://github.com/rkh/rack-protection,MIT
+dea_ng,vmstat,2.0.0,https://github.com/threez/ruby-vmstat,MIT
+dea_ng,activemodel,3.0.0,https://rubygems.org/gems/activemodel,MIT
+dea_ng,msgpack,0.4.7,https://github.com/msgpack/msgpack-ruby,Apache License2.0
+dea_ng,docile,1.1.5,https://github.com/ms-ati/docile,MIT
+dea_ng,tilt,1.3.3,https://github.com/rtomayko/tilt,MIT
+dea_ng,grape,0.4.2,https://github.com/intridea/grape,MIT
+dea_ng,pg,0.11.0,https://rubygems.org/gems/pg,BSD
+dea_ng,rack,1.3.0,https://github.com/rack/rack,MIT
+dea_ng,rake,0.8.7,https://github.com/ruby/rake,MIT
+dea_ng,thor,0.14.4,https://github.com/erikhuda/thor,MIT
+dea_ng,multipart-post,2.0.0,https://github.com/nicksieger/multipart-post,MIT
+dea_ng,cookiejar,0.3.0,https://github.com/dwaite/cookiejar,BSD
+dea_ng,timecop,0.7.1,https://github.com/travisjeffery/timecop,MIT
+dea_ng,tzinfo,0.3.23,https://github.com/tzinfo/tzinfo,MIT
+dea_ng,rack,1.0.0,https://github.com/rack/rack,MIT
+dea_ng,yajl-ruby,1.2.1,https://github.com/brianmario/yajl-ruby,MIT
+dea_ng,rack,1.6.0,https://github.com/rack/rack,MIT
+dea_ng,daemons,1.1.2,https://github.com/ghazel/daemons,MIT
+dea_ng,polyglot,0.3.1,https://github.com/cjheath/polyglot,MIT
+dea_ng,eventmachine,0.12.6,https://github.com/eventmachine/eventmachine,Ruby License
+dea_ng,ffi,1.0.11,https://github.com/ffi/ffi,BSD
+dea_ng,rack,1.5.1,https://github.com/rack/rack,MIT
+dea_ng,actionpack,3.0.6,https://github.com/rails/rails/tree/master/actionpack,MIT
+dea_ng,rspec-mocks,2.14.0,https://github.com/rspec/rspec-mocks,MIT
+dea_ng,rack,0.4,https://github.com/rack/rack,MIT
+dea_ng,backports,3.3,https://github.com/marcandre/backports,MIT
+dea_ng,eventmachine,0.12.10,https://github.com/eventmachine/eventmachine,Ruby License
+dea_ng,eventmachine,1,https://github.com/eventmachine/eventmachine,Ruby License
+dea_ng,rack,1.2.1,https://github.com/rack/rack,MIT
+dea_ng,thor,0.13.6,https://github.com/erikhuda/thor,MIT
+dea_ng,addressable,2.2.3,https://github.com/sporkmonger/addressable,APACHE 2.0
+dea_ng,addressable,2.2.3,https://github.com/sporkmonger/addressable,APACHE 2.0
+dea_ng,rack,1,https://github.com/rack/rack,MIT
+dea_ng,rack,1,https://github.com/rack/rack,MIT
+dea_ng,rack,1.6.0,https://github.com/rack/rack,MIT
+dea_ng,eventmachine,1.0.4,https://github.com/eventmachine/eventmachine,Ruby License
+dea_ng,multi_xml,0.5.4,https://github.com/sferik/multi_xml,MIT
+dea_ng,rack,1.5.1,https://github.com/rack/rack,MIT
+dea_ng,eventmachine,0.12.6,https://github.com/eventmachine/eventmachine,Ruby License
+dea_ng,safe_yaml,0.9.7,https://github.com/dtao/safe_yaml,MIT
+dea_ng,mime-types,1.16,https://github.com/halostatue/mime-types,MIT
+dea_ng,ffi,1.0.0,https://github.com/ffi/ffi,BSD
+dea_ng,multi_json,1,https://github.com/intridea/multi_json,MIT
+dea_ng,thin,1.6.3,https://github.com/macournoyer/thin,Ruby License
+dea_ng,rspec,2.11,https://github.com/rspec/rspec,MIT
+dea_ng,builder,3.0.0,https://github.com/jimweirich/builder,MIT
+dea_ng,rack,1.2.2,https://github.com/rack/rack,MIT
+dea_ng,fluent-logger,0.4.9,https://github.com/fluent/fluent-logger-ruby,Apache License2.0
+dea_ng,foreman,0.61.0,https://github.com/ddollar/foreman,MIT
+dea_ng,builder,2.1.2,https://github.com/jimweirich/builder,MIT
+dea_ng,rack,1.3.0,https://github.com/rack/rack,MIT
+dea_ng,multi_json,1,https://github.com/intridea/multi_json,MIT
+dea_ng,addressable,2.2.3,https://github.com/sporkmonger/addressable,APACHE 2.0
+dea_ng,eventmachine,1.0.0.beta.4,https://github.com/eventmachine/eventmachine,Ruby License
+dea_ng,eventmachine,1,https://github.com/eventmachine/eventmachine,Ruby License
+dea_ng,rack,1.2.1,https://github.com/rack/rack,MIT
+dea_ng,rack,0.4,https://github.com/rack/rack,MIT
+dea_ng,rack,0.4,https://github.com/rack/rack,MIT
+dea_ng,erubis,2.6.6,https://github.com/guenter/erubis,MIT
+dea_ng,addressable,2.2,https://github.com/sporkmonger/addressable,APACHE 2.0
+dea_ng,eventmachine,1.0.0.beta.4,https://github.com/eventmachine/eventmachine,Ruby License
+dea_ng,webmock,1.15.2,https://github.com/bblimke/webmock,MIT
+dea_ng,multi_json,1.3.2,https://github.com/intridea/multi_json,MIT
+dea_ng,rack,1.2.2,https://github.com/rack/rack,MIT
+dea_ng,rack,1.2.2,https://github.com/rack/rack,MIT
+dea_ng,em-socksify,0.2.1,https://github.com/igrigorik/em-socksify,MIT
+dea_ng,eventmachine,1.0.3,https://github.com/eventmachine/eventmachine,Ruby License
+dea_ng,railties,3.0.6,https://github.com/rails/rails/tree/master/railties,MIT
+dea_ng,debugger-ruby_core_source,1.3.5,https://github.com/cldwalker/debugger-ruby_core_source,MIT
+dea_ng,addressable,2.2,https://github.com/sporkmonger/addressable,APACHE 2.0
+dea_ng,nats,0.5.0.beta.16,https://github.com/derekcollison/ruby-nats,MIT
+dea_ng,backports,3.3.1,https://github.com/marcandre/backports,MIT
+dea_ng,columnize,0.3.1,https://github.com/rocky/columnize,Ruby License
+dea_ng,columnize,0.8.9,https://github.com/rocky/columnize,Ruby License
+dea_ng,sinatra,1.3.4,https://github.com/sinatra/sinatra,MIT
+dea_ng,sys-filesystem,1.0.0,https://github.com/djberg96/sys-filesystem,ARTISTIC 2.0
+dea_ng,mysql2,0.3.11,https://github.com/brianmario/mysql2,MIT
+dea_ng,rack,1,https://github.com/rack/rack,MIT
+dea_ng,thin,1.2.11,https://github.com/macournoyer/thin,Ruby License
+dea_ng,sinatra,1.3.5,https://github.com/sinatra/sinatra,MIT
+dea_ng,rack-accept,0.4.5,https://github.com/mjackson/rack-accept,MIT
+dea_ng,rspec-core,2.14.7,https://github.com/rspec/rspec-core,MIT
+dea_ng,debugger-ruby_core_source,1.3.2,https://github.com/cldwalker/debugger-ruby_core_source,MIT
+dea_ng,activesupport,3.0.0,https://github.com/rails/rails/tree/master/activesupport,MIT
+dea_ng,eventmachine,1.0.4,https://github.com/eventmachine/eventmachine,Ruby License
+dea_ng,rack-protection,1.3,https://github.com/rkh/rack-protection,MIT
+dea_ng,thin,1.2.11,https://github.com/macournoyer/thin,Ruby License
+dea_ng,redis,3.2.0,https://github.com/redis/redis-rb,MIT
+dea_ng,yajl-ruby,1,https://github.com/brianmario/yajl-ruby,MIT
+dea_ng,rspec-expectations,2.14.3,https://github.com/rspec/rspec-expectations,MIT
+dea_ng,rack,1.4,https://github.com/rack/rack,MIT
+dea_ng,rack,1.4,https://github.com/rack/rack,MIT
+dea_ng,rack,1.6.0,https://github.com/rack/rack,MIT
+dea_ng,diff-lcs,1.2.4,https://github.com/halostatue/diff-lcs,MIT
+dea_ng,diff-lcs,1.2.4,https://github.com/halostatue/diff-lcs,MIT
+dea_ng,nokogiri,1.6.2.1,https://github.com/sparklemotion/nokogiri,MIT
+dea_ng,eventmachine,0.12.10,https://github.com/eventmachine/eventmachine,Ruby License
+dea_ng,rack-test,0.5.7,https://github.com/brynary/rack-test,MIT
+dea_ng,i18n,0.5.0,https://github.com/svenfuchs/i18n,MIT
+dea_ng,arel,2.0.9,https://github.com/rails/arel,MIT
+dea_ng,rspec-mocks,2.14.4,https://github.com/rspec/rspec-mocks,MIT
+dea_ng,cookiejar,0.3.2,https://github.com/dwaite/cookiejar,BSD
+dea_ng,net-ssh,2.2.2,https://github.com/net-ssh/net-ssh,MIT
+dea_ng,bundler,1,https://github.com/bundler/bundler,MIT

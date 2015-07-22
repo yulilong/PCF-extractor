@@ -1,0 +1,129 @@
+Repo/Source of Dependency,Component Name,1.4 Version,Download URL,License
+collector,simplecov,0.7.1,https://github.com/colszowka/simplecov,MIT
+collector,builder,3.2.2,https://github.com/jimweirich/builder,MIT
+collector,safe_yaml,1.0.0,https://github.com/dtao/safe_yaml,MIT
+collector,multi_xml,0.5.2,https://github.com/sferik/multi_xml,MIT
+collector,em-http-request,1.1.2,https://github.com/igrigorik/em-http-request,MIT
+collector,rspec-core,2.14.0,https://github.com/rspec/rspec-core,MIT
+collector,rspec-expectations,2.14.4,https://github.com/rspec/rspec-expectations,MIT
+collector,rspec-mocks,2.14.4,https://github.com/rspec/rspec-mocks,MIT
+collector,json,1.8.1,https://github.com/flori/json,Ruby License
+collector,addressable,2.2.7,https://github.com/sporkmonger/addressable,APACHE 2.0
+collector,diff-lcs,1.1.3,https://github.com/halostatue/diff-lcs,MIT
+collector,yajl-ruby,1.2.1,https://github.com/brianmario/yajl-ruby,MIT
+collector,diff-lcs,1.2.5,https://github.com/halostatue/diff-lcs,MIT
+collector,docile,1.1.5,https://github.com/ms-ati/docile,MIT
+collector,grape,0.2.1.1,https://github.com/intridea/grape,MIT
+collector,thin,1.6.3,https://github.com/macournoyer/thin,Ruby License
+collector,rspec-core,2.14.7,https://github.com/rspec/rspec-core,MIT
+collector,docile,1.1.0,https://github.com/ms-ati/docile,MIT
+collector,rack-mount,0.8.3,https://github.com/josh/rack-mount,MIT
+collector,timecop,0.6.3,https://github.com/travisjeffery/timecop,MIT
+collector,json,1.7.7,https://github.com/flori/json,Ruby License
+collector,simplecov,0.9.0,https://github.com/colszowka/simplecov,MIT
+collector,mime-types,2.1,https://github.com/halostatue/mime-types,MIT
+collector,daemons,1.0.9,https://github.com/ghazel/daemons,MIT
+collector,squash_ruby,1.4.0,https://github.com/SquareSquash/ruby,Apache License2.0
+collector,safe_yaml,1.0.4,https://github.com/dtao/safe_yaml,MIT
+collector,daemons,1.1.9,https://github.com/ghazel/daemons,MIT
+collector,rspec-expectations,2.14.0,https://github.com/rspec/rspec-expectations,MIT
+collector,diff-lcs,1.1.3,https://github.com/halostatue/diff-lcs,MIT
+collector,rspec-mocks,2.14.0,https://github.com/rspec/rspec-mocks,MIT
+collector,rack,1,https://github.com/rack/rack,MIT
+collector,em-socksify,0.3.0,https://github.com/igrigorik/em-socksify,MIT
+collector,httparty,0.11.0,https://github.com/jnunemaker/httparty,MIT
+collector,httpclient,2.3.4.1,https://github.com/nahi/httpclient,Ruby License
+collector,json,1.7.7,https://github.com/flori/json,Ruby License
+collector,rspec-expectations,2.14.0,https://github.com/rspec/rspec-expectations,MIT
+collector,posix-spawn,0.3.8,https://github.com/rtomayko/posix-spawn,MIT
+collector,json,1.8.1,https://github.com/flori/json,Ruby License
+collector,rspec-mocks,2.14.0,https://github.com/rspec/rspec-mocks,MIT
+collector,nokogiri,1.4.4,https://github.com/sparklemotion/nokogiri,MIT
+collector,em-socksify,0.3,https://github.com/igrigorik/em-socksify,MIT
+collector,simplecov,0.9.0,https://github.com/colszowka/simplecov,MIT
+collector,fluent-logger,0.4.9,https://github.com/fluent/fluent-logger-ruby,Apache License2.0
+collector,crack,0.4.2,https://github.com/jnunemaker/crack,MIT
+collector,hashie,1.2.0,https://github.com/intridea/hashie,MIT
+collector,rspec-core,2.14.0,https://github.com/rspec/rspec-core,MIT
+collector,uuidtools,2.1.3,https://github.com/sporkmonger/uuidtools,Apache License2.0
+collector,eventmachine,1.0.0.beta.4,https://github.com/eventmachine/eventmachine,Ruby License
+collector,eventmachine,1,https://github.com/eventmachine/eventmachine,Ruby License
+collector,uuidtools,2.1.3,https://github.com/sporkmonger/uuidtools,Apache License2.0
+collector,eventmachine,1.0.0.beta.4,https://github.com/eventmachine/eventmachine,Ruby License
+collector,simplecov-html,0.8.0,https://github.com/colszowka/simplecov-html,MIT
+collector,daemons,1.0.9,https://github.com/ghazel/daemons,MIT
+collector,hashie,1.2.0,https://github.com/intridea/hashie,MIT
+collector,addressable,2.3.5,https://github.com/sporkmonger/addressable,APACHE 2.0
+collector,eventmachine,1.0.3,https://github.com/eventmachine/eventmachine,Ruby License
+collector,rack,1.5.2,https://github.com/rack/rack,MIT
+collector,grape,0.10.0,https://github.com/intridea/grape,MIT
+collector,multipart-post,2.0.0,https://github.com/nicksieger/multipart-post,MIT
+collector,em-socksify,0.3.0,https://github.com/igrigorik/em-socksify,MIT
+collector,msgpack,0.4.4,https://github.com/msgpack/msgpack-ruby,Apache License2.0
+collector,multi_json,1.10.1,https://github.com/intridea/multi_json,MIT
+collector,rack,1.5.2,https://github.com/rack/rack,MIT
+collector,mini_portile,0.6.0,https://github.com/flavorjones/mini_portile,MIT
+collector,hashie,1.2,https://github.com/intridea/hashie,MIT
+collector,multi_json,1,https://github.com/intridea/multi_json,MIT
+collector,rack,1.0.0,https://github.com/rack/rack,MIT
+collector,diff-lcs,1.2.5,https://github.com/halostatue/diff-lcs,MIT
+collector,rake,0.9.2.2,https://github.com/ruby/rake,MIT
+collector,daemons,1.1.9,https://github.com/ghazel/daemons,MIT
+collector,builder,3.2.2,https://github.com/jimweirich/builder,MIT
+collector,addressable,2.2.7,https://github.com/sporkmonger/addressable,APACHE 2.0
+collector,fluent-logger,0.4.6,https://github.com/fluent/fluent-logger-ruby,Apache License2.0
+collector,multi_json,1.0.4,https://github.com/intridea/multi_json,MIT
+collector,rspec,2.14.1,https://github.com/rspec/rspec,MIT
+collector,yajl-ruby,1,https://github.com/brianmario/yajl-ruby,MIT
+collector,hashie,1.2,https://github.com/intridea/hashie,MIT
+collector,em-socksify,0.3,https://github.com/igrigorik/em-socksify,MIT
+collector,nokogiri,1.4.4,https://github.com/sparklemotion/nokogiri,MIT
+collector,yajl-ruby,1.2.1,https://github.com/brianmario/yajl-ruby,MIT
+collector,builder,2.1.2,https://github.com/jimweirich/builder,MIT
+collector,msgpack,0.4.4,https://github.com/msgpack/msgpack-ruby,Apache License2.0
+collector,multi_json,1.10.1,https://github.com/intridea/multi_json,MIT
+collector,codeclimate-test-reporter,0.3.0,https://rubygems.org/gems/codeclimate-test-reporter,MIT
+collector,json,1.4,https://github.com/flori/json,Ruby License
+collector,docile,1.1.5,https://github.com/ms-ati/docile,MIT
+collector,aws-sdk,1.8.3.1,https://github.com/aws/aws-sdk-core-ruby,APACHE 2.0
+collector,docile,1.1.0,https://github.com/ms-ati/docile,MIT
+collector,multi_xml,0.5.4,https://github.com/sferik/multi_xml,MIT
+collector,cookiejar,0.3.0,https://github.com/dwaite/cookiejar,BSD
+collector,rack,1.6.0,https://github.com/rack/rack,MIT
+collector,http_parser.rb,0.6.0,https://github.com/tmm1/http_parser.rb,MIT
+collector,msgpack,0.5.5,https://github.com/msgpack/msgpack-ruby,Apache License2.0
+collector,multi_json,1.0.4,https://github.com/intridea/multi_json,MIT
+collector,rack,1,https://github.com/rack/rack,MIT
+collector,json,1.4,https://github.com/flori/json,Ruby License
+collector,rack,1.6.0,https://github.com/rack/rack,MIT
+collector,nokogiri,1.6.2.1,https://github.com/sparklemotion/nokogiri,MIT
+collector,multi_xml,0.5.4,https://github.com/sferik/multi_xml,MIT
+collector,crack,0.3.2,https://github.com/jnunemaker/crack,MIT
+collector,addressable,2.3.4,https://github.com/sporkmonger/addressable,APACHE 2.0
+collector,thin,1.6.3,https://github.com/macournoyer/thin,Ruby License
+collector,multi_json,1,https://github.com/intridea/multi_json,MIT
+collector,eventmachine,1,https://github.com/eventmachine/eventmachine,Ruby License
+collector,uuidtools,2.1,https://github.com/sporkmonger/uuidtools,Apache License2.0
+collector,webmock,1.17.4,https://github.com/bblimke/webmock,MIT
+collector,eventmachine,1.0.0.beta.4,https://github.com/eventmachine/eventmachine,Ruby License
+collector,json_pure,1.8.1,https://github.com/flori/json,Ruby License
+collector,addressable,2.3.4,https://github.com/sporkmonger/addressable,APACHE 2.0
+collector,uuidtools,2.1,https://github.com/sporkmonger/uuidtools,Apache License2.0
+collector,eventmachine,1.0.3,https://github.com/eventmachine/eventmachine,Ruby License
+collector,builder,2.1.2,https://github.com/jimweirich/builder,MIT
+collector,nats,0.5.0.beta.16,https://github.com/derekcollison/ruby-nats,MIT
+collector,eventmachine,1.0.3,https://github.com/eventmachine/eventmachine,Ruby License
+collector,multi_xml,0.5.2,https://github.com/sferik/multi_xml,MIT
+collector,addressable,2.3.5,https://github.com/sporkmonger/addressable,APACHE 2.0
+collector,rspec-core,2.14.7,https://github.com/rspec/rspec-core,MIT
+collector,yajl-ruby,1,https://github.com/brianmario/yajl-ruby,MIT
+collector,eventmachine,1,https://github.com/eventmachine/eventmachine,Ruby License
+collector,vmstat,2.1.0,https://github.com/threez/ruby-vmstat,MIT
+collector,simplecov,0.7.1,https://github.com/colszowka/simplecov,MIT
+collector,rspec-expectations,2.14.4,https://github.com/rspec/rspec-expectations,MIT
+collector,nokogiri,1.6.2.1,https://github.com/sparklemotion/nokogiri,MIT
+collector,rack,1.0.0,https://github.com/rack/rack,MIT
+collector,rspec-mocks,2.14.4,https://github.com/rspec/rspec-mocks,MIT
+collector,msgpack,0.5.5,https://github.com/msgpack/msgpack-ruby,Apache License2.0
+collector,cookiejar,0.3.2,https://github.com/dwaite/cookiejar,BSD
+collector,ci_reporter,1.9.0,https://github.com/ci-reporter/ci_reporter,MIT

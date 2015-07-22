@@ -39,6 +39,9 @@ class Compare_new_old
 	end#read_data end
 	
 	def version_compare(new_v,old_v)
+		if new_v == nil or old_v == nil
+			return ''
+		end
 		new = new_v.split('.');
 		old = old_v.split('.');
 		if new.size == 3 and old.size == 2
@@ -153,10 +156,10 @@ class Compare_new_old
 end# class end
 
 
-repo_name = "app-usage-service"
+repo_name = "console"
 #if repo new  than p14=''
-p14 = "PCF-1_4-app-usage-service(ruby).csv"
-p15 = "master-Gemfile.lock?token=AJOcPKe6GXIZTfZ_HO3o2vZv_7xR7vymks5Vsfi4wA%3D%3D.txt"
+p14 = "PCF-1_4-cf-console.csv"
+p15 = "master-Gemfile-PCF.lock?token=AJOcPIpoWoIiyyt0iWc2bGBs0Udv2KCPks5VtzIowA%3D%3D.txt"
 #folder
 file_final = "./compare"
 

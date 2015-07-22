@@ -1,0 +1,182 @@
+Repo/Source of Dependency,Component Name,1.4 Version,Download URL,License
+cloud_controller_ng,ruby_parser,3.2.2,https://github.com/seattlerb/ruby_parser,MIT
+cloud_controller_ng,pry,0.10.1,https://github.com/pry/pry,MIT
+cloud_controller_ng,safe_yaml,1.0.0,https://github.com/dtao/safe_yaml,MIT
+cloud_controller_ng,daemons,1.1.9,https://github.com/ghazel/daemons,MIT
+cloud_controller_ng,parallel,1.3.3,https://github.com/grosser/parallel,MIT
+cloud_controller_ng,sinatra,1.4.0,https://github.com/sinatra/sinatra,MIT
+cloud_controller_ng,eventmachine,1.0.0,https://github.com/eventmachine/eventmachine,Ruby License
+cloud_controller_ng,eventmachine,1.0.0.beta.4,https://github.com/eventmachine/eventmachine,Ruby License
+cloud_controller_ng,multi_json,1.10.1,https://github.com/intridea/multi_json,MIT
+cloud_controller_ng,rack,1,https://github.com/rack/rack,MIT
+cloud_controller_ng,pg,0.16.0,https://rubygems.org/gems/pg,BSD
+cloud_controller_ng,thread_safe,0.3.4,https://github.com/headius/thread_safe,APACHE-2.0
+cloud_controller_ng,squash_ruby,2.0.0,https://github.com/SquareSquash/ruby,Apache License2.0
+cloud_controller_ng,msgpack,0.4.4,https://github.com/msgpack/msgpack-ruby,Apache License2.0
+cloud_controller_ng,rake,10.4.1,https://github.com/ruby/rake,MIT
+cloud_controller_ng,activesupport,3,https://github.com/rails/rails/tree/master/activesupport,MIT
+cloud_controller_ng,fog-core,1.22,https://github.com/fog/fog-core,MIT
+cloud_controller_ng,sequel,4.17.0,https://rubygems.org/gems/sequel,MIT
+cloud_controller_ng,rack-protection,1.5.3,https://github.com/rkh/rack-protection,MIT
+cloud_controller_ng,activesupport,4.2.0,https://github.com/rails/rails/tree/master/activesupport,MIT
+cloud_controller_ng,awesome_print,1.2.0,https://github.com/michaeldv/awesome_print,MIT
+cloud_controller_ng,nokogiri,1.4.1,https://github.com/sparklemotion/nokogiri,MIT
+cloud_controller_ng,nokogiri,1.5.11,https://github.com/sparklemotion/nokogiri,MIT
+cloud_controller_ng,codeclimate-test-reporter,0.4.2,https://rubygems.org/gems/codeclimate-test-reporter,MIT
+cloud_controller_ng,ast,2.0.0,https://github.com/whitequark/ast,MIT
+cloud_controller_ng,rspec-its,1.1.0,https://github.com/rspec/rspec-its,MIT
+cloud_controller_ng,formatador,0.2.5,https://github.com/geemus/formatador,MIT
+cloud_controller_ng,rspec-core,3.1.7,https://github.com/rspec/rspec-core,MIT
+cloud_controller_ng,fakefs,0.6.0,https://github.com/defunkt/fakefs,MIT
+cloud_controller_ng,fog-xml,0.1.1,https://github.com/fog/fog-xml,MIT
+cloud_controller_ng,rfc822,0.1.5,https://github.com/mspanc/rfc822,MIT
+cloud_controller_ng,rspec-core,3.1.0,https://github.com/rspec/rspec-core,MIT
+cloud_controller_ng,httpclient,2.5.3.3,https://github.com/nahi/httpclient,Ruby License
+cloud_controller_ng,thin,1.6.3,https://github.com/macournoyer/thin,Ruby License
+cloud_controller_ng,rbvmomi,1.8.2,https://github.com/rlane/rbvmomi,MIT
+cloud_controller_ng,excon,0.38,https://github.com/excon/excon,MIT
+cloud_controller_ng,formatador,0.2,https://github.com/geemus/formatador,MIT
+cloud_controller_ng,em-http-request,1,https://github.com/igrigorik/em-http-request,MIT
+cloud_controller_ng,safe_yaml,1.0.4,https://github.com/dtao/safe_yaml,MIT
+cloud_controller_ng,sexp_processor,4.1,https://github.com/seattlerb/sexp_processor,MIT
+cloud_controller_ng,docile,1.1.5,https://github.com/ms-ati/docile,MIT
+cloud_controller_ng,fluent-logger,0.4.9,https://github.com/fluent/fluent-logger-ruby,Apache License2.0
+cloud_controller_ng,rspec-support,3.1.2,https://github.com/rspec/rspec-support,MIT
+cloud_controller_ng,builder,3.2.2,https://github.com/jimweirich/builder,MIT
+cloud_controller_ng,eventmachine,1.0.4,https://github.com/eventmachine/eventmachine,Ruby License
+cloud_controller_ng,rack-test,0.6.2,https://github.com/brynary/rack-test,MIT
+cloud_controller_ng,slop,3.6.0,https://github.com/leejarvis/slop,MIT
+cloud_controller_ng,unf,0.1.4,https://github.com/knu/ruby-unf,2-CLAUSE BSDL
+cloud_controller_ng,bcrypt,3.1.9,https://github.com/codahale/bcrypt-ruby,MIT
+cloud_controller_ng,rspec-expectations,3.0.0,https://github.com/rspec/rspec-expectations,MIT
+cloud_controller_ng,docile,1.1.0,https://github.com/ms-ati/docile,MIT
+cloud_controller_ng,webmock,1.20.4,https://github.com/bblimke/webmock,MIT
+cloud_controller_ng,netaddr,1.5.0,http://www.ruby-doc.org/gems/docs/n/netaddr-1.5.0/NetAddr.html,RUBY
+cloud_controller_ng,net-ssh,2.6.5,https://github.com/net-ssh/net-ssh,MIT
+cloud_controller_ng,method_source,0.8.1,https://github.com/banister/method_source,MIT
+cloud_controller_ng,timecop,0.7.1,https://github.com/travisjeffery/timecop,MIT
+cloud_controller_ng,sinatra,1.4.5,https://github.com/sinatra/sinatra,MIT
+cloud_controller_ng,crack,0.4.2,https://github.com/jnunemaker/crack,MIT
+cloud_controller_ng,CFPropertyList,2.2.8,https://github.com/ckruse/CFPropertyList,MIT
+cloud_controller_ng,mini_portile,0.6.0,https://github.com/flavorjones/mini_portile,MIT
+cloud_controller_ng,addressable,2.3.4,https://github.com/sporkmonger/addressable,APACHE 2.0
+cloud_controller_ng,tilt,1.4.1,https://github.com/rtomayko/tilt,MIT
+cloud_controller_ng,powerpack,0.0.6,https://github.com/bbatsov/powerpack,MIT
+cloud_controller_ng,i18n,0.7.0,https://github.com/svenfuchs/i18n,MIT
+cloud_controller_ng,parser,2.1.3,https://github.com/whitequark/parser,MIT
+cloud_controller_ng,simplecov,0.9.1,https://github.com/colszowka/simplecov,MIT
+cloud_controller_ng,slop,3.4.5,https://github.com/leejarvis/slop,MIT
+cloud_controller_ng,loggregator_emitter,3.0.0,https://github.com/cloudfoundry/loggregator_emitter,APACHE-2.0
+cloud_controller_ng,powerpack,0.0.9,https://github.com/bbatsov/powerpack,MIT
+cloud_controller_ng,fission,0.5.0,https://github.com/thbishop/fission,MIT
+cloud_controller_ng,i18n,0.6.11,https://github.com/svenfuchs/i18n,MIT
+cloud_controller_ng,fog-radosgw,0.0.3,https://github.com/fog/fog-radosgw,MIT
+cloud_controller_ng,sinatra-contrib,1.4.2,https://github.com/sinatra/sinatra-contrib,MIT
+cloud_controller_ng,backports,3.6.4,https://github.com/marcandre/backports,MIT
+cloud_controller_ng,diff-lcs,1.2.0,https://github.com/halostatue/diff-lcs,MIT
+cloud_controller_ng,json_pure,1.8.1,https://github.com/flori/json,Ruby License
+cloud_controller_ng,multi_json,1,https://github.com/intridea/multi_json,MIT
+cloud_controller_ng,rubocop,0.18.1,https://github.com/bbatsov/rubocop,MIT
+cloud_controller_ng,http_parser.rb,0.6.0,https://github.com/tmm1/http_parser.rb,MIT
+cloud_controller_ng,fog-core,1.27.2,https://github.com/fog/fog-core,MIT
+cloud_controller_ng,ruby_parser,3.6.3,https://github.com/seattlerb/ruby_parser,MIT
+cloud_controller_ng,net-scp,1.2.1,https://github.com/net-ssh/net-scp,MIT
+cloud_controller_ng,opennebula,4.10.1,https://rubygems.org/gems/opennebula/versions/4.10.1,APACHE-2.0
+cloud_controller_ng,fog-radosgw,0.0.2,https://github.com/fog/fog-radosgw,MIT
+cloud_controller_ng,nats,0.5.0.beta.12,https://github.com/derekcollison/ruby-nats,MIT
+cloud_controller_ng,fog-terremark,0.0.3,https://github.com/fog/fog-terremark,MIT
+cloud_controller_ng,activesupport,3.2.21,https://github.com/rails/rails/tree/master/activesupport,MIT
+cloud_controller_ng,rspec-mocks,3.1.3,https://github.com/rspec/rspec-mocks,MIT
+cloud_controller_ng,ast,1.1,https://github.com/whitequark/ast,MIT
+cloud_controller_ng,nokogiri,1.6.5,https://github.com/sparklemotion/nokogiri,MIT
+cloud_controller_ng,simplecov,0.7.1,https://github.com/colszowka/simplecov,MIT
+cloud_controller_ng,parallel_tests,1.0.7,https://github.com/grosser/parallel_tests,MIT
+cloud_controller_ng,multipart-post,2.0.0,https://github.com/nicksieger/multipart-post,MIT
+cloud_controller_ng,rspec-expectations,2.99.0.beta1,https://github.com/rspec/rspec-expectations,MIT
+cloud_controller_ng,method_source,0.8.2,https://github.com/banister/method_source,MIT
+cloud_controller_ng,activesupport,3.2,https://github.com/rails/rails/tree/master/activesupport,MIT
+cloud_controller_ng,uuidtools,2.1.5,https://github.com/sporkmonger/uuidtools,Apache License2.0
+cloud_controller_ng,tilt,1.3,https://github.com/rtomayko/tilt,MIT
+cloud_controller_ng,machinist,1.0.6,https://github.com/notahat/machinist,MIT
+cloud_controller_ng,rspec-support,3.1.0,https://github.com/rspec/rspec-support,MIT
+cloud_controller_ng,mysql2,0.3.13,https://github.com/brianmario/mysql2,MIT
+cloud_controller_ng,net-ssh,2.1.3,https://github.com/net-ssh/net-ssh,MIT
+cloud_controller_ng,net-ssh,2.9.1,https://github.com/net-ssh/net-ssh,MIT
+cloud_controller_ng,yajl-ruby,1,https://github.com/brianmario/yajl-ruby,MIT
+cloud_controller_ng,slop,3.4,https://github.com/leejarvis/slop,MIT
+cloud_controller_ng,beefcake,0.3.7,https://github.com/protobuf-ruby/beefcake,MIT
+cloud_controller_ng,rack-protection,1.4,https://github.com/rkh/rack-protection,MIT
+cloud_controller_ng,tzinfo,1.2.2,https://github.com/tzinfo/tzinfo,MIT
+cloud_controller_ng,em-http-request,1.1.2,https://github.com/igrigorik/em-http-request,MIT
+cloud_controller_ng,json,1.8.1,https://github.com/flori/json,Ruby License
+cloud_controller_ng,net-scp,1.1,https://github.com/net-ssh/net-scp,MIT
+cloud_controller_ng,eventmachine,1,https://github.com/eventmachine/eventmachine,Ruby License
+cloud_controller_ng,simplecov-html,0.8.0,https://github.com/colszowka/simplecov-html,MIT
+cloud_controller_ng,rspec-mocks,3.1.0,https://github.com/rspec/rspec-mocks,MIT
+cloud_controller_ng,ipaddress,0.5,https://github.com/bluemonk/ipaddress,MIT
+cloud_controller_ng,parser,2.1.9,https://github.com/whitequark/parser,MIT
+cloud_controller_ng,ipaddress,0.8.0,https://github.com/bluemonk/ipaddress,MIT
+cloud_controller_ng,cookiejar,0.3.2,https://github.com/dwaite/cookiejar,BSD
+cloud_controller_ng,json,1.7.7,https://github.com/flori/json,Ruby License
+cloud_controller_ng,rack,1.6.0,https://github.com/rack/rack,MIT
+cloud_controller_ng,addressable,2.3.6,https://github.com/sporkmonger/addressable,APACHE 2.0
+cloud_controller_ng,fog-voxel,0.0.2,https://github.com/fog/fog-voxel,MIT
+cloud_controller_ng,fog-sakuracloud,0.1.1,https://github.com/fog/fog-sakuracloud,MIT
+cloud_controller_ng,vmstat,2,https://github.com/threez/ruby-vmstat,MIT
+cloud_controller_ng,cookiejar,0.3.0,https://github.com/dwaite/cookiejar,BSD
+cloud_controller_ng,fog-softlayer,0.3.25,https://github.com/fog/fog-softlayer,MIT
+cloud_controller_ng,msgpack,0.5.9,https://github.com/msgpack/msgpack-ruby,Apache License2.0
+cloud_controller_ng,diff-lcs,1.2.5,https://github.com/halostatue/diff-lcs,MIT
+cloud_controller_ng,fog-softlayer,0.3.26,https://github.com/fog/fog-softlayer,MIT
+cloud_controller_ng,mustache,0.99.8,https://github.com/mustache/mustache,MIT
+cloud_controller_ng,newrelic_rpm,3.7.3.204,https://github.com/newrelic/rpm,MIT
+cloud_controller_ng,rspec-core,3.0.0,https://github.com/rspec/rspec-core,MIT
+cloud_controller_ng,delayed_job,4.0.4,https://github.com/collectiveidea/delayed_job,MIT
+cloud_controller_ng,clockwork,1.1.0,https://github.com/tomykaira/clockwork,MIT
+cloud_controller_ng,rspec-expectations,3.1.2,https://github.com/rspec/rspec-expectations,MIT
+cloud_controller_ng,tilt,1.3.4,https://github.com/rtomayko/tilt,MIT
+cloud_controller_ng,CFPropertyList,2.2,https://github.com/ckruse/CFPropertyList,MIT
+cloud_controller_ng,fog-vmfusion,0.0.1,https://github.com/fog/fog-vmfusion,MIT
+cloud_controller_ng,mime-types,2.4.3,https://github.com/halostatue/mime-types,MIT
+cloud_controller_ng,crack,0.3.2,https://github.com/jnunemaker/crack,MIT
+cloud_controller_ng,trollop,2,https://rubygems.org/gems/trollop,MIT
+cloud_controller_ng,fog-brightbox,0.7.0,https://rubygems.org/gems/fog-brightbox,MIT
+cloud_controller_ng,rspec-instafail,0.2.5,https://github.com/grosser/rspec-instafail,MIT
+cloud_controller_ng,coderay,1.1.0,https://github.com/rubychan/coderay,MIT
+cloud_controller_ng,backports,2,https://github.com/marcandre/backports,MIT
+cloud_controller_ng,allowy,1.0.0,https://github.com/dnagir/allowy,MIT
+cloud_controller_ng,fog-profitbricks,0.0.1,https://github.com/ruby-prof/ruby-prof,BSD
+cloud_controller_ng,fog-json,1.0.0,https://github.com/fog/fog-json,MIT
+cloud_controller_ng,excon,0.42.0,https://github.com/excon/excon,MIT
+cloud_controller_ng,posix-spawn,0.3.6,https://github.com/rtomayko/posix-spawn,MIT
+cloud_controller_ng,rack,1.5.2,https://github.com/rack/rack,MIT
+cloud_controller_ng,mini_portile,0.6.1,https://github.com/flavorjones/mini_portile,MIT
+cloud_controller_ng,eventmachine,1.0.3,https://github.com/eventmachine/eventmachine,Ruby License
+cloud_controller_ng,rack,1.4,https://github.com/rack/rack,MIT
+cloud_controller_ng,fog-core,1.25,https://github.com/fog/fog-core,MIT
+cloud_controller_ng,posix-spawn,0.3.9,https://github.com/rtomayko/posix-spawn,MIT
+cloud_controller_ng,nats,0.5.0.beta.16,https://github.com/derekcollison/ruby-nats,MIT
+cloud_controller_ng,addressable,2.2,https://github.com/sporkmonger/addressable,APACHE 2.0
+cloud_controller_ng,rainbow,2.0.0,https://github.com/sickill/rainbow,MIT
+cloud_controller_ng,em-socksify,0.3,https://github.com/igrigorik/em-socksify,MIT
+cloud_controller_ng,inflecto,0.0.2,https://github.com/mbj/inflecto,MIT
+cloud_controller_ng,cloudfront-signer,2.1.1,https://github.com/58bits/cloudfront-signer,MIT
+cloud_controller_ng,sexp_processor,4.4.4,https://github.com/seattlerb/sexp_processor,MIT
+cloud_controller_ng,rspec-collection_matchers,1.1.2,https://github.com/rspec/rspec-collection_matchers,MIT
+cloud_controller_ng,rspec,3.1.0,https://github.com/rspec/rspec,MIT
+cloud_controller_ng,i18n,0.6.4,https://github.com/svenfuchs/i18n,MIT
+cloud_controller_ng,fog-brightbox,0.4,https://rubygems.org/gems/fog-brightbox,MIT
+cloud_controller_ng,em-socksify,0.3.0,https://github.com/igrigorik/em-socksify,MIT
+cloud_controller_ng,fog-core,1.21.0,https://github.com/fog/fog-core,MIT
+cloud_controller_ng,daemons,1.0.9,https://github.com/ghazel/daemons,MIT
+cloud_controller_ng,unf_ext,0.0.6,https://github.com/knu/ruby-unf_ext,MIT
+cloud_controller_ng,vmstat,2.1.0,https://github.com/threez/ruby-vmstat,MIT
+cloud_controller_ng,roodi,4.0.0,https://github.com/roodi/roodi,MIT
+cloud_controller_ng,yajl-ruby,1.2.1,https://github.com/brianmario/yajl-ruby,MIT
+cloud_controller_ng,fog,1.25.0,https://github.com/fog/fog,MIT
+cloud_controller_ng,fog-core,1.25.0,https://github.com/fog/fog-core,MIT
+cloud_controller_ng,thread_safe,0.1,https://github.com/headius/thread_safe,APACHE-2.0
+cloud_controller_ng,fog-sakuracloud,0.0.4,https://github.com/fog/fog-sakuracloud,MIT
+cloud_controller_ng,rspec-expectations,3.1.0,https://github.com/rspec/rspec-expectations,MIT
+cloud_controller_ng,fog-xml,0.0.1,https://github.com/fog/fog-xml,MIT
+cloud_controller_ng,rainbow,1.99.1,https://github.com/sickill/rainbow,MIT

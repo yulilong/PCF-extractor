@@ -56,10 +56,13 @@ module Extractor
        exec_block = WeakRef.new(exec_block)
      end #execution
      
-     
+     def delete_repeat(data = @queue)
+     	
+     end
      
      def execut()
         @queue.each do | task |
+        	
             @pool.process {
                 @licenseList << rubygems(task)
                 sleep 1
