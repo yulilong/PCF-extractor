@@ -1,0 +1,51 @@
+cf-uaa-lib,2.0.1,Apache 2.0,https://rubygems.org/gems/cf-uaa-lib/versions/2.0.1,
+atomic,1.1.15,Apache-2.0,https://rubygems.org/gems/atomic/versions/1.1.15,
+blue-shell,0.3.0,MIT,https://rubygems.org/gems/blue-shell/versions/0.3.0,
+rspec,3.3.0,MIT,https://rubygems.org/gems/rspec,
+cfoundry,4.7.1,Apache 2.0,https://rubygems.org/gems/cfoundry/versions/4.7.1,
+i18n,0.6.4,MIT,https://rubygems.org/gems/i18n/versions/0.6.4,
+activesupport,4.0.3,MIT,https://rubygems.org/gems/activesupport/versions/4.0.3,
+addressable,2.3.5,Apache License 2.0,https://rubygems.org/gems/addressable/versions/2.3.5,
+multi_json,1.7.0,MIT,https://rubygems.org/gems/multi_json/versions/1.7.0,
+multi_json,1.11.2,MIT,https://rubygems.org/gems/multi_json,
+activemodel,4.0.3,MIT,https://rubygems.org/gems/activemodel/versions/4.0.3,
+activesupport,4.0.3,MIT,https://rubygems.org/gems/activesupport/versions/4.0.3,
+addressable,2.2.7,Apache,https://rubygems.org/gems/addressable/versions/2.2.7,https://github.com/sporkmonger/addressable/blob/master/LICENSE.txt
+crack,0.4.2,MIT,https://rubygems.org/gems/crack/versions/0.4.2,
+safe_yaml,1.0.0,MIT,https://rubygems.org/gems/safe_yaml/versions/1.0.0,
+diff-lcs,1.2.5,MIT,https://rubygems.org/gems/diff-lcs/versions/1.2.5,
+json,1.8.0,Ruby,https://rubygems.org/gems/json/versions/1.8.0,
+multi_xml,0.5.2,MIT,https://rubygems.org/gems/multi_xml/versions/0.5.2,
+i18n,0.6.9,MIT,https://rubygems.org/gems/i18n/versions/0.6.9,
+multi_json,1.8.4,MIT,https://rubygems.org/gems/multi_json/versions/1.8.4,
+json,1.8.1,Ruby,https://rubygems.org/gems/json/versions/1.8.1,
+tzinfo,0.3.38,MIT,https://rubygems.org/gems/tzinfo/versions/0.3.38,https://github.com/tzinfo/tzinfo/blob/master/LICENSE
+crack,0.3.2,MIT,https://rubygems.org/gems/crack/versions/0.3.2,https://github.com/jnunemaker/crack/blob/master/LICENSE
+cf-uaa-lib,2.0.0,bsd,https://rubygems.org/gems/cf-uaa-lib/versions/2.0.0,https://github.com/cloudfoundry/cf-uaa-lib/blob/master/LICENSE.TXT
+multi_xml,0.5.5,MIT,https://rubygems.org/gems/multi_xml/versions/0.5.5,
+rspec-core,2.14.0,MIT,https://rubygems.org/gems/rspec-core/versions/2.14.0,
+multipart-post,1.2.0,MIT,https://rubygems.org/gems/multipart-post/versions/1.2.0,
+rspec,2.14.1,MIT,https://rubygems.org/gems/rspec/versions/2.14.1,
+rspec-expectations,2.14.0,MIT,https://rubygems.org/gems/rspec-expectations/versions/2.14.0,
+rspec-expectations,2.14.4,MIT,https://rubygems.org/gems/rspec-expectations/versions/2.14.4,
+rspec-core,2.14.7,MIT,https://rubygems.org/gems/rspec-core/versions/2.14.7,
+rspec-mocks,2.14.0,MIT,https://rubygems.org/gems/rspec-mocks/versions/2.14.0,
+thread_safe,0.1.0,Apache,https://rubygems.org/gems/thread_safe/versions/0.1.0,https://github.com/ruby-concurrency/thread_safe/blob/master/LICENSE
+rspec-mocks,2.14.4,MIT,https://rubygems.org/gems/rspec-mocks/versions/2.14.4,
+safe_yaml,1.0.1,MIT,https://rubygems.org/gems/safe_yaml/versions/1.0.1,
+webmock,1.17.2,MIT,https://rubygems.org/gems/webmock/versions/1.17.2,
+vcr,2.8.0,MIT,https://rubygems.org/gems/vcr/versions/2.8.0,
+rubyzip,1.1.7,BSD 2-Clause,https://rubygems.org/gems/rubyzip,
+multi_json,1.3.0,MIT,https://rubygems.org/gems/multi_json/versions/1.3.0,https://github.com/intridea/multi_json/blob/master/LICENSE.md
+thread_safe,0.2.0,Apache-2.0,https://rubygems.org/gems/thread_safe/versions/0.2.0,
+tzinfo,0.3.37,MIT,https://rubygems.org/gems/tzinfo/versions/0.3.37,https://github.com/tzinfo/tzinfo/blob/master/LICENSE
+diff-lcs,1.1.3,N/A,https://rubygems.org/gems/diff-lcs/versions/1.1.3,Not Found Github Url
+minitest,4.7.5,N/A,https://rubygems.org/gems/minitest/versions/4.7.5,https://github.com/seattlerb/minitest
+multipart-post,1.1.0,N/A,https://rubygems.org/gems/multipart-post/versions/1.1.0,https://github.com/nicksieger/multipart-post
+rubyzip,0.9.9,N/A,https://rubygems.org/gems/rubyzip/versions/0.9.9,https://github.com/rubyzip/rubyzip
+atomic,1.1.7,N/A,https://rubygems.org/gems/atomic/versions/1.1.7,https://github.com/ruby-concurrency/ruby-atomic
+httparty,0.12.0,N/A,https://rubygems.org/gems/httparty/versions/0.12.0,https://jnunemaker.github.com/httpsarty
+minitest,4.2.0,N/A,https://rubygems.org/gems/minitest/versions/4.2.0,https://github.com/seattlerb/minitest
+builder,3.1.4,N/A,https://rubygems.org/gems/builder/versions/3.1.4,https://github.com/jimweirich/builder
+builder,3.1.0,N/A,https://rubygems.org/gems/builder/versions/3.1.0,https://github.com/jimweirich/builder
+activemodel,3.2.13,N/A,https://rubygems.org/gems/activemodel/versions/3.2.13,Not Found Github Url

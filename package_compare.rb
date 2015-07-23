@@ -156,10 +156,10 @@ class Compare_new_old
 end# class end
 
 
-repo_name = "console"
+repo_name = "cf-neo4j"
 #if repo new  than p14=''
-p14 = "PCF-1_4-cf-console.csv"
-p15 = "master-spec-e2e-hello-sinatra-Gemfile.lock?token=AJOcPEQQnTwY9NryOplvm89GSiay3kguks5VtzMAwA%3D%3D.txt"
+p14 = "PCF-1_4-cf-neo4j.csv"
+p15 = "develop-system_test-test_app-Gemfile.lock?token=AJOcPLjP06PjRwNx6M9XwY_E431pv3S1ks5VuJG3wA%3D%3D.txt"
 #folder
 file_final = "./compare"
 

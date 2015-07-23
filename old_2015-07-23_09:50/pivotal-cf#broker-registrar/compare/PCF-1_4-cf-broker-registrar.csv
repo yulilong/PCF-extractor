@@ -1,0 +1,91 @@
+Repo/Source of Dependency,Component Name,1.4 Version,Download URL,License
+cf-broker-registrar,rubyzip,0.9,https://github.com/rubyzip/rubyzip,Ruby License
+cf-broker-registrar,thread_safe,0.2.0,https://github.com/headius/thread_safe,APACHE-2.0
+cf-broker-registrar,multi_xml,0.5.5,https://github.com/sferik/multi_xml,MIT
+cf-broker-registrar,rspec-expectations,2.14.4,https://github.com/rspec/rspec-expectations,MIT
+cf-broker-registrar,addressable,2.3.5,https://github.com/sporkmonger/addressable,APACHE 2.0
+cf-broker-registrar,rspec-mocks,2.14.4,https://github.com/rspec/rspec-mocks,MIT
+cf-broker-registrar,safe_yaml,1.0.0,https://github.com/dtao/safe_yaml,MIT
+cf-broker-registrar,addressable,2.2.7,https://github.com/sporkmonger/addressable,APACHE 2.0
+cf-broker-registrar,diff-lcs,1.1.3,https://github.com/halostatue/diff-lcs,MIT
+cf-broker-registrar,multi_json,1.8.4,https://github.com/intridea/multi_json,MIT
+cf-broker-registrar,multi_json,1.8.4,https://github.com/intridea/multi_json,MIT
+cf-broker-registrar,activemodel,3.2.13,https://rubygems.org/gems/activemodel,MIT
+cf-broker-registrar,tzinfo,0.3.37,https://github.com/tzinfo/tzinfo,MIT
+cf-broker-registrar,diff-lcs,1.2.5,https://github.com/halostatue/diff-lcs,MIT
+cf-broker-registrar,rspec-core,2.14.0,https://github.com/rspec/rspec-core,MIT
+cf-broker-registrar,json,1.8,https://github.com/flori/json,RUBY
+cf-broker-registrar,multi_json,1.8.4,https://github.com/intridea/multi_json,MIT
+cf-broker-registrar,i18n,0.6.4,https://github.com/svenfuchs/i18n,MIT
+cf-broker-registrar,rspec-core,2.14.7,https://github.com/rspec/rspec-core,MIT
+cf-broker-registrar,multi_json,1.10.1,https://github.com/intridea/multi_json,MIT
+cf-broker-registrar,multi_json,1.7,https://github.com/intridea/multi_json,MIT
+cf-broker-registrar,rspec-expectations,2.14.0,https://github.com/rspec/rspec-expectations,MIT
+cf-broker-registrar,diff-lcs,1.1.3,https://github.com/halostatue/diff-lcs,MIT
+cf-broker-registrar,httparty,0.12.0,https://github.com/jnunemaker/httparty,MIT
+cf-broker-registrar,rspec-mocks,2.14.0,https://github.com/rspec/rspec-mocks,MIT
+cf-broker-registrar,activemodel,3.2.13,https://rubygems.org/gems/activemodel,MIT
+cf-broker-registrar,crack,0.4.2,https://github.com/jnunemaker/crack,MIT
+cf-broker-registrar,multi_json,1.7,https://github.com/intridea/multi_json,MIT
+cf-broker-registrar,rspec-expectations,2.14.0,https://github.com/rspec/rspec-expectations,MIT
+cf-broker-registrar,rspec-mocks,2.14.0,https://github.com/rspec/rspec-mocks,MIT
+cf-broker-registrar,minitest,4.7.5,https://github.com/seattlerb/minitest,MIT
+cf-broker-registrar,tzinfo,0.3.38,https://github.com/tzinfo/tzinfo,MIT
+cf-broker-registrar,minitest,4.2,https://github.com/seattlerb/minitest,MIT
+cf-broker-registrar,safe_yaml,1.0.1,https://github.com/dtao/safe_yaml,MIT
+cf-broker-registrar,activemodel,4.0.3,https://rubygems.org/gems/activemodel,MIT
+cf-broker-registrar,webmock,1.17.2,https://github.com/bblimke/webmock,MIT
+cf-broker-registrar,addressable,2.3.5,https://github.com/sporkmonger/addressable,APACHE 2.0
+cf-broker-registrar,json,1.8,https://github.com/flori/json,RUBY
+cf-broker-registrar,multi_json,1.7,https://github.com/intridea/multi_json,MIT
+cf-broker-registrar,thread_safe,0.1,https://github.com/headius/thread_safe,APACHE-2.0
+cf-broker-registrar,vcr,2.8.0,https://github.com/vcr/vcr,MIT
+cf-broker-registrar,json,1.8.1,https://github.com/flori/json,RUBY
+cf-broker-registrar,crack,0.4.2,https://github.com/jnunemaker/crack,MIT
+cf-broker-registrar,multi_json,1.3,https://github.com/intridea/multi_json,MIT
+cf-broker-registrar,multi_xml,0.5.2,https://github.com/sferik/multi_xml,MIT
+cf-broker-registrar,addressable,2.2.7,https://github.com/sporkmonger/addressable,APACHE 2.0
+cf-broker-registrar,diff-lcs,1.2.5,https://github.com/halostatue/diff-lcs,MIT
+cf-broker-registrar,builder,3.1.4,https://github.com/jimweirich/builder,MIT
+cf-broker-registrar,multi_json,1.3,https://github.com/intridea/multi_json,MIT
+cf-broker-registrar,safe_yaml,1.0.0,https://github.com/dtao/safe_yaml,MIT
+cf-broker-registrar,rubyzip,0.9,https://github.com/rubyzip/rubyzip,Ruby License
+cf-broker-registrar,crack,0.3.2,https://github.com/jnunemaker/crack,MIT
+cf-broker-registrar,rspec-core,2.14.0,https://github.com/rspec/rspec-core,MIT
+cf-broker-registrar,builder,3.1.4,https://github.com/jimweirich/builder,MIT
+cf-broker-registrar,multi_xml,0.5.5,https://github.com/sferik/multi_xml,MIT
+cf-broker-registrar,multi_json,1.3,https://github.com/intridea/multi_json,MIT
+cf-broker-registrar,rubyzip,0.9.9,https://github.com/rubyzip/rubyzip,Ruby License
+cf-broker-registrar,json,1.8.1,https://github.com/flori/json,RUBY
+cf-broker-registrar,activesupport,4.0.3,https://github.com/rails/rails/tree/master/activesupport,MIT
+cf-broker-registrar,i18n,0.6.9,https://github.com/svenfuchs/i18n,MIT
+cf-broker-registrar,atomic,1.1.7,https://github.com/headius/ruby-atomic,APACHE-2.0
+cf-broker-registrar,i18n,0.6.4,https://github.com/svenfuchs/i18n,MIT
+cf-broker-registrar,atomic,1.1.7,https://github.com/headius/ruby-atomic,APACHE-2.0
+cf-broker-registrar,thread_safe,0.2.0,https://github.com/headius/thread_safe,APACHE-2.0
+cf-broker-registrar,rspec,3.1.0,https://github.com/rspec/rspec,MIT
+cf-broker-registrar,multi_xml,0.5.2,https://github.com/sferik/multi_xml,MIT
+cf-broker-registrar,tzinfo,0.3.37,https://github.com/tzinfo/tzinfo,MIT
+cf-broker-registrar,rspec,2.14.1,https://github.com/rspec/rspec,MIT
+cf-broker-registrar,builder,3.1.0,https://github.com/jimweirich/builder,MIT
+cf-broker-registrar,multipart-post,1.2.0,https://github.com/nicksieger/multipart-post,MIT
+cf-broker-registrar,thread_safe,0.1,https://github.com/headius/thread_safe,APACHE-2.0
+cf-broker-registrar,minitest,4.2,https://github.com/seattlerb/minitest,MIT
+cf-broker-registrar,crack,0.3.2,https://github.com/jnunemaker/crack,MIT
+cf-broker-registrar,builder,3.1.0,https://github.com/jimweirich/builder,MIT
+cf-broker-registrar,minitest,4.7.5,https://github.com/seattlerb/minitest,MIT
+cf-broker-registrar,multipart-post,1.1,https://github.com/nicksieger/multipart-post,MIT
+cf-broker-registrar,rubyzip,0.9.9,https://github.com/rubyzip/rubyzip,Ruby License
+cf-broker-registrar,atomic,1.1.15,https://github.com/headius/ruby-atomic,APACHE-2.0
+cf-broker-registrar,safe_yaml,1.0.1,https://github.com/dtao/safe_yaml,MIT
+cf-broker-registrar,i18n,0.6.9,https://github.com/svenfuchs/i18n,MIT
+cf-broker-registrar,atomic,1.1.15,https://github.com/headius/ruby-atomic,APACHE-2.0
+cf-broker-registrar,tzinfo,0.3.38,https://github.com/tzinfo/tzinfo,MIT
+cf-broker-registrar,multi_json,1.10.1,https://github.com/intridea/multi_json,MIT
+cf-broker-registrar,rspec-core,2.14.7,https://github.com/rspec/rspec-core,MIT
+cf-broker-registrar,multipart-post,1.2.0,https://github.com/nicksieger/multipart-post,MIT
+cf-broker-registrar,rspec-expectations,2.14.4,https://github.com/rspec/rspec-expectations,MIT
+cf-broker-registrar,multi_json,1.10.1,https://github.com/intridea/multi_json,MIT
+cf-broker-registrar,activemodel,4.0.3,https://rubygems.org/gems/activemodel,MIT
+cf-broker-registrar,rspec-mocks,2.14.4,https://github.com/rspec/rspec-mocks,MIT
+cf-broker-registrar,multipart-post,1.1,https://github.com/nicksieger/multipart-post,MIT

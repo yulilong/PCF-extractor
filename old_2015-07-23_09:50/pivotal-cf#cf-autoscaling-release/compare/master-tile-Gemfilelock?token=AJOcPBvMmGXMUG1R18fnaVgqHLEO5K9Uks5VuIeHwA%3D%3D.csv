@@ -1,0 +1,3 @@
+name,1.5version,1.4version,URL,license,Delta Information,repo_name,PCF1.5_github_url,PCF1.4_url
+open4,1.3.4,1.3.4,https://github.com/ahoward/open4,Ruby License,No change,cf-autoscaling-release,,
+thor,0.19.1,0.19.1,https://github.com/erikhuda/thor,MIT,No change,cf-autoscaling-release,,
