@@ -138,9 +138,10 @@ class Compare_new_old
 					final << "#{name},#{version15},#{version14},#{url},#{license},#{@new},#{@repo_name},#{github15},\n"
 				end
 			end# end for
-			@final_data = final;
+			
 		
 		end# end if
+		@final_data = final;
 		p "compare succeed!"
 	end#compare() end
 	
@@ -156,10 +157,10 @@ class Compare_new_old
 end# class end
 
 
-repo_name = "cf-neo4j"
+repo_name = "p-riak-cs"
 #if repo new  than p14=''
-p14 = "PCF-1_4-cf-neo4j.csv"
-p15 = "develop-system_test-test_app-Gemfile.lock?token=AJOcPLjP06PjRwNx6M9XwY_E431pv3S1ks5VuJG3wA%3D%3D.txt"
+p14 = ''
+p15 = "master-Gemfile.lock?token=AJOcPKmdAilNgYh0_RBZO8vWy6KGR8Niks5Vub6zwA%3D%3D.txt"
 #folder
 file_final = "./compare"
 
